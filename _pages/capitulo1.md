@@ -14,7 +14,7 @@ output:
 ```{r}
 ```
    
-**Gramática** {.tabset}
+**Gramática** {.tabPanel}
 -------------------------------------
 ### Ser
 
