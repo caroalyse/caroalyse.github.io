@@ -2,10 +2,10 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student at Indiana University, where I am also an Associate Instructor of Spanish. I major in Hispanic Linguistics and minor in Computational Linguistics. My main research interests include Phonetics and Phonology, Pragmatics, and Sociolinguistics. More recently, my research has focused on Laboratory Phonology, specially on perception studies.
+En esta página encontrarás el material usado en la clase **HISP S-280** ofrecida por el Departamento de Español y Portugués de Indiana University. Los capítulos y el material correspondiente a cada uno se basa en el libro de texto _El cine documental: Spanish Language and Culture through Documentary Film_, escrito por Tammy Jandrey Hertel y Stasie Harrington (Ed. 2016). 
