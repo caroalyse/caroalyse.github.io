@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Capítulo 1"
+title: "Capítulo 2"
 permalink: /2/
 author_profile: false
 ---
