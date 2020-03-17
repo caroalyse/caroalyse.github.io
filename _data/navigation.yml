@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Capítulo 1"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Capítulo 2"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Capítulo 3"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Capítulo 4"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Capítulo 5"
+    url: /year-archive/
     
-  - title: "CV"
+  - title: "Capítulo 6"
     url: /cv/
     
-  - title: "Research Data"
+  - title: "Capítulo 7"
     url: /researchdata/
     
-  - title: "Class Notes"
+  - title: "Capítulo 8"
     url: /classnotes/
