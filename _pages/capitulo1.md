@@ -2,9 +2,6 @@
 layout: archive
 title: "Capítulo 1"
 permalink: /1/
-toc: TRUE
-    toc_float: TRUE
-    code_folding: hide
 author_profile: false
 ---
 
