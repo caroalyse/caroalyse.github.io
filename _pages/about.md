@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "HISP S-280"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
