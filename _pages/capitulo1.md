@@ -2,24 +2,16 @@
 layout: archive
 title: "Capítulo 1"
 permalink: /1/
-output: 
-  html_document:
-    toc: TRUE
-    toc_float: TRUE
-    code_folding: hide
+sidebar:
+  nav: "foo"
 ---
 
-- [**Unidad 1: _El Medio Ambiente_**](#--unidad-1---el-medio-ambiente---)
-  * [**Gramática** {.tabPanel}](#--gram-tica----tabpanel-)
-    + [Ser](#ser)
-    + [Estar](#estar)
-    
 # **Unidad 1: _El Medio Ambiente_**
 
 ```{r}
 ```
    
-**Gramática** {.tabPanel}
+**Gramática**
 -------------------------------------
 ### Ser
 
