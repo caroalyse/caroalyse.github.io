@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Capítulo 1"
-    url: /1/index.html/
+    url: /files/index.html/
 
   - title: "Capítulo 2"
     url: /2/    
