@@ -11,15 +11,14 @@ Ser/Estar/Haber
 
 Las formas de la conjugación en presente de indicativo son: 
 
-| ser |
-|:---:|
-| soy |
-| eres |
-| es |
-| somos |
-| sois | 
-| son |
-
+```{r}
+soy  
+eres  
+es  
+somos  
+sois  
+son  
+```
 
 Usamos el verbo "ser" para:
 - Identificación, profesión 
