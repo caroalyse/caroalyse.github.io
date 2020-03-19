@@ -25,12 +25,14 @@ foo:
 
 Las formas de la conjugación en presente de indicativo son: 
 
-   soy
-   eres
-   es
-   somos
-   sois
-   son
+| ser |
+|:---:|
+| soy |
+| eres |
+| es |
+| somos |
+| sois | 
+| son |
 
 
 Usamos el verbo "ser" para:
