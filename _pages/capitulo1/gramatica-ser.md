@@ -10,12 +10,12 @@ sidebar:
 Las formas de la conjugación en presente de indicativo son: 
 
 ```{r}
-soy  
-eres  
-es  
-somos  
-sois  
-son  
+yo soy  
+tú eres  
+el/ella/usted es  
+nosotros somos  
+vosotros sois  
+ellos/ellas/ustedes son  
 ```
 
 Usamos el verbo "ser" para:
