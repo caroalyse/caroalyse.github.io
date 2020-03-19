@@ -82,8 +82,14 @@ OnlineTeaching2020:
 capitulo1:
   - title: "Gramática"
     children:
-      - title: "Ser/Estar/Haber"
-        url: /gramatica1/
+      - title: "Ser"
+        url: /gramatica-ser/
+        
+      - title: "Estar"
+        url: /gramatica-estar/
+        
+      - title: "Haber"
+         url: /gramatica-haber/
       
   - title: "Lectura: Juan Darién"
     children:
