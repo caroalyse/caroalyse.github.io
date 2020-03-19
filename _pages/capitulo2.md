@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Capítulo 2"
-permalink: /2/
-author_profile: false
+title: "Capítulo 1"
+permalink: /1/
+sidebar:
+  nav: capitulo2
 ---
 
-
-
+# Los Deportes
