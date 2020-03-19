@@ -33,13 +33,14 @@ Usamos el verbo "ser" para:
 
 Las formas de la conjugación en presente de indicativo son: 
 
-   estoy
-   estás
-   está
-   estamos
-   estáis
-   están
-
+```{r}
+estoy
+estás
+está
+estamos
+estáis
+están
+```
 
 Usamos el verbo "estar" para:
 - La ubicación de objetos, lugares, y personas
@@ -50,19 +51,20 @@ Usamos el verbo "estar" para:
 ### Haber
 
 Las formas de la conjugación en presente de indicativo son: 
-
-   he
-   has
-   ha (impersonal "hay")
-   hemos
-   habéis
-   han
-
+   
+```{r}   
+he
+has
+ha (impersonal "hay")
+hemos
+habéis
+han
+```
 
 Usamos el verbo "haber" para:
-- Conjugación de los verbos perfectos 
+- Conjugación de los verbos perfectos.    
   _Yo he comprado una pizza para cenar._
 
-- El impersonal "hay" (there is/there are) lo usaremos para describir cantidades. 
+- El impersonal "hay" (there is/there are) lo usaremos para describir cantidades.   
   _Hay dos grandes campos de fútbol en Madrid._
 
