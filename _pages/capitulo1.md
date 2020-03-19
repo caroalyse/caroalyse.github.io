@@ -7,9 +7,6 @@ sidebar:
 ---
 
 # **Unidad 1: _El Medio Ambiente_**
-
-```{r}
-```
    
 **Gramática**
 -------------------------------------
