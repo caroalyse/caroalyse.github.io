@@ -2,7 +2,7 @@
 layout: archive
 title: "Capítulo 1"
 permalink: /1/
-sidebar:
+foo:
   - title: "Gramática"
     children:
       - title: "Ser"
