@@ -25,9 +25,10 @@ main:
     url: /8/
 
 capitulo1:
-  - title: "Capítulo 1"
+  - title: "Gramática:"
     children:
-      - title: "**Gramática**: Ser/Estar/Haber"
+      - title: "Ser/Estar/Haber"
         url: /gramatica1/
       
-      - title: "**Lectura**: Juan Darién"
+  - title: "Lectura: Juan Darién"
+
