@@ -42,42 +42,42 @@ OnlineTeaching2020:
         url: /OnlineTeaching04-3/
             
       - title: "Lunes 04/6"
-        url: /
+        url: /OnlineTeaching04-6/
             
       - title: "Miércoles 04/8"
-        url: /
+        url: /OnlineTeaching04-8/
             
       - title: "Viernes 04/10"
-        url: /
+        url: /OnlineTeaching04-10/
             
       - title: "Lunes 04/13"
-        url: /
+        url: /OnlineTeaching04-13/
             
       - title: "Miércoles 04/15"
-        url: /
+        url: /OnlineTeaching04-15/
            
       - title: "Viernes 04/17"
-        url: /
+        url: /OnlineTeaching04-17/
             
       - title: "Lunes 04/20"
-        url: /
+        url: /OnlineTeaching04-20/
             
       - title: "Miércoles 04/22"
-        url: /
+        url: /OnlineTeaching04-22/
             
       - title: "Viernes 04/24"
-        url: /
+        url: /OnlineTeaching04-24/
             
       - title: "Lunes 04/27"
-        url: /
+        url: /OnlineTeaching04-27/
             
       - title: "Miércoles 04/29"
-        url: /
+        url: /OnlineTeaching04-29/
             
   - title: "Mayo"
     children: 
       - title: "Viernes 05/01"
-        url: /
+        url: /OnlineTeaching05-1/
 
 capitulo1:
   - title: "Gramática"
