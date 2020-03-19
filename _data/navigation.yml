@@ -31,4 +31,9 @@ capitulo1:
         url: /gramatica1/
       
   - title: "Lectura: Juan Darién"
+    children:
+      - title: "Preguntas de Comprensión"
+        url: /lectura1.1/
+      - title: "Preguntas de Discusión"
+        url: /lectura1.2/
 
