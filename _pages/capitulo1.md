@@ -3,10 +3,11 @@ layout: archive
 title: "Capítulo 1"
 permalink: /1/
 sidebar:
-  nav: "foo"
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+  - title: "Title"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
 ---
 
 # **Unidad 1: _El Medio Ambiente_**
