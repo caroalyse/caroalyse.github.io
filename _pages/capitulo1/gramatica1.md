@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Gramática: Ser/Estar/Haber"
+title: "Gramática"
 permalink: /gramatica1/
 ---
-
-**Gramática:** Ser/Estar/Haber
+Ser/Estar/Haber
 -------------------------------------
 ### Ser
 
