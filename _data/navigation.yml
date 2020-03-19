@@ -26,6 +26,8 @@ main:
 
 capitulo1:
   - title: "Capítulo 1"
-    - title: "**Gramática**: Ser/Estar/Haber"
-      url: /gramatica1/
-    - title: "**Lectura**: Juan Darién"
+    children:
+      - title: "**Gramática**: Ser/Estar/Haber"
+        url: /gramatica1/
+      
+      - title: "**Lectura**: Juan Darién"
