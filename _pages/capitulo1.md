@@ -4,6 +4,9 @@ title: "Capítulo 1"
 permalink: /1/
 sidebar:
   nav: "foo"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # **Unidad 1: _El Medio Ambiente_**
