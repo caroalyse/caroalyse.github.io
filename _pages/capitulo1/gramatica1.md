@@ -5,9 +5,7 @@ permalink: /gramatica1/
 sidebar:
    nav: capitulo1
 ---
-Ser/Estar/Haber
--------------------------------------
-### Ser
+# Ser
 
 Las formas de la conjugación en presente de indicativo son: 
 
@@ -29,7 +27,7 @@ Usamos el verbo "ser" para:
 - Material	
 - Para formular la voz pasiva (con un participio pasado)
 
-### Estar
+# Estar
 
 Las formas de la conjugación en presente de indicativo son: 
 
@@ -48,7 +46,7 @@ Usamos el verbo "estar" para:
 - Para formular el presente progresivo (con un gerundio)
 
 
-### Haber
+# Haber
 
 Las formas de la conjugación en presente de indicativo son: 
    
