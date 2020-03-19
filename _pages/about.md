@@ -9,5 +9,5 @@ redirect_from:
 toc: true
 ---
 
-En esta web encontrarás el material usado en la clase **HISP S-280** por [Santiago Arróniz](sarroniz.github.io), A.I. del Departamento de Español y Portugués de Indiana University. Los capítulos, así como el material correspondiente a cada uno de ellos, están basados en el libro de texto _El cine documental: Spanish Language and Culture through Documentary Film_, escrito por Tammy Jandrey Hertel y Stasie Harrington (Ed. 2016). 
+En esta web encontrarás el material usado en la clase **HISP S-280** por [Santiago Arróniz](www.sarroniz.com), A.I. del Departamento de Español y Portugués de Indiana University. Los capítulos, así como el material correspondiente a cada uno de ellos, están basados en el libro de texto _El cine documental: Spanish Language and Culture through Documentary Film_, escrito por Tammy Jandrey Hertel y Stasie Harrington (Ed. 2016). 
 
