@@ -2,15 +2,15 @@
 layout: archive
 title: "Capítulo 1"
 permalink: /1/
-foo:
+sidebar:
   - title: "Gramática"
     children:
       - title: "Ser"
-        url: /
+        #url: /
       - title: "Estar"
-        url: /
+        #url: /
       - title: "Haber"
-        url: /
+        #url: /
       
   - title: "Another Title"
     text: "More text here."
