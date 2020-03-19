@@ -27,6 +27,60 @@ main:
   - title: "Capítulo 8"
     url: /8/
 
+OnlineTeaching2020:
+  - title: "Online Teaching 2020"
+    children:
+      - title: "Marzo"
+        children:
+          - title: "Lunes 03/30"
+            url: /
+          
+      - title: "Abril"
+        children:
+          - title: "Miércoles 04/1"
+            url: /
+          
+          - title: "Viernes 04/3"
+            url: /
+            
+          - title: "Lunes 04/6"
+            url: /
+            
+          - title: "Miércoles 04/8"
+            url: /
+            
+          - title: "Viernes 04/10"
+            url: /
+            
+          - title: "Lunes 04/13"
+            url: /
+            
+          - title: "Miércoles 04/15"
+            url: /
+           
+          - title: "Viernes 04/17"
+            url: /
+            
+          - title: "Lunes 04/20"
+            url: /
+            
+          - title: "Miércoles 04/22"
+            url: /
+            
+          - title: "Viernes 04/24"
+            url: /
+            
+          - title: "Lunes 04/27"
+            url: /
+            
+          - title: "Miércoles 04/29"
+            url: /
+            
+      - title: "Mayo"
+        children: 
+          - title: "Viernes 05/01"
+            url: /
+
 capitulo1:
   - title: "Gramática"
     children:
