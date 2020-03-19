@@ -2,6 +2,9 @@
 main:
   - title: "Capítulo 1"
     url: /1/
+    children:
+      - title: "Ser/Estar/Haber"
+        url: /gramatica1/
 
   - title: "Capítulo 2"
     url: /2/    
