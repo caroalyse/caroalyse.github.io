@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Capítulo 1"
-permalink: /1/
+title: "Capítulo 2"
+permalink: /2/
 sidebar:
   nav: capitulo2
 ---
