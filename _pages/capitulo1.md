@@ -4,13 +4,12 @@ title: "Capítulo 1"
 permalink: /1/
 sidebar:
   - title: "Gramática"
-    children:
-      - title: "Ser"
-        #url: /
-      - title: "Estar"
-        #url: /
-      - title: "Haber"
-        #url: /
+    - title: "Ser"
+      #url: /
+    - title: "Estar"
+      #url: /
+    - title: "Haber"
+      #url: /
       
   - title: "Another Title"
     text: "More text here."
