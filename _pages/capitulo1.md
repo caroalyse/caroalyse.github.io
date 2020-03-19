@@ -8,9 +8,9 @@ sidebar:
       - title: "Ser"
         url: /
       - title: "Estar"
-        url:/
+        url: /
       - title: "Haber"
-        url:/
+        url: /
       
   - title: "Another Title"
     text: "More text here."
