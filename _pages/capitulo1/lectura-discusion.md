@@ -1,4 +1,12 @@
-
+---
+layout: archive
+title: "Lectura"
+permalink: /lectura1.2/
+sidebar:
+   nav: capitulo1
+---
+# _Juan Darién_
+-------------------------------------
 ### Preguntas de Discusión
 1. El protagonista del relato es un buen alumno y compañero que sufre la inquina de sus condiscípulos, ¿hasta qué punto un niño/a con estas características es más susceptible de ser víctima del maltrato por parte de sus compañeros?
 
