@@ -2,6 +2,8 @@
 layout: archive
 title: "Gramática"
 permalink: /gramatica1/
+sidebar:
+   nav: capitulo1
 ---
 Ser/Estar/Haber
 -------------------------------------
