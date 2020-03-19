@@ -3,8 +3,15 @@ layout: archive
 title: "Capítulo 1"
 permalink: /1/
 sidebar:
-  - title: "Title"
-    text: "Some text here."
+  - title: "Gramática"
+    children:
+      - title: "Ser"
+        url: /
+      - title: "Estar"
+        url:/
+      - title: "Haber"
+        url:/
+      
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
@@ -18,12 +25,12 @@ sidebar:
 
 Las formas de la conjugación en presente de indicativo son: 
 
-    soy
-    eres
-    es
-    somos
-    sois
-    son
+   soy
+   eres
+   es
+   somos
+   sois
+   son
 
 
 Usamos el verbo "ser" para:
@@ -39,12 +46,12 @@ Usamos el verbo "ser" para:
 
 Las formas de la conjugación en presente de indicativo son: 
 
-    estoy
-    estás
-    está
-    estamos
-    estáis
-    están
+   estoy
+   estás
+   está
+   estamos
+   estáis
+   están
 
 
 Usamos el verbo "estar" para:
