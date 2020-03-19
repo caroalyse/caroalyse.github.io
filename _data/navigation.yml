@@ -38,10 +38,10 @@ OnlineTeaching2020:
       - title: "Abril"
         children:
           - title: "Miércoles 04/1"
-            url: /
+            url: /OnlineTeaching04-1/
           
           - title: "Viernes 04/3"
-            url: /
+            url: /OnlineTeaching04-3/
             
           - title: "Lunes 04/6"
             url: /
