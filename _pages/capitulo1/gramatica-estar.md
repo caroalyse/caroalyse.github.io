@@ -10,12 +10,12 @@ sidebar:
 Las formas de la conjugación en presente de indicativo son: 
 
 ```{r}
-estoy
-estás
-está
-estamos
-estáis
-están
+yo estoy
+tú estás
+el/ella/usted está
+nosotros estamos
+vosotros estáis
+ellos/ellas/ustedes están
 ```
 
 Usamos el verbo "estar" para:
