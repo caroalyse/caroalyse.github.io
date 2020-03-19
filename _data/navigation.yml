@@ -25,7 +25,7 @@ main:
     url: /8/
 
 capitulo1:
-  - title: "Gramática:"
+  - title: "Gramática"
     children:
       - title: "Ser/Estar/Haber"
         url: /gramatica1/
@@ -37,3 +37,14 @@ capitulo1:
       - title: "Preguntas de Discusión"
         url: /lectura1.2/
 
+capitulo2:
+  - title: "Gramática"
+    children:
+      - title: "Pretérito"
+        url: /
+      - title: "Imperfecto"
+        url: /
+      - title: "Pretérito vs. Imperfecto"
+        url: /
+  - title: "Práctica"
+    url: /
