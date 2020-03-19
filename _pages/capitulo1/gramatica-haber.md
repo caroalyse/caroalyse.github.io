@@ -10,12 +10,12 @@ sidebar:
 Las formas de la conjugación en presente de indicativo son: 
    
 ```{r}   
-he
-has
-ha (impersonal "hay")
-hemos
-habéis
-han
+yo he
+tú has
+el/ella/usted ha (impersonal "hay")
+nosotros hemos
+vosotros habéis
+ellos/ellas/ustedes han
 ```
 
 Usamos el verbo "haber" para:
