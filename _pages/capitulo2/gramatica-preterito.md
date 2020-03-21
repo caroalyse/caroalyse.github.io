@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gramática"
-permalink: /gramatica-pretérito/
+permalink: /gramatica-preterito/
 sidebar:
    nav: capitulo2
 ---
