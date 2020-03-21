@@ -12,12 +12,11 @@ sidebar:
 Querida mamá:  
 ¡Me gusta Sevilla más que nunca! Anoche yo (1)__________ (leer) Don Quixote cuando mi amigo Luis me (2)___________ (llamar). Él me (3)_____________ (decir) que (4)____________(tener) una sorpresa para mí y que me recogería (would pick me up) en diez minutos. Cuando (5)____________ (salir) del piso (apartment) vi que (6)___________ (ser) una noche perfecta con buena temperatura, una brisa deliciosa y un cielo estrellado. (7)____________ (ser) las once y media cuando Luis (8)__________ (llegar). Inmediatemente nosotros (9)____________ (empezar) a caminar a un lugar secreto (por lo menos para mí). (10)_____________ (andar) por casi media hora y por fin (11)___________ (encontrarse) en un lugar con mucha gente y fue muy emocionante.
 
-<head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
+
 
 <div class="container">
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Respuestas</button>
