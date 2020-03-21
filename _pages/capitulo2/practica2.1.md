@@ -5,7 +5,7 @@ permalink: /practica2.1/
 sidebar:
    nav: capitulo2
 ---
-# Pretérito vs. Imperfecto
+### Pretérito vs. Imperfecto
 
 **Para cada oración decide la forma correcta para el verbo en pretérito o en imperfecto.**
 
