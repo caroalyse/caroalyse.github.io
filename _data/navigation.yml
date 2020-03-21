@@ -102,10 +102,10 @@ capitulo2:
   - title: "Gramática"
     children:
       - title: "Pretérito"
-        url: /
+        url: /gramatica-preterito/
       - title: "Imperfecto"
-        url: /
+        url: /gramatica-imperfecto/
       - title: "Pretérito vs. Imperfecto"
-        url: /
+        url: /gramatica-pretvsimperf/
   - title: "Práctica"
-    url: /
+    url: /practica2.1/
