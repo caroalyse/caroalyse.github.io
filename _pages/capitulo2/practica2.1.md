@@ -27,4 +27,10 @@ Querida mamá:
   </div>
 </div>
 
-
+<details>
+  <summary>Respuestas</summary>
+   
+  1. A numbered
+  2. list
+  3. otro
+</details>
