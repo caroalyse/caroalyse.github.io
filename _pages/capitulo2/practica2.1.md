@@ -12,8 +12,6 @@ sidebar:
 Querida mamá:  
 ¡Me gusta Sevilla más que nunca! Anoche yo (1)__________ (leer) Don Quixote cuando mi amigo Luis me (2)___________ (llamar). Él me (3)_____________ (decir) que (4)____________(tener) una sorpresa para mí y que me recogería (would pick me up) en diez minutos. Cuando (5)____________ (salir) del piso (apartment) vi que (6)___________ (ser) una noche perfecta con buena temperatura, una brisa deliciosa y un cielo estrellado. (7)____________ (ser) las once y media cuando Luis (8)__________ (llegar). Inmediatemente nosotros (9)____________ (empezar) a caminar a un lugar secreto (por lo menos para mí). (10)_____________ (andar) por casi media hora y por fin (11)___________ (encontrarse) en un lugar con mucha gente y fue muy emocionante.
 
-<button class="btn Respuesta">Respuesta</button> 
-
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,9 +22,7 @@ Querida mamá:
 <body>
 
 <div class="container">
-  <h2>Simple Collapsible</h2>
-  <p>Click on the button to toggle between showing and hiding content.</p>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Respuestas</button>
   <div id="demo" class="collapse">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -36,6 +32,3 @@ Querida mamá:
 
 </body>
 </html>
-
-
-
