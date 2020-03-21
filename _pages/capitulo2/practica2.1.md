@@ -30,7 +30,7 @@ Querida mamá:
 <details>
   <summary>Respuestas</summary>
    
-  1. A numbered
-  2. list
-  3. otro
+  1. A numbered.  
+  2. list.  
+  3. otro.  
 </details>
