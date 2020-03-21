@@ -15,7 +15,6 @@ Querida mamá:
 [Respuesta](Hola){: .btn}
 
 <button onclick="myFunction()">Click Me</button>
-
 <div id="myDIV">
   This is my DIV element.
 </div>
