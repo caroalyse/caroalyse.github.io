@@ -18,7 +18,6 @@ Querida mamá:
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-<body>
 
 <div class="container">
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Respuestas</button>
@@ -29,11 +28,4 @@ Querida mamá:
   </div>
 </div>
 
-</body>
 
-
-<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
-</div>
