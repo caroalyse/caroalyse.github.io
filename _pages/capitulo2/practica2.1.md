@@ -14,9 +14,17 @@ Querida mamá:
 
 <details>
   <summary>"Respuestas"</summary>
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets      
+   
+   1. leía
+   2. llamó
+   3. dijo
+   4. tenía
+   5. salí
+   6. era
+   7. Eran
+   8. llegó
+   9. empezamos
+   10. anduvimos
+   11. nos encontramos     
 </details>
+
