@@ -10,7 +10,8 @@ sidebar:
 **Para cada oración decide la forma correcta para el verbo en pretérito o en imperfecto.**
 
 Querida mamá:  
-¡Me gusta Sevilla más que nunca! Anoche yo (1)__________ (leer) Don Quixote cuando mi amigo Luis me (2)___________ (llamar). Él me (3)_____________ (decir) que (4)____________(tener) una sorpresa para mí y que me recogería (would pick me up) en diez minutos. Cuando (5)____________ (salir) del piso (apartment) vi que (6)___________ (ser) una noche perfecta con buena temperatura, una brisa deliciosa y un cielo estrellado. (7)____________ (ser) las once y media cuando Luis (8)__________ (llegar). Inmediatemente nosotros (9)____________ (empezar) a caminar a un lugar secreto (por lo menos para mí). (10)_____________ (andar) por casi media hora y por fin (11)___________ (encontrarse) en un lugar con mucha gente y fue muy emocionante.
+¡Me gusta Sevilla más que nunca! Anoche yo (1)____________ (leer) Don Quixote cuando mi amigo Luis me (2)____________ (llamar). Él me (3)____________ (decir) que (4)____________(tener) una sorpresa para mí y que me recogería (would pick me up) en diez minutos. Cuando (5)____________ (salir) del piso (apartment) vi que (6)____________ (ser) una noche perfecta con buena temperatura, una brisa deliciosa y un cielo estrellado. (7)____________ (ser) las once y media cuando Luis (8)____________ (llegar). Inmediatemente nosotros (9)____________ (empezar) a caminar a un lugar secreto (por lo menos para mí). (10)____________ (andar) por casi media hora y por fin (11)____________ (encontrarse) en un lugar con mucha gente y fue muy emocionante.
+
 
 <details>
   <summary>"Respuestas"</summary>
