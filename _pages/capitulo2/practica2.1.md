@@ -14,7 +14,9 @@ Querida mamá:
 
 <details>
   <summary>"Respuestas"</summary>
-  A numbered.   
-  list.  
-  otro.  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets      
 </details>
