@@ -17,10 +17,9 @@ Querida mamá:
 class="and">Take your finger out of your ear and listen to me</p>
 </div>
 
-
+<html>
+<body>
 <div id="myDIV">This is a div element.</div>
-
-<p>Click the button to get the content of the div element.</p>
 
 <button onclick="myFunction()">Try it</button>
 
@@ -32,3 +31,5 @@ function myFunction() {
   document.getElementById("demo").innerHTML = x;
 }
 </script>
+</body>
+</html>
