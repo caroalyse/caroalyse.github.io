@@ -14,16 +14,7 @@ Querida mamá:
 
 <button class="btn respuesta">Respuesta</button> 
 
-class="and">Take your finger out of your ear and listen to me</p>
-</div>
-
-<html>
-<body>
-<div id="myDIV">This is a div element.</div>
-
-<button onclick="myFunction()">Try it</button>
-
-<p id="demo"></p>
+<div id="respuesta">This is a div element.</div>
 
 <script>
 function myFunction() {
