@@ -15,7 +15,7 @@ Querida mamá:
 
 <details>
   <summary>"Respuestas"</summary>
-   
+  
     1. leía
     2. llamó  
     3. dijo  
@@ -27,7 +27,5 @@ Querida mamá:
     9. empezamos  
     10. anduvimos  
     11. nos encontramos   
-   
-   
 </details>
 
