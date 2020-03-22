@@ -16,9 +16,9 @@ Querida mamá:
 <details>
   <summary>"Respuestas"</summary>
    
-  1. leía  
-  2. llamó  
-  3. dijo  
+  * leía  
+  * llamó  
+  * dijo  
   4. tenía  
   5. salí  
   6. era  
