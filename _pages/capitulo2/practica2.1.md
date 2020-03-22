@@ -27,5 +27,7 @@ Querida mamá:
    9. empezamos  
    10. anduvimos  
    11. nos encontramos   
+   
+   
 </details>
 
