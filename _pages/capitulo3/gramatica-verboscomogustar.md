@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gramática"
-permalink: /gramatica-futuro/
+permalink: /gramatica-verboscomogustar/
 sidebar:
    nav: capitulo3
 ---

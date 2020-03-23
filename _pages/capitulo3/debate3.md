@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Gramática"
-permalink: /gramatica-futuro/
+title: "Debate"
+permalink: /debate3/
 sidebar:
    nav: capitulo3
 ---

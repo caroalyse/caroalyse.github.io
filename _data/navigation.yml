@@ -2,28 +2,28 @@
 main:
   - title: "Online Teaching 2020"
     url: /OnlineTeachingMain/
-    
+
   - title: "Capítulo 1"
     url: /1/
 
   - title: "Capítulo 2"
-    url: /2/    
+    url: /2/
 
   - title: "Capítulo 3"
-    url: /3/    
-    
+    url: /3/
+
   - title: "Capítulo 4"
     url: /4/
-        
+
   - title: "Capítulo 5"
     url: /5/
-    
+
   - title: "Capítulo 6"
     url: /6/
-    
+
   - title: "Capítulo 7"
     url: /7/
-    
+
   - title: "Capítulo 8"
     url: /8/
 
@@ -32,50 +32,50 @@ OnlineTeaching2020:
     children:
       - title: "Lunes 03/30"
         url: /OnlineTeaching03-30/
-          
+
   - title: "Abril"
     children:
       - title: "Miércoles 04/1"
         url: /OnlineTeaching04-1/
-          
+
       - title: "Viernes 04/3"
         url: /OnlineTeaching04-3/
-            
+
       - title: "Lunes 04/6"
         url: /OnlineTeaching04-6/
-            
+
       - title: "Miércoles 04/8"
         url: /OnlineTeaching04-8/
-            
+
       - title: "Viernes 04/10"
         url: /OnlineTeaching04-10/
-            
+
       - title: "Lunes 04/13"
         url: /OnlineTeaching04-13/
-            
+
       - title: "Miércoles 04/15"
         url: /OnlineTeaching04-15/
-           
+
       - title: "Viernes 04/17"
         url: /OnlineTeaching04-17/
-            
+
       - title: "Lunes 04/20"
         url: /OnlineTeaching04-20/
-            
+
       - title: "Miércoles 04/22"
         url: /OnlineTeaching04-22/
-            
+
       - title: "Viernes 04/24"
         url: /OnlineTeaching04-24/
-            
+
       - title: "Lunes 04/27"
         url: /OnlineTeaching04-27/
-            
+
       - title: "Miércoles 04/29"
         url: /OnlineTeaching04-29/
-            
+
   - title: "Mayo"
-    children: 
+    children:
       - title: "Viernes 05/01"
         url: /OnlineTeaching05-1/
 
@@ -84,13 +84,13 @@ capitulo1:
     children:
       - title: "Ser"
         url: /gramatica-ser/
-        
+
       - title: "Estar"
         url: /gramatica-estar/
-        
+
       - title: "Haber"
         url: /gramatica-haber/
-      
+
   - title: "Lectura: Juan Darién"
     children:
       - title: "Preguntas de Comprensión"
@@ -109,3 +109,48 @@ capitulo2:
         url: /gramatica-pretvsimperf/
   - title: "Práctica"
     url: /practica2.1/
+
+capitulo3:
+  - title: "Gramática"
+    children:
+      - title: "Futuro"
+        url: /gramatica-futuro/
+      - title: "Condicional"
+        url: /gramatica-condicional/
+      - title: "Verbos como Gustar"
+        url: /gramatica-verboscomogustar/
+  - title: "Práctica"
+    url: /practica3.1/
+  - title: "Debate"
+    url: /debate3/
+
+capitulo4:
+  - title: "Gramática"
+    children:
+      - title: "Subjuntivo"
+        url: /gramatica-subjuntivo/
+      - title: "Cláusulas Nominales"
+        url: /gramatica-clausulasnominales/
+      - title: "Mandatos"
+        url: /gramatica-mandatos/
+  - title: "Práctica"
+    url: /practica4.1/
+  - title: "Lectura"
+    url: /debate3/
+    children:
+      - title: "Antes de leer"
+        url: /lectura4.1/
+      - title: "Preguntas de comprensión"
+        url: /lectura4.2/
+
+capitulo4:
+  - title: "Gramática"
+    children:
+      - title: "Por y Para"
+        url: /porpara/
+      - title: "Cláusulas Adjetivales"
+        url: /gramatica-clausulasadjetivales/
+      - title: "Cláusulas Adverbiales"
+        url: /gramatica-clausulasadverbiales/
+  - title: "Práctica"
+    url: /
