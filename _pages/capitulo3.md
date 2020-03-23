@@ -2,7 +2,9 @@
 layout: archive
 title: "Capítulo 3"
 permalink: /3/
-author_profile: false
+sidebar:
+  nav: capitulo3
 ---
 
+# La Globalización
 
