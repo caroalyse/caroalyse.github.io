@@ -6,5 +6,16 @@ sidebar:
   nav: capitulo3
 ---
 
-# La Globalización
+# _La Globalización_
 
+%
+
+
+## El chiste:
+
+
+
+## El trabalenguas:
+
+
+## El meme:

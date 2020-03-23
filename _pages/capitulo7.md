@@ -2,7 +2,19 @@
 layout: archive
 title: "Capítulo 7"
 permalink: /7/
-author_profile: false
+sidebar:
+  nav: capitulo7
 ---
 
+# _La Guerra y La Paz_
 
+%
+
+
+## El chiste:
+
+
+## El trabalenguas:
+
+
+## El meme: 
