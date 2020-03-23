@@ -21,10 +21,10 @@ _\- ¿Ha visto a mi hija? Es que se ha perdido...
 
 ## El trabalenguas:
 
-_El perro de San Roque no tiene rabo
-porque Ramón Ramírez se lo ha robado.
-Y al perro de Ramón Ramírez
-¿quién el rabo le ha robado?_
+_El perro de San Roque no tiene rabo  
+porque Ramón Ramírez se lo ha robado.  
+Y al perro de Ramón Ramírez  
+¿quién el rabo le ha robado?_  
 
 
 ## El refrán:

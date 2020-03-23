@@ -22,6 +22,9 @@ _\- ¿Cómo se dice ‘ojos’ en inglés?
 
 ## El trabalenguas:
 
-_El cielo está enladrillado ¿quién lo desenladrillará? El desenladrillador que lo desenladrillare, buen desenladrillador será._
+_El cielo está enladrillado   
+¿quién lo desenladrillará?   
+El desenladrillador que lo desenladrillare,   
+buen desenladrillador será._  
 
 ## El refrán:

@@ -18,7 +18,10 @@ _Cuando mi abuela tenía 60 años el médico le recomendó que anduviera 5 kiló
 
 ## El trabalenguas:
 
-_Cuando cuentes cuentos, cuenta cuántos cuentos cuentas, porque si no cuentas cuántos cuentos cuentas, nunca sabrás cuántos cuentos cuentas tú._
+_Cuando cuentes cuentos,   
+cuenta cuántos cuentos cuentas,   
+porque si no cuentas cuántos cuentos cuentas,   
+nunca sabrás cuántos cuentos cuentas tú._    
 
 
 ## El refrán:

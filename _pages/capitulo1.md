@@ -22,10 +22,10 @@ Y el otro le contesta:
 
 ## El trabalenguas:
 
-_Mariana Magaña
-desenmarañará mañana
-la maraña que enmarañara
-Mariana Mañara._
+_Mariana Magaña  
+desenmarañará mañana  
+la maraña que enmarañara  
+Mariana Mañara._  
 
 
 ## El refrán:

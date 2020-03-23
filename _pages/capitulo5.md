@@ -26,12 +26,12 @@ _En una entrevista de trabajo:
 
 ## El trabalenguas:
 
-_María Chuchena su choza techaba,
-y un techador que por allá pasaba,
-le dijo:
-\- Chuchena,
-¿tú techas tu choza,
-o techas la ajena?_
+_María Chuchena su choza techaba,  
+y un techador que por allá pasaba,  
+le dijo:  
+\- Chuchena,  
+¿tú techas tu choza,  
+o techas la ajena?_  
 
 
 ## El refrán:

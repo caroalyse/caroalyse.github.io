@@ -20,10 +20,10 @@ _\- Cariño, ¿dónde están los niños?
 
 ## El trabalenguas:
 
-_Había una caracatrepa
-con tres caracatrepitos.
-Cuando la caracatrepa trepa,
-trepan los tres caracatrepitos._
+_Había una caracatrepa  
+con tres caracatrepitos.  
+Cuando la caracatrepa trepa,  
+trepan los tres caracatrepitos._  
 
 
 ## El refrán:

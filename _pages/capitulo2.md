@@ -20,8 +20,10 @@ _\- Soy una persona muy saludable.
 
 ## El trabalenguas:
 
-_El perro en el barro, rabiando rabea: su rabo se embarra
-cuando el barro barre, y el barro a arrobas le arrebosa el rabo._
+_El perro en el barro, rabiando rabea:  
+su rabo se embarra  
+cuando el barro barre,   
+y el barro a arrobas le arrebosa el rabo._    
 
 
 ## El refrán:

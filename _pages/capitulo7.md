@@ -21,7 +21,10 @@ _\- ¡Soldado Miralles!
 
 ## El trabalenguas:
 
-_Tres tristes tigres tragaban trigo en tres tristes trastos sentados tras un trigal. Sentados tras un trigal, en tres tristes trastos tragaban trigo tres tristes tigres._
+_Tres tristes tigres tragaban trigo   
+en tres tristes trastos sentados tras un trigal.   
+Sentados tras un trigal, en tres tristes trastos   
+tragaban trigo tres tristes tigres._    
 
 
 ## El refrán:
