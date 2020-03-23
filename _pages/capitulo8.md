@@ -13,8 +13,15 @@ sidebar:
 
 ## El chiste:
 
+_\- ¿Cómo se dice ‘ojos’ en inglés?  
+\- Eyes.  
+\- ¡Que no! Ice es hielo.  
+\- ¡No, yellow es amarillo!  
+\- Ahh._  
+
 
 ## El trabalenguas:
 
+_El cielo está enladrillado ¿quién lo desenladrillará? El desenladrillador que lo desenladrillare, buen desenladrillador será._
 
-## El meme:
+## El refrán:

@@ -13,8 +13,19 @@ En este capítulo, veremos vocabulario relacionado al medio ambiente, repasaremo
 
 ## El chiste:
 
+_\Un pez le dice al otro:   
+\- ¿Qué hace tu papá?   
+Y el otro le contesta:   
+\- NADA. ¿Y el tuyo?   
+\- NADA también_   
+
 
 ## El trabalenguas:
 
+_Mariana Magaña
+desenmarañará mañana
+la maraña que enmarañara
+Mariana Mañara._
 
-## El meme:
+
+## El refrán:

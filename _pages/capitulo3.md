@@ -13,9 +13,17 @@ sidebar:
 
 ## El chiste:
 
+_\- Cariño, ¿dónde están los niños?   
+\- En inglés.   
+\- Buf! Where are the kids?_   
 
 
 ## El trabalenguas:
 
+_Había una caracatrepa
+con tres caracatrepitos.
+Cuando la caracatrepa trepa,
+trepan los tres caracatrepitos._
 
-## El meme:
+
+## El refrán:

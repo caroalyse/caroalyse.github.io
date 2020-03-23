@@ -13,17 +13,15 @@ sidebar:
 
 ## El chiste:
 
-_En una entrvista de trabajo:
+_\- Soy una persona muy saludable.   
+\- ¿Haces mucho deporte y comes sano?   
+\- No. Es que la gente me saluda por la calle y yo... pues les devuelvo el saludo._   
 
-\- ¿Nivel de inglés?  
-\- Alto  
-\- Bien, traduzca "fiesta".  
-\- Party  
-\- Perfecto. Úselo en una frase.  
-\- Ayer me **partí** la cara con la bicicleta.  
-\- Contratado._  
 
 ## El trabalenguas:
 
+_El perro en el barro, rabiando rabea: su rabo se embarra
+cuando el barro barre, y el barro a arrobas le arrebosa el rabo._
 
-## El meme:
+
+## El refrán:
