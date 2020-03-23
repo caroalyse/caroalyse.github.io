@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Gramática"
-permalink: /gramatica-futuro/
+title: "Lectura"
+permalink: /lectura4.1/
 sidebar:
-   nav: capitulo3
+   nav: capitulo4
 ---

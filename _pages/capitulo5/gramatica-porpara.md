@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Gramática"
-permalink: /gramatica-futuro/
+permalink: /gramatica-porpara/
 sidebar:
-   nav: capitulo3
+   nav: capitulo5
 ---

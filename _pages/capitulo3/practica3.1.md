@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Gramática"
+title: "Práctica"
 permalink: /practica3.1/
 sidebar:
    nav: capitulo3
