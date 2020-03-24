@@ -14,22 +14,20 @@ sidebar:
 <details>
   <summary>Respuesta</summary>
   les preocupa
+<details>
 
-<!-- tsk -->
 
 2. Laura me dijo que a ella no _____  _____________ (importar) el derroche, y yo no estoy de acuerdo.
 <details>
   <summary>Respuesta</summary>
   le importa  
 
-<!-- tsk -->
 
 3. A esta marca _____  _____________ (interesar) el valor de su empresa.
 <details>
   <summary>Respuesta</summary>
   le interesa
 
-<!-- tsk -->
 
 4. A los clientes de esta confitería _____  _____________ (fascinar) las recetas que preparan.
 <details>
