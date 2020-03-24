@@ -10,7 +10,8 @@ sidebar:
 
 **Para cada oración decide la forma correcta del pronombre y del verbo en presente de indicativo.**
 
-1. (A ellos) _____  _____________ (preocupar) el tratado de libre comercio.  
+1. (A ellos) _____  _____________ (preocupar) el tratado de libre comercio.
+
 <details>
   <summary>Respuesta</summary>
   les preocupa  
@@ -18,6 +19,7 @@ sidebar:
 
 
 2. Laura me dijo que a ella no _____  _____________ (importar) el derroche, y yo no estoy de acuerdo.
+
 <details>
   <summary>Respuesta</summary>
   le importa  
