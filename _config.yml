@@ -84,7 +84,7 @@ author:
   avatar           : "Foto Santi 1 copia.jpeg"
   bio              : "Ph.D. Student at Indiana University."
   location         : "Bloomington, Indiana"
-  employer         : 
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -154,7 +154,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
