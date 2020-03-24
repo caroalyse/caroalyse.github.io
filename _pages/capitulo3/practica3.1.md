@@ -34,8 +34,9 @@ sidebar:
   les fascinan  
   <details>
 
-5. A nadie _____  _____________ (gustar) el condimento que usa este cocinero.
 
+5. A nadie _____  _____________ (gustar) el condimento que usa este cocinero.
+<details>
   <summary>Respuesta</summary>
   le gusta  
 
@@ -45,22 +46,28 @@ sidebar:
   <summary>Respuesta</summary>
   te molesta  
 
+
 7. Quería escribir un poema, pero siento que hoy (a mi) _____  _____________ (faltar) inspiración.
 <details>
   <summary>Respuesta</summary>
   me falta  
+
 
 8. (A mi) _____  _____________ (parecer) que Juan y Daniela están coqueteando.
 <details>
   <summary>Respuesta</summary>
   me parece  
 
+
 9. Creo que (a ti) _____  _____________ (interesar) la subcontratación, ¿verdad?
 <details>
   <summary>Respuesta</summary>
   te interesa  
 
+
 10. A esta empresa _____  _____________ (faltar) más bienes raíces para consolidarse y ganar algún premio.
 <details>
   <summary>Respuesta</summary>
   le faltan  
+
+    
