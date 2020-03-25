@@ -6,3 +6,7 @@ sidebar:
    nav: OnlineTeaching2020
 ---
 
+```
+ANUNCIOS:
+Esto es una prueba.
+```
