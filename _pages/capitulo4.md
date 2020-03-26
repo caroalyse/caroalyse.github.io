@@ -36,6 +36,7 @@ _Más vale tarde que nunca._
 
 _Quedarse de piedra. (To be stunned)_
 
-<a href="images/meme-subjuntivo.jpg"><img src="images/meme-subjuntivo.jpg"></a>
-<figcaption>Caption describing this image.</figcaption>
+<figure class="third">
+    <a href="images/meme-subjuntivo.jpg"><img src="images/meme-subjuntivo.jpg"></a>
+    <figcaption>Caption describing this image.</figcaption>
 </figure>
