@@ -13,6 +13,11 @@ sidebar:
 
 ## El chiste:
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
+    <figcaption>Caption describing this image.</figcaption>
+</figure>
+
 _\- ¿Ha visto a mi hija? Es que se ha perdido...  
 \- ¿Cómo se llama?  
 \- Esperanza   
