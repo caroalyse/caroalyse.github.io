@@ -29,7 +29,7 @@ Y al perro de Ramón Ramírez
 
 ## El refrán:
 
-_Más vale tarde que nunca._
+_Más vale tarde que nunca._
 
 
 ## La frase hecha (idiom)
@@ -37,6 +37,6 @@ _Más vale tarde que nunca._
 _Quedarse de piedra. (To be stunned)_
 
 <figure class="third">
-    <a href="images/foo-bar-identity.jpg"><img src="images/foo-bar-identity.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
     <figcaption>Caption describing this image.</figcaption>
 </figure>
