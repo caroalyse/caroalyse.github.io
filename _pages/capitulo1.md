@@ -10,6 +10,10 @@ sidebar:
 
 En este capítulo, veremos vocabulario relacionado al medio ambiente, repasaremos los verbos _ser, estar_ y _haber_, y leeremos y comentaremos una historia de Horacio Quiroga: _Juan Darién_.
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-serestar.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-serestar.jpg"></a>
+    <figcaption>Taken from: https://aprendamoses.wordpress.com</figcaption>
+</figure>
 
 ## El chiste:
 
