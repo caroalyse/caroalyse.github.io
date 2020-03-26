@@ -10,6 +10,10 @@ sidebar:
 
 %
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-preteritoimperfecto.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-preteritoimperfecto.jpg"></a>
+    <figcaption>Taken from: https://aprendamoses.wordpress.com</figcaption>
+</figure>
 
 ## El chiste:
 
