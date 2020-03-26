@@ -14,7 +14,6 @@ sidebar:
 ## El chiste:
 
 _En una entrevista de trabajo:  
-
 \- ¿Nivel de inglés?  
 \- Alto    
 \- Bien, traduzca "fiesta".  
