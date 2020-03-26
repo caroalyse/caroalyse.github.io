@@ -13,7 +13,7 @@ sidebar:
 
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
-    <figcaption>Taken from: https://aprendamoses.wordpress.com/2018/09/09/memes-para-la-clase-de-espanol/</figcaption>
+    <figcaption>Taken from: https://aprendamoses.wordpress.com</figcaption>
 </figure>
 
 ## El chiste:
