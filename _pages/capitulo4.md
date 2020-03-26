@@ -11,12 +11,12 @@ sidebar:
 %
 
 
-## El chiste:
-
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
-    <figcaption>Caption describing this image.</figcaption>
+    <figcaption>Taken from: https://aprendamoses.wordpress.com/2018/09/09/memes-para-la-clase-de-espanol/</figcaption>
 </figure>
+
+## El chiste:
 
 _\- ¿Ha visto a mi hija? Es que se ha perdido...  
 \- ¿Cómo se llama?  
@@ -40,8 +40,3 @@ _Más vale tarde que nunca._
 ## La frase hecha (idiom)
 
 _Quedarse de piedra. (To be stunned)_
-
-<figure class="third">
-    <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
-    <figcaption>Caption describing this image.</figcaption>
-</figure>
