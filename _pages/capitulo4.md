@@ -35,3 +35,8 @@ _Más vale tarde que nunca._
 ## La frase hecha (idiom)
 
 _Quedarse de piedra. (To be stunned)_
+
+<figure class="half">
+    <a href="/assets/images/meme-subjuntivo.jpg"><img src="/assets/images/meme-subjuntivo.jpg"></a>
+    <figcaption>Caption describing this image.</figcaption>
+</figure>
