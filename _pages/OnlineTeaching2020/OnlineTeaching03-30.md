@@ -5,3 +5,29 @@ permalink: /OnlineTeaching03-30/
 sidebar:
    nav: OnlineTeaching2020
 ---
+
+> **ANUNCIOS:**  
+> EL Examen 2 se abrirá el próximo miércoles, 1 de abril, y estará disponible para tomarlo hasta el sábado 4 de abril a las 11:59 PM. Podéis empezarlo cuando queráis dentro de este plazo, pero sólo tendréis 75 minutos para completarlo. Sugiero que lo hagan durante la hora de clase del miércoles.
+> Durante el examen, está prohibido usar el material del libro de texto, notas o cualquier otra fuente que contenga información relativa al examen. Está totalmente prohibido el uso de diccionarios y traductores online de cualquier tipo.
+
+
+> **PLAN PARA HOY:**
+> 1. Repasar para el Examen 2.
+
+# Repaso para el Examen 2.
+
+## Contenido del examen:
+- Indicativo vs. Subjuntivo en cláusulas nominales
+- Indicativo vs. Subjuntivo en cláusulas adjetivales y adverrbiales.
+- Por vs. Para
+- _El delantal blanco_, _Los extranjeros_, y los poemas _Los pobres_ y _Los nadies_.
+- Documental _¿Cuál es el camino a casa?_, las narraciones de los emigrantes africanos Silla Diawara y Rebeca Fontcha, _Aisha_, y el corto _Nana_.
+
+## Formato del examen:
+- Habrá preguntas para escribir frases completas usando subjuntivo vs. indicativo, preguntas para rellenar los huecos, y preguntas de desarrollo de ideas.
+
+## REPASO:
+
+Ve al siguiente link y completa el cuestionario. Puedes usar tus notas y el libro de texto para ayudarte.
+
+https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7

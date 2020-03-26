@@ -5,3 +5,17 @@ permalink: /OnlineTeaching04-3/
 sidebar:
    nav: OnlineTeaching2020
 ---
+
+> **ANUNCIOS:**  
+> A partir de hoy, vamos a usar un blog personal online para evaluar la participación. Para crear nuestro blog, vamos a seguir estas instrucciones:
+> 1. Abrimos este link: https://sdnotes.com/ (Esta web crea automáticamente un blog personal para cada uno, por lo que cada estudiante tendrá su propio código).
+> 2. Copiamos el nuevo link que ha creado la web, que tendrá este formato: https://sdnotes.com/xxxxxx (las "x" serán caracteres diferentes para cada uno).
+> 3. Abrimos este link y completamos el formulario: https://iu.co1.qualtrics.com/jfe/form/SV_elzbmVfVwSSffRH
+> 4. Guardamos en un lugar seguro el link para no perderlo y usarlo en las próximas semanas.
+> 5. Creamos nuestro primer post, en el que tendremos que escribir sólo nuestras iniciales (por ejemplo, S.A.)
+> 6. Tendremos que publicar un post diario cada día para tener una buena nota de participación. Cada día os diré sobre qué tema tenéis que escribir.
+> Puesto que esto es un sitio web público, NO incluyas información privada. Este espacio está pensado para que podamos expresarnos en español libremente. Podéis consular más informacion aquí: https://sdnotes.com/faq
+
+> **PLAN PARA HOY:**
+> 1. Crear blog y publicar primer post con nuestras iniciales & completar formulario en Qualtrics.
+> 2. Capítulo 6: Los Derechos Humanos
