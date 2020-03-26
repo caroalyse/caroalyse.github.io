@@ -29,3 +29,10 @@ Mariana Mañara._
 
 
 ## El refrán:
+
+_A la cama no te irás sin saber una cosa más._
+
+
+## La frase hecha (idiom)
+
+_Tomar el pelo. (To pull someone’s leg)_

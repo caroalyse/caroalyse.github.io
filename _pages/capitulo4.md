@@ -28,3 +28,10 @@ Y al perro de Ramón Ramírez
 
 
 ## El refrán:
+
+_Más vale tarde que nunca._
+
+
+## La frase hecha (idiom)
+
+_Quedarse de piedra. (To be stunned)_

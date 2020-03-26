@@ -19,3 +19,8 @@ sidebar:
 > **PLAN PARA HOY:**
 > 1. Crear blog y publicar primer post con nuestras iniciales & completar formulario en Qualtrics.
 > 2. Capítulo 6: Los Derechos Humanos
+
+
+> **Tarea:**
+> - Examen 2 antes del Sábado 4 de Abril a las 11:59 PM en Canvas. 
+> - Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.

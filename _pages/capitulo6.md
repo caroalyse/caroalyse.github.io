@@ -25,3 +25,10 @@ nunca sabrás cuántos cuentos cuentas tú._
 
 
 ## El refrán:
+
+_Tras la tempestad viene la calma._
+
+
+## La frase hecha (idiom)
+
+_Ser uña y carne. (To be bosom buddies)_

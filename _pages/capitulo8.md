@@ -27,4 +27,12 @@ _El cielo está enladrillado
 El desenladrillador que lo desenladrillare,   
 buen desenladrillador será._  
 
+
 ## El refrán:
+
+_Zapatero, a tus zapatos._
+
+
+## La frase hecha (idiom)
+
+_Tener un humor de perros. (To be in a bad mood)_

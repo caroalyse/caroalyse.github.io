@@ -27,3 +27,10 @@ trepan los tres caracatrepitos._
 
 
 ## El refrán:
+
+_Quien tiene un amigo tiene un tesoro._
+
+
+## La frase hecha (idiom)
+
+_Estar como una cabra. (To be a little crazy)_
