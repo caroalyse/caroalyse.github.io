@@ -13,10 +13,10 @@ sidebar:
 
 ## El chiste:
 
-_\- ¡Soldado Miralles!  
-\— ¡Sí, mi capitán!  
-\— No lo vi ayer en la prueba de camuflaje.  
-\— ¡Gracias, mi capitán!_  
+_- ¡Soldado Miralles!   
+\- ¡Sí, mi capitán!    
+\- No lo vi ayer en la prueba de camuflaje.    
+\- ¡Gracias, mi capitán!_    
 
 
 ## El trabalenguas:
