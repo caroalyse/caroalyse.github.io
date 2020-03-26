@@ -13,7 +13,7 @@ En este capítulo, veremos vocabulario relacionado al medio ambiente, repasaremo
 
 ## El chiste:
 
-_\Un pez le dice al otro:   
+_Un pez le dice al otro:   
 \- ¿Qué hace tu papá?   
 Y el otro le contesta:   
 \- NADA. ¿Y el tuyo?   
