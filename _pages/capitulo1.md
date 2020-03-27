@@ -1,9 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Capítulo 1"
 permalink: /1/
 sidebar:
   nav: capitulo1
+toc: true
 ---
 
 # _El Medio Ambiente_
