@@ -20,8 +20,8 @@ sidebar:
 
   |  Verbos irregulares |
     ---
-  | _Venir: **ven**_ |
-  | _Decir: **di**_ |
+  | _Venir:_ | _**ven**_ |
+  | _Decir:_ | _**di**_ |
   | _Salir: **sal**_ |
   | _Hacer: **haz**_ |
   | _Tener: **ten**_ |
