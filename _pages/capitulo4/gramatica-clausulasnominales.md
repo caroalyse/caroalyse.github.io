@@ -5,7 +5,8 @@ permalink: /gramatica-clausulasnominales/
 sidebar:
    nav: capitulo4
 ---
-# Las cláusulas en español
+
+# Las cláusulas en español  
 - Una cláusula es un conjunto de palabras que forman un sentido completo. Todas las cláusulas tienen un sujeto y un verbo, aunque a veces el sujeto puede estar implícito. En español, tenemos dos tipos de cláusulas:
   - Cláusula u oración principal.
   - Cláusulas subordinadas.
