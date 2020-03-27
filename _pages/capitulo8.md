@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Capítulo 8"
 permalink: /8/
 sidebar:

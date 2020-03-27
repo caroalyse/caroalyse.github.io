@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Capítulo 5"
 permalink: /5/
 sidebar:
