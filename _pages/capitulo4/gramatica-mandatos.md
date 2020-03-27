@@ -16,7 +16,7 @@ sidebar:
   - _No estudies por las noches._
   - _No hables inglés en clase._
 
-- Algunos verbos irregulares son:
+- Algunos verbos irregulares son:  
       - _Venir: **ven**_  
     - _Decir: **di**_  
     - _Salir: **sal**_  
