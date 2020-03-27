@@ -15,5 +15,4 @@ sidebar:
 
 > ¡CUIDADO!
 > El orden de las cláusulas en español es variable, es decir, no siempre tendremos la oración principal al principio y la subordinada después, sobre todo en las cláusulas adverbiales:  
->   |_Después de que hayas hecho la tarea,_ | _iremos al parque_ |  
-    | cláusula subordinadas             | cláusula principal |
+> _Después de que hayas hecho la tarea, iremos al parque._ = _Iremos al parque después de que hayas hecho la tarea._
