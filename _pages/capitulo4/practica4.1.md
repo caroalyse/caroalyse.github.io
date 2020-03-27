@@ -8,7 +8,7 @@ sidebar:
 # Subjuntivo
 **Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:**
 
-**realizar**
+**Realizar**
 <details><summary markdown="span">Respuesta</summary>
   - yo realice  
   - tu realices  
@@ -18,8 +18,7 @@ sidebar:
   - ellos/ellas/ustedes realicen  
 </details>
 <br/>
-
-**reventar**
+**Reventar**
 <details><summary markdown="span">Respuesta</summary>
 yo reviente
 tú revientes
@@ -30,7 +29,7 @@ ellos/ellas/ustedes revienten
 </details>
 <br/>
 
-3.  rezar
+3.Rezar
 <details><summary markdown="span">Respuesta</summary>
 # yo rece
 # tú reces
