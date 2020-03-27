@@ -17,7 +17,8 @@ sidebar:
   - Cláusula Adjetival (funcionan como un adjetivo o Atributo/Predicativo)
   - Cláusula Adberbial (funcionan como un adverbio o Complemento Adverbial)
 
-> ¡CUIDADO!  
+> **¡CUIDADO!**
+>
 > El orden de las cláusulas en español es variable, es decir, no siempre tendremos la oración principal al principio y la subordinada después, sobre todo en las cláusulas adverbiales:
 >    
 > _Después de que hayas hecho la tarea, iremos al parque._ = _Iremos al parque después de que hayas hecho la tarea._
@@ -43,7 +44,8 @@ sidebar:
   - _Creo que Juan viene a la fiesta._ **vs.** _No creo que Juan venga a la fiesta._
   - _Parece que Ana estudia español._ **vs.** _No parece que Ana estudie español._
 
-> ¡CUIDADO!    
+> **¡CUIDADO!**
+>    
 > Cuando el sujeto es el mismo en la oración principal y en la claúsula nominal, usamos el infinitivo del verbo, **NO** una cláusula nominal:  
 >   
 > _(Yo) Quiero comprar el coche rojo._ **vs.** _(Yo) Quiero que (tú) compres el coche rojo._

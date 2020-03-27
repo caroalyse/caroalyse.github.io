@@ -38,3 +38,16 @@ sidebar:
     - nosotros veng-**amos**  
     - vosotros veng-**áis**  
     - ellos/ellas/ustedes veng-**an**  
+
+
+> **¡CUIDADO!**   
+>
+> Ten cuidado con estos verbos, puesto que tienen una forma irregular en el presente:  
+>
+> - tener - tenga  
+> - venir - venga  
+> - hacer - haga  
+> - conocer - conozca  
+> - poner - ponga  
+> - salir - salga  
+> - traer - traiga  
