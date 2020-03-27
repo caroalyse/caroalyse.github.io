@@ -34,7 +34,7 @@ sidebar:
 
 Ve al siguiente link y completa el cuestionario. Puedes usar tus notas y el libro de texto para ayudarte.
 
-https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7
+[https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7](https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7)
 
 > **Tarea:**
 > - Estudiar para el examen.
