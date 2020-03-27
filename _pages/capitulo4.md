@@ -12,8 +12,7 @@ sidebar:
 
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-subjuntivo.jpg"></a>
-    <figcaption>Taken from: https://aprendamoses.wordpress.com</figcaption>
+    <a href="https://sarroniz.github.io/S-280/images/meme-12.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-12.jpg"></a>
 </figure>
 
 ## El chiste:
@@ -31,6 +30,9 @@ porque Ramón Ramírez se lo ha robado.
 Y al perro de Ramón Ramírez  
 ¿quién el rabo le ha robado?_  
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-5.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-5.jpg"></a>
+</figure>
 
 ## El refrán:
 

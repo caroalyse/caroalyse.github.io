@@ -13,6 +13,9 @@ sidebar:
 > **PLAN PARA HOY:**
 > No tenemos contenido hoy. Recomiendo hacer el examen durante la hora de clase habitual.
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-8.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-8.jpg"></a>
+</figure>
 
 > **Tarea:**
 > - Leer: Los Derechos Humanos: ¿Cómo se definen y qué papel desempeña las Naciones Unidas? (p. 157).

@@ -11,6 +11,10 @@ sidebar:
 > Durante el examen, está prohibido usar el material del libro de texto, notas o cualquier otra fuente que contenga información relativa al examen. Está totalmente prohibido el uso de diccionarios y traductores online de cualquier tipo.
 
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-10.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-10.jpg"></a>
+</figure>
+
 > **PLAN PARA HOY:**
 > 1. Repasar para el Examen 2.
 

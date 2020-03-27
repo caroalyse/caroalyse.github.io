@@ -10,6 +10,9 @@ sidebar:
 
 %
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-18.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-18.jpg"></a>
+</figure>
 
 ## El chiste:
 
@@ -32,6 +35,9 @@ le dijo:
 ¿tú techas tu choza,  
 o techas la ajena?_  
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme-11.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-11.jpg"></a>
+</figure>
 
 ## El refrán:
 
