@@ -8,25 +8,25 @@ sidebar:
 # Subjuntivo
 **Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:**
 
-1.  realizar
+**realizar**
 <details><summary markdown="span">Respuesta</summary>
-  yo realice  
-  tu realices  
-  él/ella/usted realice  
-  nosotros realicemos  
-  vosotros realicéis  
-  ellos/ellas/ustedes realicen  
+  - yo realice  
+  - tu realices  
+  - él/ella/usted realice  
+  - nosotros realicemos  
+  - vosotros realicéis  
+  - ellos/ellas/ustedes realicen  
 </details>
 <br/>
 
-2.  reventar
+**reventar**
 <details><summary markdown="span">Respuesta</summary>
-# yo reviente
-# tú revientes
-# él/ella/usted reviente
-# nosotros reventemos
-# vosotros reventéis
-# ellos/ellas/ustedes revienten
+yo reviente
+tú revientes
+él/ella/usted reviente
+nosotros reventemos
+vosotros reventéis
+ellos/ellas/ustedes revienten
 </details>
 <br/>
 
