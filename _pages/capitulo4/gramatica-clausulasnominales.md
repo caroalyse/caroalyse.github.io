@@ -33,15 +33,14 @@ sidebar:
 
 
 ## Indicativo vs. Subjuntivo
-- Existen algunos verbos y expresiones que introducen el **indicativo** en las cláusulas nominales:  
-
 
 - Se usa el _subjuntivo_ para expresar **recomendaciones, pedidos, deseos, duda, incerteza, probabilidad, emociones y sentimientos**. Existen algunos verbos y expresiones que introducen el subjuntivo en las cláusulas nominales:  
 <figure style="width: 600px" class="align-center">
-    <a href="https://sarroniz.github.io/S-280/images/WEIRDO.jpg"><img src="https://sarroniz.github.io/S-280/images/WEIRDO.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/WEIRDO-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/WEIRDO-subjuntivo.jpg"></a>
 </figure>
 
+- En general, usaremos el _indicativo_ para cosas de las que estamos seguros o que existen realmente, aunque esta regla no es absoluta y hay muchos contextos ambiguos. Algunos verbos como _creer_, _pensar_, _parecer_
 > ¡CUIDADO!    
-> Cuando el sujeto es el mismo en la oración principal y en la claúsula nominal, usamos el infinitivo del verbo, **no** una cláusula nominal:  
+> Cuando el sujeto es el mismo en la oración principal y en la claúsula nominal, usamos el infinitivo del verbo, **NO** una cláusula nominal:  
 >   
 > _(Yo) Quiero comprar el coche rojo._ **vs.** _(Yo) Quiero que (tú) compres el coche rojo._
