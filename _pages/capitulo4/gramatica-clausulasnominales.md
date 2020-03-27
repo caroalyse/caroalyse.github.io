@@ -37,8 +37,7 @@ sidebar:
 
 
 - Se usa el _subjuntivo_ para expresar **recomendaciones, pedidos, deseos, duda, incerteza, probabilidad, emociones y sentimientos**. Existen algunos verbos y expresiones que introducen el subjuntivo en las cláusulas nominales:  
-
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
     <a href="https://sarroniz.github.io/S-280/images/WEIRDO.jpg"><img src="https://sarroniz.github.io/S-280/images/WEIRDO.jpg"></a>
 </figure>
 
