@@ -17,7 +17,8 @@ sidebar:
   - _No hables inglés en clase._
 
 - Algunos verbos irregulares son:  
-      - _Venir: **ven**_  
+  - 
+    - _Venir: **ven**_  
     - _Decir: **di**_  
     - _Salir: **sal**_  
     - _Hacer: **haz**_  
