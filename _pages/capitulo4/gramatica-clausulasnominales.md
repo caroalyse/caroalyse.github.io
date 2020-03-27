@@ -44,4 +44,4 @@ sidebar:
 > ¡CUIDADO!    
 > Cuando el sujeto es el mismo en la oración principal y en la claúsula nominal, usamos el infinitivo del verbo, **no** una cláusula nominal:  
 >   
-> _(Yo) Quiero comprar el coche rojo._ vs. _(Yo) Quiero que (tú) compres el coche rojo._
+> _(Yo) Quiero comprar el coche rojo._ **vs.** _(Yo) Quiero que (tú) compres el coche rojo._
