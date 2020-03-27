@@ -39,7 +39,10 @@ sidebar:
     <a href="https://sarroniz.github.io/S-280/images/WEIRDO-subjuntivo.jpg"><img src="https://sarroniz.github.io/S-280/images/WEIRDO-subjuntivo.jpg"></a>
 </figure>
 
-- En general, usaremos el _indicativo_ para cosas de las que estamos seguros o que existen realmente, aunque esta regla no es absoluta y hay muchos contextos ambiguos. Algunos verbos como _creer_, _pensar_, _parecer_
+- En general, usaremos el _indicativo_ para cosas de las que estamos seguros o que existen realmente, aunque **esta regla no es absoluta** y hay muchos contextos ambiguos. Algunos verbos como _creer_, _pensar_, _parecer_ en afirmativo usan el indicativo:
+  - _Creo que Juan viene a la fiesta._ **vs.** _No creo que Juan venga a la fiesta._
+  - _Parece que Ana estudia español._ **vs.** _No parece que Ana estudie español._
+
 > ¡CUIDADO!    
 > Cuando el sujeto es el mismo en la oración principal y en la claúsula nominal, usamos el infinitivo del verbo, **NO** una cláusula nominal:  
 >   
