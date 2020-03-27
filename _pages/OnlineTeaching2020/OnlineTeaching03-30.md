@@ -12,7 +12,7 @@ sidebar:
 
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-10.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-10.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme10.jpg"><img src="https://sarroniz.github.io/S-280/images/meme10.jpg"></a>
 </figure>
 
 > **PLAN PARA HOY:**

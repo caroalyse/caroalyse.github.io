@@ -11,7 +11,7 @@ sidebar:
 %
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-17.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-17.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme17.jpg"><img src="https://sarroniz.github.io/S-280/images/meme17.jpg"></a>
 </figure>
 
 ## El chiste:
@@ -29,7 +29,7 @@ Cuando la caracatrepa trepa,
 trepan los tres caracatrepitos._  
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-9.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-9.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme9.jpg"><img src="https://sarroniz.github.io/S-280/images/meme9.jpg"></a>
 </figure>
 
 ## El refrán:

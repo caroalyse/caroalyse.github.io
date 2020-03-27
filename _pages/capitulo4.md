@@ -12,7 +12,7 @@ sidebar:
 
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-12.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-12.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme12.jpg"><img src="https://sarroniz.github.io/S-280/images/meme12.jpg"></a>
 </figure>
 
 ## El chiste:
@@ -31,7 +31,7 @@ Y al perro de Ramón Ramírez
 ¿quién el rabo le ha robado?_  
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme-5.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-5.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/meme5.jpg"><img src="https://sarroniz.github.io/S-280/images/meme5.jpg"></a>
 </figure>
 
 ## El refrán:
