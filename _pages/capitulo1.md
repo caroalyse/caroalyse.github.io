@@ -12,7 +12,6 @@ En este capítulo, veremos vocabulario relacionado al medio ambiente, repasaremo
 
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme-serestar.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-serestar.jpg"></a>
-    <figcaption>Taken from: https://aprendamoses.wordpress.com</figcaption>
 </figure>
 
 ## El chiste:
