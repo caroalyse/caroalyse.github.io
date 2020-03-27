@@ -4,9 +4,6 @@ title: "Gramática"
 permalink: /gramatica-subjuntivo/
 sidebar:
    nav: capitulo4
-markdown: kramdown
-kramdown:
-  parse_block_html: true
 ---
 
 
