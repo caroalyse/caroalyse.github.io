@@ -18,8 +18,7 @@ kramdown:
 
 - Los infinitivos en _-AR_ usarán la vocal _-e_, y los infinitivos en _-ER_ y _-IR_ usarán la vocal _-a_.
 
-| --- | --- |
-| _CAMINAR_ | BEBER |
-| --- | --- |
+| _CAMINAR_   | _BEBER_   |
+| ---   | ---   |
 | yo camin-**e** | yo beb-**a** |
 | tú camin-**es** | tú beb-**as** |
