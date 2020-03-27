@@ -28,15 +28,15 @@ con tres caracatrepitos.
 Cuando la caracatrepa trepa,  
 trepan los tres caracatrepitos._  
 
-<figure style="width: 300px" class="right">
+<figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme9.jpg"><img src="https://sarroniz.github.io/S-280/images/meme9.jpg"></a>
 </figure>
 
-## El refrán:
+## El refrán:             
 
-_Quien tiene un amigo tiene un tesoro._
+_Quien tiene un amigo tiene un tesoro._             
 
 
-## La frase hecha (idiom)
+## La frase hecha (idiom)           
 
-_Estar como una cabra. (To be a little crazy)_
+_Estar como una cabra. (To be a little crazy)_              
