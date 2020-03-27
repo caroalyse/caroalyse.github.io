@@ -17,15 +17,17 @@ sidebar:
   - _No hables inglés en clase._
 
 - Algunos verbos irregulares son:
- - _Venir: **ven**_
- - _Decir: **di**_
- - _Salir: **sal**_
- - _Hacer: **haz**_
- - _Tener: **ten**_
- - _Ver/Ir: **ve**_
- - _Poner: **pon**_
- - _Ser: **sé**_
 
+  |  Verbos irregulares |
+    ---
+  | _Venir: **ven**_ |
+  | _Decir: **di**_ |
+  | _Salir: **sal**_ |
+  | _Hacer: **haz**_ |
+  | _Tener: **ten**_ |
+  | _Ver/Ir: **ve**_ |
+  | _Poner: **pon**_ |
+  | _Ser: **sé**_ |
 
 
 # Mandatos Formales
