@@ -15,7 +15,26 @@ sidebar:
 
 - Los infinitivos en _-AR_ usarán la vocal _-e_, y los infinitivos en _-ER_ y _-IR_ usarán la vocal _-a_.
 
-| _CAMINAR_   | _BEBER_   |
-| ---   | ---   |
-| yo camin-**e** | yo beb-**a** |
-| tú camin-**es** | tú beb-**as** |
+  - _CAMINAR_
+    - yo camin-**e**    
+    - tú camin-**es**    
+    - él/ella/usted camin-**e**  
+    - nosotros camin-**emos**  
+    - vosotros camin-**éis**  
+    - ellos/ellas/ustedes camin-**en**  
+
+  - _BEBER_
+    - yo beb-**a**    
+    - tú beb-**as**  
+    - él/ella/usted beb-**a**  
+    - nosotros beb-**amos**  
+    - vosotros beb-**áis**  
+    - ellos/ellas/ustedes beb-**an**  
+
+  - _VENIR_
+    - yo veng-**a**    
+    - tú veng-**as**  
+    - él/ella/usted veng-**a**  
+    - nosotros veng-**amos**  
+    - vosotros veng-**áis**  
+    - ellos/ellas/ustedes veng-**an**  
