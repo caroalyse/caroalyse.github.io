@@ -4,7 +4,11 @@ title: "Gramática"
 permalink: /gramatica-subjuntivo/
 sidebar:
    nav: capitulo4
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 ---
+
 
 # El Presente de Subjuntivo
 
@@ -16,6 +20,6 @@ sidebar:
 
 
 | _CAMINAR_ | BEBER |
-| --- | --- | 
+| --- | --- |
 | yo camin-**e** | yo beb-**a** |
 | tú camin-**es** | tú beb-**as** |
