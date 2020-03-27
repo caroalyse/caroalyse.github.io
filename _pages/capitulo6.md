@@ -7,7 +7,7 @@ sidebar:
 ---
 
 # _Los Derechos Humanos_
-
+<!---
 %
 
 
@@ -29,6 +29,6 @@ nunca sabrás cuántos cuentos cuentas tú._
 _Tras la tempestad viene la calma._
 
 
-## La frase hecha (idiom)
+## La frase hecha (idiom):
 
 _Ser uña y carne. (To be bosom buddies)_

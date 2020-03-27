@@ -5,7 +5,7 @@ permalink: /OnlineTeaching04-3/
 sidebar:
    nav: OnlineTeaching2020
 ---
-
+<!---
 > **ANUNCIOS:**  
 > A partir de hoy, vamos a usar un blog personal online para evaluar la participación. Para crear nuestro blog, vamos a seguir estas instrucciones:
 > 1. Abrimos este link: https://sdnotes.com/ (Esta web crea automáticamente un blog personal para cada uno, por lo que cada estudiante tendrá su propio código).
@@ -22,5 +22,5 @@ sidebar:
 
 
 > **Tarea:**
-> - Examen 2 antes del Sábado 4 de Abril a las 11:59 PM en Canvas. 
+> - Examen 2 antes del Sábado 4 de Abril a las 11:59 PM en Canvas.
 > - Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.

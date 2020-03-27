@@ -7,7 +7,7 @@ sidebar:
 ---
 
 # _La Guerra y La Paz_
-
+<!---
 %
 
 
@@ -32,6 +32,6 @@ tragaban trigo tres tristes tigres._
 _Sobre gustos, no hay nada escrito._
 
 
-## La frase hecha (idiom)
+## La frase hecha (idiom):
 
 _Echar agua al mar. (To do something pointless / To put a drop in the bucket)_

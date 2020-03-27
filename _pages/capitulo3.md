@@ -38,6 +38,6 @@ _Quien tiene un amigo tiene un tesoro._
     <a href="https://sarroniz.github.io/S-280/images/meme9.jpg"><img src="https://sarroniz.github.io/S-280/images/meme9.jpg"></a>
 </figure>
 
-## La frase hecha (idiom)           
+## La frase hecha (idiom):           
 
 _Estar como una cabra. (To be a little crazy)_              

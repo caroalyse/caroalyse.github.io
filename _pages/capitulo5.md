@@ -44,6 +44,6 @@ o techas la ajena?_
 _A caballo regalado no le mires el diente._
 
 
-## La frase hecha (idiom)
+## La frase hecha (idiom):
 
 _Empezar la casa por el tejado. (To put the cart before the horse)_

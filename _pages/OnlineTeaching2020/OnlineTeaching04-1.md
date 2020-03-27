@@ -5,7 +5,7 @@ permalink: /OnlineTeaching04-1/
 sidebar:
    nav: OnlineTeaching2020
 ---
-
+<!---
 > **ANUNCIOS:**  
 > El examen 2 está disponible para completarlo en Canvas.
 > Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.

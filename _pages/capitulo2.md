@@ -37,6 +37,6 @@ y el barro a arrobas le arrebosa el rabo._
 _El que la sigue, la consigue._
 
 
-## La frase hecha (idiom)
+## La frase hecha (idiom):
 
 _Ser pan comido. (To be a piece of cake)_
