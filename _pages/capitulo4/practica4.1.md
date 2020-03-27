@@ -8,19 +8,19 @@ markdown: kramdown
 kramdown:
    parse_block_html: true
 ---
-## Subjuntivo 
+## Subjuntivo
 - Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
-**Realizar**
-<details><summary markdown="span">Respuesta</summary>
-  yo realice  
-  tu realices  
-  él/ella/usted realice  
-  nosotros realicemos  
-  vosotros realicéis  
-  ellos/ellas/ustedes realicen  
-</details>
-<br/>
+  **Realizar**
+  <details><summary markdown="span">Respuesta</summary>
+    yo realice  
+    tu realices  
+    él/ella/usted realice  
+    nosotros realicemos  
+    vosotros realicéis  
+    ellos/ellas/ustedes realicen  
+  </details>
+  <br/>
 
 **Reventar**
 <details><summary markdown="span">Respuesta</summary>
