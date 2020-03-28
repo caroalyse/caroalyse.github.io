@@ -7,6 +7,7 @@ sidebar:
 ---
 
 # Por vs. Para
+
 ## La distinción más simple es:
 - Para – indica el objetivo final a que se dirige algo (“to”, “for”).
 - Por – indica el camino o espacio o proceso que recorremos para llegar a un sitio (“through”, “by the means of”).  
