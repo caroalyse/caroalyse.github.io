@@ -28,6 +28,8 @@ main:
     url: /8/
 
 OnlineTeaching2020:
+  - title: "Administrativo"
+    url: /
   - title: "Marzo"
     children:
       - title: "Lunes 03/30"
