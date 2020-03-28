@@ -29,7 +29,7 @@ main:
 
 OnlineTeaching2020:
   - title: "Administrativo"
-    url: /
+    url: /Administrativo/
     
   - title: "Marzo"
     children:
