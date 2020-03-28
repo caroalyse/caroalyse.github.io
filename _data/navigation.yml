@@ -87,13 +87,10 @@ capitulo1:
     children:
       - title: "Ser"
         url: /gramatica-ser/
-
       - title: "Estar"
         url: /gramatica-estar/
-
       - title: "Haber"
         url: /gramatica-haber/
-
   - title: "Lectura: Juan Darién"
     children:
       - title: "Preguntas de Comprensión"
@@ -136,7 +133,6 @@ capitulo4:
         url: /gramatica-subjuntivo/
       - title: "Cláusulas Nominales"
         url: /gramatica-clausulasnominales/
-
   - title: "Práctica"
     url: /practica4.1/
   - title: "Lectura"
