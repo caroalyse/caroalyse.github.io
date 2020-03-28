@@ -140,7 +140,7 @@ capitulo4:
   - title: "Práctica"
     url: /practica4.1/
   - title: "Lectura"
-    url: /debate3/
+    url: /lectura4/
     children:
       - title: "Antes de leer"
         url: /lectura4.1/
