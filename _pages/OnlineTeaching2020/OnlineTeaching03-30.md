@@ -32,9 +32,13 @@ sidebar:
 
 ## REPASO:
 
-Ve al siguiente link y completa el cuestionario. Puedes usar tus notas y el libro de texto para ayudarte.
+- Repasa la gramática de por y para, el subjuntivo, y las cláusulas nominales, adjetivales y adverbiales en los Capítulos 4 y 5.
+
+- Ve a los siguientes links y completa los cuestionarios para practicar. Puedes usar tus notas y el libro de texto para ayudarte.
 
 [https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7](https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7)
+
+[https://iu.co1.qualtrics.com/jfe/form/SV_0SutlRPXT73SWxv](https://iu.co1.qualtrics.com/jfe/form/SV_0SutlRPXT73SWxv)
 
 > **Tarea:**
 > - Estudiar para el examen.
