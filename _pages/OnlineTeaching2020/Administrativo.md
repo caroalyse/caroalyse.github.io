@@ -9,10 +9,10 @@ sidebar:
 ## Nueva Evaluación
 
 - Ensayos (35%):
- - Blog. (5%)
- - Narración. (7%)
- - Carta. (10%)
- - Argumentativo/interpretativo (13%)
+  - Blog. (5%)
+  - Narración. (7%)
+  - Carta. (10%)
+  - Argumentativo/interpretativo (13%)
 
 - Diarios (5 x 1% = 5%)
 
@@ -27,7 +27,7 @@ sidebar:
   - Participación en Blog (10%)
   - Discusiones Orales por Zoom (9.5%)
 
-  
+
 
 ## Fechas Importantes
 > Todas las fechas son antes de la medianoche correspondiente al horario EST (Bloomington, IN)
