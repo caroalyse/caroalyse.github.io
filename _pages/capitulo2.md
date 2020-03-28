@@ -8,7 +8,7 @@ sidebar:
 
 # _Los Deportes_
 
-%
+En este capítulo veremos el vocabulario de los deportes, y estudiaremos la gramática del Pretérito, del Imperfecto, y de cuando usamos uno u otro.  
 
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme-preteritoimpercfecto.jpg"><img src="https://sarroniz.github.io/S-280/images/meme-preteritoimpercfecto.jpg"></a>

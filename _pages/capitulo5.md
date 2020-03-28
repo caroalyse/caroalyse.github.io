@@ -8,7 +8,7 @@ sidebar:
 
 # _La Inmigración_
 
-%
+En este capítulo veremos el documental _¿Cuál es el camino a casa?_ (_Which Way Home?_) y lo comentaremos con varias preguntas de discusión. También, estudiaremos los usos de _por_ y _para_, y veremos las Cláusulas Adjetivales y Adverbiales. Además, leeremos varios textos relacionados con la inmigración, como _Los extranjeros_, los poemas _Los pobres_ y _Los nadies_, las narraciones de los emigrantes africanos Silla Diawara y Rebeca Fontcha, _Aisha_, y el corto _Nana_.
 
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme18.jpg"><img src="https://sarroniz.github.io/S-280/images/meme18.jpg"></a>

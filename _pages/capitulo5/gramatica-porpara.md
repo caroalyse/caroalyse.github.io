@@ -70,3 +70,11 @@ sidebar:
   - **Por desgracia:** unfortunately   
   - **Por suerte:** luckily   
   - **Por si acaso:** just in case   
+
+    
+
+> **¡CUIDADO!**  
+>  
+> No se usan preposiciones para hablar de la duración de un evento o situación:
+> - _Viajamos dos meses por todo el país. ¡Me encantó!_
+> - _Estaré sin trabajar una semana porque tengo que estudiar para mis exámenes._

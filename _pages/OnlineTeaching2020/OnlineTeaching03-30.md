@@ -32,9 +32,9 @@ sidebar:
 
 ## REPASO:
 
-- Repasa la gramática de por y para, el subjuntivo, y las cláusulas nominales, adjetivales y adverbiales en los Capítulos 4 y 5.
+1. Repasa la gramática de por y para, el subjuntivo, y las cláusulas nominales, adjetivales y adverbiales en el [Capítulo 4](https://sarroniz.github.io/S-280/4/) y el [Capítulo 5](https://sarroniz.github.io/S-280/5/). Haz las prácticas de esos capítulos también.
 
-- Ve a los siguientes links y completa los cuestionarios para practicar. Puedes usar tus notas y el libro de texto para ayudarte.
+2. Ve a los siguientes links y completa los cuestionarios para practicar. Puedes usar tus notas y el libro de texto para ayudarte.
 
 [https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7](https://iu.co1.qualtrics.com/jfe/form/SV_7X786JASv7SVRn7)
 

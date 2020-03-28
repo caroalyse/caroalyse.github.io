@@ -30,7 +30,7 @@ main:
 OnlineTeaching2020:
   - title: "Administrativo"
     url: /Administrativo/
-    
+
   - title: "Marzo"
     children:
       - title: "Lunes 03/30"
@@ -122,6 +122,8 @@ capitulo3:
         url: /gramatica-condicional/
       - title: "Verbos como Gustar"
         url: /gramatica-verboscomogustar/
+      - title: "Mandatos"
+        url: /gramatica-mandatos/
   - title: "Práctica"
     url: /practica3.1/
   - title: "Debate"
@@ -134,8 +136,7 @@ capitulo4:
         url: /gramatica-subjuntivo/
       - title: "Cláusulas Nominales"
         url: /gramatica-clausulasnominales/
-      - title: "Mandatos"
-        url: /gramatica-mandatos/
+
   - title: "Práctica"
     url: /practica4.1/
   - title: "Lectura"
@@ -156,4 +157,6 @@ capitulo5:
       - title: "Cláusulas Adverbiales"
         url: /gramatica-clausulasadverbiales/
   - title: "Práctica"
-    url: /
+    url: /practica5.1/
+  - title: "Lectura"
+    url: /lectura5/

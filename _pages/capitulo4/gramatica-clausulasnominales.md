@@ -27,7 +27,7 @@ sidebar:
 # Las Cláusulas Nominales
 - Las cláusulas nominales son aquellas cláusulas subordinadas que funcionan como un nombre o sustantivo. Por eso, tienen las mismas funciones que los sustantivos y pueden ser Complementos Directos/Indirectos.
   - _Quiero **el coche rojo**._ (Oración sin cláusula nominal)
-  - _Quiero **que tú compres el coche rojo**._ (Oración con clausula nominal)
+  - _Quiero **que tú compres el coche rojo**._ (Oración con cláusula nominal)
     - En estos ejemplos, el _coche_ es un sustantivo que funciona como Complemento Directo en el primer ejemplo, mientras que en el segundo ejemplo, _que tú compres el coche rojo_ es una cláusula subordinada nominal que tiene la misma función que el sustantivo _coche_, pero estamos usando una frase completa para dar más información: otro sujeto (_tú_), otro verbo (_compres_), etc.  
 
 - El verbo de la cláusula nominal puede estar en indicativo o subjuntivo, dependiendo del sentido y del contexto de la frase, aunque hay algunas expresiones que nos ayudan a identificar el modo del verbo.
