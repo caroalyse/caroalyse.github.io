@@ -30,7 +30,7 @@ sidebar:
   - _Necesito enviar estos documentos **para** el 15 de Mayo._  
 
 
-#### Algunas expresiones de **PARA**:  
+Algunas expresiones de **PARA**:  
   - **Para siempre:** forever  
   - **Para variar:** for a change  
   - **Para colmo:** to top it all off  
@@ -56,7 +56,7 @@ sidebar:
   - _Juan me vendió su televisor **por** 100€._  
   - _Le cambié mi bici a Pedro **por** su tabla de surf._  
 
-#### Algunas expresiones de **POR**:  
+Algunas expresiones de **POR**:  
   - **Por ejemplo:** for example   
   - **Por eso:** that´s why   
   - **Por favor:** please   
