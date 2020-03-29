@@ -7,7 +7,7 @@ sidebar:
 ---
 
 # Las Cláusulas Adjetivales  
-- Las cláusulas adjetivales son aquellas cláusulas subordinadas que funcionan como un adjetivo. Por eso, pueden ser Atributos o Complementos Predicativos.  
+Las cláusulas adjetivales son aquellas cláusulas subordinadas que funcionan como un adjetivo. Por eso, pueden ser Atributos o Complementos Predicativos.  
   - _Quiero un coche **rojo**._ (Oración sin cláusula adjetival)  
   - _Quiero un coche **que sea rojo**._ (Oración con cláusula adjetival)  
     - En estos ejemplos, la palabra _rojo_ funciona como un adjetivo de _coche_ en el primer ejemplo, mientras que en el segundo ejemplo, _que sea rojo_ es una cláusula subordinada adjetival que tiene la misma función que el adjetivo _rojo_, pero estamos usando una frase completa para dar más información.  

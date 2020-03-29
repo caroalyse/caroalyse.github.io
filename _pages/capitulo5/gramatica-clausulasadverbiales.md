@@ -7,7 +7,7 @@ sidebar:
 ---
 
 # Las Cláusulas Adverbiales  
-- Las cláusulas adverbiales son aquellas cláusulas subordinadas que funcionan como un adverbio. Por eso, pueden ser Complementos Adverbiales o Circunstanciales.  
+Las cláusulas adverbiales son aquellas cláusulas subordinadas que funcionan como un adverbio. Por eso, pueden ser Complementos Adverbiales o Circunstanciales.  
   - _Esperaré aquí sentado **hasta las 5**._ (Oración sin cláusula adverbial)  
   - _Esperaré aquí sentado **hasta que sean las 5**._ (Oración con cláusula adverbial)  
     - En estos ejemplos, la frase _hasta las 5_ es una locución adverbial que da infomación contextual a la frase en el primer ejemplo, mientras que en el segundo ejemplo, _hasta que sean las 5_ es una cláusula subordinada adverbial que tiene la misma función que la locución adverbial _hasta las 5_, pero estamos usando una frase completa para dar más información.  
