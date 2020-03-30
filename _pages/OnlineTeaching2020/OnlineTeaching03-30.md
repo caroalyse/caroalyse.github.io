@@ -6,7 +6,7 @@ sidebar:
    nav: OnlineTeaching2020
 ---
 > **AHORA EN ZOOM!:**   
-> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en https://iu.zoom.us/my/sarroniz
+> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz) 
 
 > **ANUNCIOS:**  
 > EL Examen 2 se abrirá el próximo miércoles, 1 de abril, y estará disponible para tomarlo hasta el sábado 4 de abril a las 11:59 PM. Podéis empezarlo cuando queráis dentro de este plazo, pero sólo tendréis 75 minutos para completarlo. Sugiero que lo hagan durante la hora de clase del miércoles.
