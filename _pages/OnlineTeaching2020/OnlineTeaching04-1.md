@@ -5,9 +5,10 @@ permalink: /OnlineTeaching04-1/
 sidebar:
    nav: OnlineTeaching2020
 ---
-<!---
+
 > **AHORA EN ZOOM!:**   
 > Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
+
 
 
 > **ANUNCIOS:**  
@@ -25,4 +26,3 @@ sidebar:
 > **Tarea:**
 > - Leer: Los Derechos Humanos: ¿Cómo se definen y qué papel desempeña las Naciones Unidas? (p. 157).
 > - Trabajar en Escritura 3 para el Domingo 5 de Abril.
--->
