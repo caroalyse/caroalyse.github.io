@@ -6,11 +6,6 @@ sidebar:
    nav: OnlineTeaching2020
 ---
 
-> **AHORA EN ZOOM!:**   
-> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
-
-
-
 > **ANUNCIOS:**  
 > El examen 2 está disponible para completarlo en Canvas.
 > Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.

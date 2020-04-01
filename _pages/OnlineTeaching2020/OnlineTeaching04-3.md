@@ -6,6 +6,11 @@ sidebar:
    nav: OnlineTeaching2020
 ---
 <!---
+
+> **AHORA EN ZOOM!:**   
+> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
+
+
 > **ANUNCIOS:**  
 > A partir de hoy, vamos a usar un blog personal online para evaluar la participación. Para crear nuestro blog, vamos a seguir estas instrucciones:
 > 1. Abrimos este link: https://sdnotes.com/ (Esta web crea automáticamente un blog personal para cada uno, por lo que cada estudiante tendrá su propio código).
