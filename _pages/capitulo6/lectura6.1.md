@@ -64,13 +64,13 @@ Estos temas conectan con casi todos los que hemos estudiado y comentado en los c
 
 # Mientras lees (por escenas)
 
-I.
+**I.**   
 ¿Qué visión del mundo nos dan las noticias en la radio?
 
-II.
+**II.**   
 ¿Entiendes la canción de Rita?
 
-III.
+**III.**   
 En la acotación (stage directions) ¿cómo caracteriza el autor a Rita y a los policías?
 (“al acecho”= lurking; ready to attack)
 
@@ -82,117 +82,117 @@ Giner en esta escena tiene un papel “meta-teatral.”  Eso significa teatro de
 
 ¿Qué opinas de la frase de Giner: “los sentimientos no necesitan traducción”?
 
-IV.
+**IV.**
 Giner explica el contexto real de la obra (desde el futuro). ¿Quién es Tori Mroz?
 
-V.
+**V.**
 Diálogo entre Rita y los doctores: ¿Qué impresión te da este diálogo? ¿Qué opinas de cómo actúan los médicos?
 
-VI.  
+**VI.**
 La canción de Rita continúa.  
 ¿Crees que la canción está traducida o que Rita canta en español? Explica tu respuesta.  ¿Entiendes la canción? ¿Puedes interpretar lo que puede significar?
 
-VII.  
+**VII.**  
 ¿Por qué usa el autor la palabra “jaula” (cage) en la acotación?
 ¿Qué dos visiones del mundo chocan en esta escena?
 ¿Cómo presenta el discurso médico y psiquiátrico esta escena?
 ¿qué importancia tiene que el Doctor II diga “que duerma como la gente normal”?
 
-VIII.
+**VIII.**
 ¿Qué piensas de la forma en que Giner describe a Rita? ¿Hay algo problemático en cómo la describe? Si sí, ¿qué y por qué?
 
 
-IX.
+**IX.**
 Rita habla de la cosmogonía tarahumara. ¿Sabes qué significa cosmogonía? ¿Conoces alguna otra cosmogonía (cristiana, griega antigua, africana, por ejemplo)?
 ¿Qué contraste crean las escenas VIII (Rita por fuera) y IX (La tierra…)?
 
-X.
+**X.**
 Esta escena podría describirse como “tragicómica”. ¿Por qué?
 ¿Qué contraste crean las escenas IX (La tierra) y X (Today is…)?
 
-XI.
+**XI.**
 Giner describe la experiencia de alguien que está en una tierra o país extranjero. Identifica 2 metáforas usadas por Giner y qué significan.
 ¿Estás de acuerdo con Giner sobre cómo se sienten los extranjeros? ¿Por que sí y/o por qué no?
 
-XII.
+**XII.**
 ¿Por qué crees que esta escena se llama “Yo soy Dios”?
 
-XIII.  
+**XIII.**  
 Busca cómo se dice “woodpecker” (el pájaro) en español.
 
-XIV.
+**XIV.**
 ¿Qué efecto crea el lenguaje cuantitativo científico de los doctores?
 
 Recuerda: esto es una obra de teatro para ser representada.  Pensando en eso, ¿qué te parece curioso de los paréntesis después de las palabras tarahumaras de Rita? ¿Para quién están escritos?
 
-XV.
+**XV.**
 ¿Cuál es el propósito de esta escena?
 
-XVI.
+**XVI.**
 ¿Por qué crees que los doctores están furiosos al final de esta escena?
 
-XVIII.  
+**XVIII.**  
 Hay ironía en estas escenas con el “intérprete” ¿cuál?
 
-XX.
+**XX.**
 ¿Por qué es interesante que es Rita quien “observa” al enfermero en esta escena? ¿por qué son importantes lo sueños para Rita?
 
-XXI.
+**XXI.**
 Además de la barrera lingüística, ¿qué otra cosa muestra esta escena?
 
-XXII.
+**XXII.**
 ¿Qué hace Tori para ayudar a Rita? ¿Por qué dice Giner que Rita es la mujer “sin nombre y sin lengua”?
 
-XXIII.
+**XXIII.**
 ¿Quién es Eduardo? Eduardo parece un personaje secundario, pero se podría decir que es un personaje muy importante. ¿por qué?
 ¿Qué función cumple Giner en esta escena?
 
-XXIV.
+**XXIV.**
 ¿Quién es el “nosotros” al que se refiere Rita?
 
-XXV y XXVI.  
+**XXV y XXVI.**  
 Es la historia de Giner.  ¿De dónde es Giner? ¿Dónde trabaja ahora? ¿Cómo se enteró de la existencia de Rita? Busca el significado de la palabra “Chabochi”.  
 
-XXVII.  
+**XXVII.**  
 Compara y contrasta el diálogo entre Rita y Giner con los diálogos entre Rita y los policías/médicos.
 
-XXVIII.
+**XXVIII.**
 ¿Cómo ha cambiado Rita durante sus años en el hospital a causa de la medicación?
 Identifica dos símiles (o comparaciones) usadas en esta escena para describir lo que Rita desea. ¿Por qué se usan esas comparaciones?
 
-XXIX.
+**XXIX.**
 Giner habla con un amigo en México por teléfono celular.
 ¿Por qué no pueden entenderse bien? ¿Qué descubrimos al final de la conversación sobre Rita?
 
-XXX.  
+**XXX.**  
 Rita narra su versión de los hechos.  (Tezgüino o Tesgüino es un tipo de cerveza hecha de maíz fermentado. Es una bebida alcohólica con significado sagrado para los Tarahumara).
 
 Según Rita, ¿qué paso?  ¿por qué peleo con su marido (esposo)? Según ella, ¿qué pasó cuando se despertó de noche?
 
-XXXI.
+**XXXI.**
 ¿Qué descubre Giner en esta escena con los médicos? ¿Qué irregularidades hubo en el caso de Rita?
 
-XXXII.
+**XXXII.**
 ¿En qué se diferencia la visión de la enfermedad de Rita y la de los médicos de EE. UU. (u occidentales en general)?
 
-XXXIII.
+**XXXIII.**
 ¿Por qué discuten los médicos con Giner?
 
-XXXIV.
+**XXXIV.**
 CORETA e INI son instituciones mexicanas.  El PAN y el PRI son dos partidos políticos mexicanos.  
 
 ¿Qué quiere hacer CORETA con Rita? ¿Qué quiere hacer el INI con Rita?
 ¿Qué problema tiene Rita si regresa a Mexico?
 Giner tiene algunas dudas. ¿Cuáles? ¿Por qué?
 
-XXXV.  
+**XXXV.**  
 Rita canta varias canciones durante la obra.  Aunque no las entiendas, ¿qué efecto crees que tienen estas canciones tan poéticas en la obra?
 
-XXXVI.
+**XXXVI.**
 ¿Por qué están de acuerdo los médicos con que Rita se vaya?
 
-XXXVII.
+**XXXVII.**
 Giner lleva a Rita a la frontera en El Paso.  Rita quiere regresar a casa, pero Giner solo parece ver problemas.  ¿Qué problemas ve Giner?  Identifícalos.  ¿por qué no va Giner con Rita?
 
-XXXVIII.
+**XXXVIII.**
 ¿Dónde termina Rita en México? ¿Qué piensa Giner del hospital? ¿Qué metáfora usa para describirlo? ¿Por qué crees que Giner dice “El Psiquiátrico de Chihuahua no es el hospital de Larned de Kansas”? ¿Qué quiere decir? ¿Cómo entender esto después de lo que sabemos que le pasó a Rita en Kansas?
