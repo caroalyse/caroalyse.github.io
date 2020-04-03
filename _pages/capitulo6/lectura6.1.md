@@ -1,10 +1,10 @@
-—--
+---
 layout: archive
 title: “Lectura”
 permalink: /lectura6.1/
 sidebar:
    nav: capitulo6
-—--
+---
 
 # _Los Derechos Humanos_
 -————————————

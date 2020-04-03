@@ -14,14 +14,14 @@ kramdown:
 **Para cada oración decide la forma correcta del pronombre y del verbo en presente de indicativo.**
 
 1. (A ellos) _____  _____________ (preocupar) el tratado de libre comercio.  
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   les preocupa
 </details>
 <br/>
 
 
 2. Laura me dijo que a ella no _____  _____________ (importar) el derroche, y yo no estoy de acuerdo.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   le importa  
 </details>
 <br/>
@@ -33,43 +33,43 @@ kramdown:
 <br/>
 
 4. A los clientes de esta confitería _____  _____________ (fascinar) las recetas que preparan.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   les fascinan  
 </details>
 <br/>
 
 5. A nadie _____  _____________ (gustar) el condimento que usa este cocinero.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   le gusta  
 </details>
 <br/>
 
 6. (A ti) no _____  _____________ (molestar) si me demoro, ¿no?
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   te molesta  
 </details>
 <br/>
 
 7. Quería escribir un poema, pero siento que hoy (a mi) _____  _____________ (faltar) inspiración.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   me falta  
 </details>
 <br/>
 
 8. (A mi) _____  _____________ (parecer) que Juan y Daniela están coqueteando.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   me parece  
 </details>
 <br/>
 
 9. Creo que (a ti) _____  _____________ (interesar) la subcontratación, ¿verdad?
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   te interesa  
 </details>
 <br/>
 
 10. A esta empresa _____  _____________ (faltar) más bienes raíces para consolidarse y ganar algún premio.
-<details><summary markdown="span">Respuesta</summary> 
+<details><summary markdown="span">Respuesta</summary>
   le faltan  
 </details>
 <br/>
