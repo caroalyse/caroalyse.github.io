@@ -1,9 +1,9 @@
 —
 layout: archive
 title: “Lectura”
-permalink: /lectura4.1/
+permalink: /lectura6.1/
 sidebar:
-   nav: capitulo4
+   nav: capitulo6
 —
 # _Los Derechos Humanos_
 -————————————

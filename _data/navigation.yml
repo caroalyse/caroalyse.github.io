@@ -156,3 +156,15 @@ capitulo5:
     url: /practica5.1/
   - title: "Lectura"
     url: /lectura5/
+    
+capitulo6:
+  - title: "Gramática"
+    children:
+      - title: "Demostrativos, Gerundios y Participios"
+        url: /gramatica-demosgerundparticipios/
+      - title: "El Imperfecto de Subjuntivo"
+        url: /gramatica-impsubjuntivo/
+  - title: "Práctica"
+    url: /practica6.1/
+  - title: "Lectura"
+    url: /lectura6.1/
