@@ -190,5 +190,9 @@ capitulo8:
         url: /gramatica-impsubjuntivo/
   - title: "Práctica"
     url: /practica6.1/
-  - title: "Lectura"
-    url: /lectura6.1/
+  - title: "Lectura: La mujer que cayó del cielo"
+    children:
+      title: "Guía de Lectura"
+      url: /lectura6.1/
+      title: "Después de Leer"
+      url: /lectura6.2/
