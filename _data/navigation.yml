@@ -176,27 +176,23 @@ capitulo6:
 capitulo7:
   - title: "Gramática"
     children:
-      - title: "Demostrativos, Gerundios y Participios"
-        url: /gramatica-demosgerundparticipios/
-      - title: "El Imperfecto de Subjuntivo"
-        url: /gramatica-impsubjuntivo/
+      - title: ""
+        url:
+      - title: ""
+        url:
   - title: "Práctica"
-    url: /practica6.1/
+    url:
   - title: "Lectura"
-    url: /lectura6.1/
+    url:
 
 capitulo8:
   - title: "Gramática"
     children:
-      - title: "Demostrativos, Gerundios y Participios"
-        url: /gramatica-demosgerundparticipios/
-      - title: "El Imperfecto de Subjuntivo"
-        url: /gramatica-impsubjuntivo/
+      - title: ""
+        url:
+      - title: ""
+        url:
   - title: "Práctica"
-    url: /practica6.1/
-  - title: "Lectura: La mujer que cayó del cielo"
-    children:
-      - title: "Guía de Lectura"
-        url: /lectura6.1/
-      - title: "Después de Leer"
-        url: /lectura6.2/
+    url:
+  - title: "Lectura"
+    url:
