@@ -19,26 +19,26 @@ En el primer ejemplo, tenemos una cláusula nominal en el presente, y por eso en
 
 El imperfecto de subjuntivo se forma a partir de la 3ª persona del plural del pretérito. Después, le quitamos la terminación (-ron) y le agregamos las terminaciones del imperfecto de subjuntivo:
 
-Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es _bailaron_. A esta forma, le quitamos (-ron) y le añadimos las terminaciones siguientes:
+Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es _bailaron_. A esta forma, le quitamos (-ron) y le añadimos las terminaciones siguientes **(¡Cuidado con los acentos!)**:
 
       -AR/-ER/-IR
 
       baila-ra
-      baila-**ras**
-      baila-**ra**
-      bail**á**-**ramos**
-      bail**á**-**rais**
-      baila-**ran**
+      baila-ras
+      baila-ra
+      bailá-ramos
+      bailá-rais
+      baila-ran
 
 
 
 
 > **¡CUIDADO!**  
 >  
-> El imperfecto de subjuntivo solo es necesario si la cláusula lo requiere. Si la cláusula requiere indicativo, usamos el imperfecto de indicativo.
+> El imperfecto de subjuntivo solo es necesario si la cláusula lo requiere. Si la cláusula requiere indicativo, usamos el imperfecto de indicativo.   
 >
-> _**Creo** que Manuel **tiene** un coche rojo._ (Cláusula nominal en presente que requiere INDICATIVO)
-> _**No creo** que Manuel **tenga** un coche rojo._ (Cláusula nominal en presente que requiere SUBJUNTIVO)
-> vs.
-> _**Creía** que Manuel **tenía** un coche rojo._ (Cláusula nominal en pasado que requiere INDICATIVO)
-> _**No creía** que Manuel **tuviera** un coche rojo._ (Cláusula nominal en presente que requiere SUBJUNTIVO)
+> _**Creo** que Manuel **tiene** un coche rojo._ (Cláusula nominal en presente que requiere INDICATIVO)   
+> _**No creo** que Manuel **tenga** un coche rojo._ (Cláusula nominal en presente que requiere SUBJUNTIVO)   
+> vs.   
+> _**Creía** que Manuel **tenía** un coche rojo._ (Cláusula nominal en pasado que requiere INDICATIVO)    
+> _**No creía** que Manuel **tuviera** un coche rojo._ (Cláusula nominal en presente que requiere SUBJUNTIVO)    
