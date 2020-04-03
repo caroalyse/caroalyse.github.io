@@ -10,9 +10,9 @@ sidebar:
 
 En la unidad anterior, estudiamos el presente de subjuntivo y cómo usarlo en las cláusulas nominales, adjetivales y adverbiales. En general, cuando queremos expresar una cláusula en _pasado_, usaremos el **imperfecto de subjuntivo**, en lugar del presente de subjuntivo.
 
-  - _**Es** necesario que **sepamos** nuestros derechos humanos._
-    vs.
-    _**Era** necesario que **supiéramos** nuestros derechos humanos._
+  - _**Es** necesario que **sepamos** nuestros derechos humanos._  
+    vs.  
+    _**Era** necesario que **supiéramos** nuestros derechos humanos._  
 
 
 En el primer ejemplo, tenemos una cláusula nominal en el presente, y por eso en verbo en la cláusula subordinada es subjuntivo (**sepamos**). En el segundo ejemplo, tenemos la misma frase pero en pasado (**era necesario**), y por eso el verbo en la cláusula subordinada es imperfecto de subjuntivo (**supiéramos**).
@@ -23,7 +23,7 @@ Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es
 
       -AR/-ER/-IR
 
-      baila-**ra**
+      baila-ra
       baila-**ras**
       baila-**ra**
       bail**á**-**ramos**
