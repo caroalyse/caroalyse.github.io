@@ -165,7 +165,11 @@ capitulo6:
       - title: "El Imperfecto de Subjuntivo"
         url: /gramatica-impsubjuntivo/
   - title: "Práctica"
-    url: /practica6.1/
+    children:
+      - title: "Demostrativos, Gerundios y Participios"
+        url: /practica6.1/
+      - title: "El Imperfecto de Subjuntivo"
+        url: /practica6.2/
   - title: "Lectura: La mujer que cayó del cielo"
     children:
       - title: "Guía de Lectura"

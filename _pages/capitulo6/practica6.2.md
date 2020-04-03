@@ -9,12 +9,4 @@ kramdown:
   parse_block_html: true
 ---
 
-# Demostrativos
-
-
-
-# Gerundio
-
-
-
-# Participio
+# Imperfecto de Subjuntivo
