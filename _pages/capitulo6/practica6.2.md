@@ -10,8 +10,9 @@ kramdown:
 ---
 
 # Imperfecto de Subjuntivo
-**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**
-**Realizar**
+**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**    
+
+  **Realizar**
   <details><summary markdown=“span”>Respuesta</summary>
     yo realizara  
     tu realizaras  
