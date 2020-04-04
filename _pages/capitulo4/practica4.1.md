@@ -14,6 +14,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Realizar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo realice  
     tu realices  
     él/ella/usted realice  
@@ -25,6 +26,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Reventar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo reviente
     tú revientes
     él/ella/usted reviente
@@ -36,6 +38,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Rezar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo rece
     tú reces
     él/ella/usted rece
@@ -47,6 +50,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Soñar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo sueñe
     tú sueñes
     él/ella/usted sueñe
@@ -58,6 +62,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Tragar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo trague
     tú tragues
     él/ella/usted trague
@@ -69,6 +74,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Decir**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo diga
     tú digas
     él/ella/usted diga
@@ -80,6 +86,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Haber**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo haya
     tú hayas
     él/ella/usted haya
@@ -91,6 +98,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Tener**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo tenga
     tú tengas
     él/ella/usted tenga
@@ -102,6 +110,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Jugar**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo juegue
     tú juegues
     él/ella/usted juegue
@@ -113,6 +122,7 @@ _**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:
 
   **Ir**
   <details><summary markdown="span">Respuesta</summary>
+  
     yo vaya
     tú vayas
     él/ella/usted vaya

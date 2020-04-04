@@ -15,6 +15,7 @@ _**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**_
 
   **Realizar**
   <details><summary markdown=“span”>Respuesta</summary>
+  
     - yo realizara        
     - tu realizaras     
     - él/ella/usted realizara       
@@ -26,100 +27,109 @@ _**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**_
 
   **Reventar**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo reventara
-    tú reventaras
-    él/ella/usted reventara 
-    nosotros reventáramos
-    vosotros reventarais
-    ellos/ellas/ustedes reventaran 
+  
+    - yo reventara
+    - tú reventaras
+    - él/ella/usted reventara 
+    - nosotros reventáramos
+    - vosotros reventarais
+    - ellos/ellas/ustedes reventaran 
   </details>
   <br/>
 
   **Rezar**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo rezara 
-    tú rezaras
-    él/ella/usted rezara 
-    nosotros rezáramos 
-    vosotros rezarais
-    ellos/ellas/ustedes rezaran 
+  
+    - yo rezara 
+    - tú rezaras
+    - él/ella/usted rezara 
+    - nosotros rezáramos 
+    - vosotros rezarais
+    - ellos/ellas/ustedes rezaran 
   </details>
   <br/>
 
   **Soñar**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo soñara
-    tú soñaras 
-    él/ella/usted soñara
-    nosotros soñáramos 
-    vosotros soñarais
-    ellos/ellas/ustedes soñaran
+  
+    - yo soñara
+    - tú soñaras 
+    - él/ella/usted soñara
+    - nosotros soñáramos 
+    - vosotros soñarais
+    - ellos/ellas/ustedes soñaran
   </details>
   <br/>
 
   **Tragar**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo tragara
-    tú tragaras
-    él/ella/usted tragara
-    nosotros tragáramos 
-    vosotros tragarais
-    ellos/ellas/ustedes tragaran
+  
+    - yo tragara
+    - tú tragaras
+    - él/ella/usted tragara
+    - nosotros tragáramos 
+    - vosotros tragarais
+    - ellos/ellas/ustedes tragaran
   </details>
   <br/>
 
   **Decir**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo dijera
-    tú dijeras
-    él/ella/usted dijera
-    nosotros dijéramos
-    vosotros dijerais
-    ellos/ellas/ustedes dijeran
+  
+    - yo dijera
+    - tú dijeras
+    - él/ella/usted dijera
+    - nosotros dijéramos
+    - vosotros dijerais
+    - ellos/ellas/ustedes dijeran
   </details>
   <br/>
 
   **Haber**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo hubiera
-    tú hubieras
-    él/ella/usted hubiera
-    nosotros hubiéramos 
-    vosotros hubierais
-    ellos/ellas/ustedes hubieran
+  
+    - yo hubiera
+    - tú hubieras
+    - él/ella/usted hubiera
+    - nosotros hubiéramos 
+    - vosotros hubierais
+    - ellos/ellas/ustedes hubieran
   </details>
   <br/>
 
   **Tener**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo tuviera 
-    tú tuvieras
-    él/ella/usted tuviera
-    nosotros tuviéramos
-    vosotros tuvierais
-    ellos/ellas/ustedes tuvieran
+  
+    - yo tuviera 
+    - tú tuvieras
+    - él/ella/usted tuviera
+    - nosotros tuviéramos
+    - vosotros tuvierais
+    - ellos/ellas/ustedes tuvieran
   </details>
   <br/>
 
   **Jugar**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo jugara
-    tú jugaras
-    él/ella/usted jugara 
-    nosotros jugáramos
-    vosotros jugarais
-    ellos/ellas/ustedes jugaran 
+  
+    - yo jugara
+    - tú jugaras
+    - él/ella/usted jugara 
+    - nosotros jugáramos
+    - vosotros jugarais
+    - ellos/ellas/ustedes jugaran 
   </details>
   <br/>
 
   **Ir**
   <details><summary markdown=“span”>Respuesta</summary>
-    yo fuera
-    tú fueras
-    él/ella/usted fuera
-    nosotros fuéramos
-    vosotros fuerais
-    ellos/ellas/ustedes fueran
+  
+    - yo fuera
+    - tú fueras
+    - él/ella/usted fuera
+    - nosotros fuéramos
+    - vosotros fuerais
+    - ellos/ellas/ustedes fueran
   </details>
   <br/>
   
