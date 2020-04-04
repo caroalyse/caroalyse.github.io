@@ -17,7 +17,7 @@ Los adjetivos y los pronombres demostrativos se usan para referirse a objetos en
     aquel/aquella/aquellos/aquellas   lejos
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/demostrativos.jpg"><img src="https://sarroniz.github.io/S-280/images/demostrativos.jpg"></a>
+    <a href="https://sarroniz.github.io/S-280/images/demostrativos.png"><img src="https://sarroniz.github.io/S-280/images/demostrativos.png"></a>
 </figure>
 
 
