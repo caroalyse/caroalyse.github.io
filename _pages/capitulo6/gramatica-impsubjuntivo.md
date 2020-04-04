@@ -8,7 +8,7 @@ sidebar:
 
 # El Imperfecto de Subjuntivo
 
-En la unidad anterior, estudiamos el presente de subjuntivo y cómo usarlo en las cláusulas nominales, adjetivales y adverbiales. En general, cuando queremos expresar una cláusula en _pasado_, usaremos el **imperfecto de subjuntivo**, en lugar del presente de subjuntivo.
+En la unidad anterior, estudiamos el presente de subjuntivo y cómo usarlo en las cláusulas nominales, adjetivales y adverbiales. En general, cuando queremos expresar una cláusula en _pasado_, usaremos el **Imperfecto de subjuntivo**, en lugar del presente de subjuntivo. Es decir, el Imperfecto de subjuntivo se usa para referirnos a eventos **pasados** que pueden incluir acciones _incompletas, hipotéticas, o indefinidas_.
 
   - _**Es** necesario que **sepamos** nuestros derechos humanos._  
     vs.  
@@ -27,12 +27,24 @@ Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es
       baila-ras
       baila-ra
       bailá-ramos
-      bailá-rais
+      baila-rais
       baila-ran
 
-
-
-
+**Ejemplos de cláusulas:**
+- Cláusula Nominal:     
+   **PRESENTE:** _La abuela desea que su nieta **vea** el río lleno de peces._    
+   **PASADO:** _La abuela deseaba que su nieta **viera** el río lleno de peces._    
+   
+- Cláusula Ajetival:     
+   **PRESENTE:** _Mi padre está buscando un libro que **sea** sobre la gramática del español._  
+   **PASADO:** _Mi padre estaba buscando un libro que **fuera** sobre la gramática del español._    
+   
+- Cláusula adverbial:
+   **PRESENTE:** _Mis amigos y yo siempre hacemos la tarea aunque no **tengamos** tiempo._    
+   **PASADO:** _Mis amigos y yo siempre hacíamos la tarea aunque no **tuviéramos** tiempo._     
+  
+    
+     
 > **¡CUIDADO!**  
 >  
 > El imperfecto de subjuntivo solo es necesario si la cláusula lo requiere. Si la cláusula requiere indicativo, usamos el imperfecto de indicativo.   
@@ -42,3 +54,18 @@ Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es
 > vs.   
 > _**Creía** que Manuel **tenía** un coche rojo._ (Cláusula nominal en pasado que requiere INDICATIVO)    
 > _**No creía** que Manuel **tuviera** un coche rojo._ (Cláusula nominal en presente que requiere SUBJUNTIVO)    
+
+
+
+Podemos usar el Imperfecto de subjuntivo para hacer pedidos cordialmente o con mucha formalidad.   
+   _**Quisiera** saber si puedes ayudarme con la tarea._    
+
+
+También es común usar el Imperfecto de subjuntivo con “ojalá” para expresar deseos con muy poca probabilidad de que suceda. Si hay probabilidad de que la acción ocurra, usamos el presente. 
+
+   _Ojalá (que) **pueda** acompañarte a la fiesta._ (hay probabilidad -> Presente de subjuntivo)     
+   _Ojalá (que) **pudiera** acompañarte a la fiesta, pero estoy muy ocupado._ (poca probabilidad -> Imperfecto de subjuntivo)     
+    
+    
+> **¡CUIDADO!**  
+>      
