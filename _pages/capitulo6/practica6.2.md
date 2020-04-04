@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Práctica"
-permalink: /practica6.1/
+permalink: /practica6.2/
 sidebar:
    nav: capitulo6
 markdown: kramdown
