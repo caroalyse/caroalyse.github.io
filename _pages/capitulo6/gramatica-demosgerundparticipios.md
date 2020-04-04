@@ -34,13 +34,13 @@ _Listening to loud music damages your ears_ -> Escuchar música fuerte daña los
 
 > **¡Cuidado!**   
 > Tenemos formas irregulares:   
-> Cambio e>i    
-> decir – diciendo; pedir – pidiendo; repetir – repitiendo; sentir – sintiendo, servir – sirviendo, venir – viniendo, etc.   
+> - Cambio e>i    
+> decir – diciendo; pedir – pidiendo; repetir – repitiendo; sentir – sintiendo; servir – sirviendo; venir – viniendo, etc.   
 >  
-> Cambio o>u   
+> - Cambio o>u   
 > dormir – durmiendo; morir – muriendo; poder – pudiendo   
 >
-> Los verbos ir, leer, proveer, creer y los verbos que acaban en –uir, así como caer, oír y sus compuestos tienen la consonante "y" en el gerundio: ir - yendo; leer – leyendo; proveer – proveyendo; creer – creyendo; construir – construyendo; caer – cayendo; oír – oyendo; traer – trayendo; etc.   
+> - Los verbos ir, leer, proveer, creer y los verbos que acaban en –uir, así como caer, oír y sus compuestos tienen la consonante "y" en el gerundio: ir - yendo; leer – leyendo; proveer – proveyendo; creer – creyendo; construir – construyendo; caer – cayendo; oír – oyendo; traer – trayendo; etc.   
 
 
 # El Participio
