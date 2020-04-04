@@ -29,5 +29,5 @@ sidebar:
 
 > **Tarea:**
 > - Examen 2 antes del Sábado 4 de Abril a las 11:59 PM en Canvas.
-> - Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.
+> - Escritura 3 para el Domingo 12 de Abril a las 11:59 PM en Canvas.
 > - Leer: La mujer que cayó del cielo Escenas I-XIII (p. 49) y hacer la guía de lectura para estas escenas 
