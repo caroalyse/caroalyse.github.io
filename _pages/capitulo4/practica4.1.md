@@ -8,8 +8,9 @@ markdown: kramdown
 kramdown:
    parse_block_html: true
 ---
-## Subjuntivo
-**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:**    
+## Subjuntivo  
+
+_**Conjuga los siguientes verbos en todas sus formas del presente de subjuntivo:**_    
 
   **Realizar**
   <details><summary markdown="span">Respuesta</summary>

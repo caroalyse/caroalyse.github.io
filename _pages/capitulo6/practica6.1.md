@@ -9,8 +9,9 @@ kramdown:
   parse_block_html: true
 ---
 
-# Demostrativos
-**Para cada oración decide la forma correcta del demostrativo.**
+# Demostrativos  
+
+_**Para cada oración decide la forma correcta del demostrativo.**_
 
 1. _____________ declaración que tengo aquí me sorprende por su lista bastante larga de derechos inherentes.  
 <details><summary markdown="span">Respuesta</summary>

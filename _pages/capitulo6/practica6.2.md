@@ -9,8 +9,9 @@ kramdown:
   parse_block_html: true
 ---
 
-# Imperfecto de Subjuntivo
-**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**    
+# Imperfecto de Subjuntivo  
+
+_**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**_    
 
   **Realizar**
   <details><summary markdown=“span”>Respuesta</summary>
@@ -124,7 +125,7 @@ kramdown:
   
     
       
-**Para cada oración decide la forma correcta del verbo. ¡Cuidado! No siempre es imperfecto de subjuntivo**    
+_**Para cada oración decide la forma correcta del verbo. ¡Cuidado! No siempre es imperfecto de subjuntivo**_    
 
 1. Cuando éramos pequeños, era necesario que mi hermana y yo  __________ (tener) cuidado cuando íbamos al parque. 
   <details><summary markdown=“span”>Respuesta</summary>

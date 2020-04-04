@@ -9,9 +9,9 @@ kramdown:
    parse_block_html: true
 ---
 
-## Cláusulas adjetivales
+## Cláusulas adjetivales   
 
-- Completa las siguientes oraciones con el verbo en indicativo o subjuntivo:
+_**Completa las siguientes oraciones con el verbo en indicativo o subjuntivo:**_     
 
 1. Silla busca un lugar que ________ (ser) seguro.  
   <details><summary markdown="span">Respuesta</summary>
@@ -44,9 +44,9 @@ kramdown:
   <br/>
 
 
-## Cláusulas adverbiales
+## Cláusulas adverbiales   
 
-- Completa las siguientes oraciones con el verbo en indicativo o subjuntivo:
+_**Completa las siguientes oraciones con el verbo en indicativo o subjuntivo:**_    
 
 1. Kevin busca trabajo en los EEUU para que ________ (poder) ayudar a su familia.
   <details><summary markdown="span">Respuesta</summary>

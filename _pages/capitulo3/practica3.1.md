@@ -11,7 +11,7 @@ kramdown:
 
 # Verbos como "Gustar"
 
-**Para cada oración decide la forma correcta del pronombre y del verbo en presente de indicativo.**
+_**Para cada oración decide la forma correcta del pronombre y del verbo en presente de indicativo.**_
 
 1. (A ellos) _____  _____________ (preocupar) el tratado de libre comercio.  
 <details><summary markdown="span">Respuesta</summary>
