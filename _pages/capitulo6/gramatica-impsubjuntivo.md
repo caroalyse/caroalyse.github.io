@@ -39,7 +39,7 @@ Por ejemplo, para el verbo _bailar_, la 3ª persona del plural del pretérito es
    **PRESENTE:** _Mi padre está buscando un libro que **sea** sobre la gramática del español._  
    **PASADO:** _Mi padre estaba buscando un libro que **fuera** sobre la gramática del español._    
    
-- Cláusula adverbial:
+- Cláusula adverbial:   
    **PRESENTE:** _Mis amigos y yo siempre hacemos la tarea aunque no **tengamos** tiempo._    
    **PASADO:** _Mis amigos y yo siempre hacíamos la tarea aunque no **tuviéramos** tiempo._     
   
@@ -67,5 +67,4 @@ También es común usar el Imperfecto de subjuntivo con “ojalá” para expres
    _Ojalá (que) **pudiera** acompañarte a la fiesta, pero estoy muy ocupado._ (poca probabilidad -> Imperfecto de subjuntivo)     
     
     
-> **¡CUIDADO!**  
->      
+
