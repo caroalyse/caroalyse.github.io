@@ -15,12 +15,12 @@ _**Conjuga los siguientes verbos en el Imperfecto de Subjuntivo.**_
 
   **Realizar**
   <details><summary markdown=“span”>Respuesta</summary>
-    - yo realizara  
-    - tu realizaras  
-    - él/ella/usted realizara   
-    - nosotros realizáramos   
-    - vosotros realizarais    
-    - ellos/ellas/ustedes realizaran  
+    - yo realizara        
+    - tu realizaras     
+    - él/ella/usted realizara       
+    - nosotros realizáramos       
+    - vosotros realizarais        
+    - ellos/ellas/ustedes realizaran      
   </details>
   <br/>
 
