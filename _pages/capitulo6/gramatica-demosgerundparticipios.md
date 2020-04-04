@@ -16,7 +16,7 @@ Los adjetivos y los pronombres demostrativos se usan para referirse a objetos en
     ese/esa/esos/esas                 distancia media
     aquel/aquella/aquellos/aquellas   lejos
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/demostrativos.png"><img src="https://sarroniz.github.io/S-280/images/demostrativos.png"></a>
 </figure>
 
