@@ -32,7 +32,7 @@ El gerundio en español **nunca** funciona como adjetivo, cláusulas subordinada
 _Working women_ -> Mujeres que trabajan (**NO** Mujeres trabajandas)   
 _Listening to loud music damages your ears_ -> Escuchar música fuerte daña los oídos. (**NO** Escuchando música fuerte daña los oídos.)    
 
-> ¡Cuidado!   
+> **¡Cuidado!**   
 > Tenemos formas irregulares:   
 > Cambio e>i    
 > decir – diciendo; pedir – pidiendo; repetir – repitiendo; sentir – sintiendo, servir – sirviendo, venir – viniendo, etc.   
@@ -49,7 +49,7 @@ El participio es otra forma no personal del verbo que se emplea para conjugar ti
 
 Para las formas regulares, eliminamos  la terminación -ar, -er, -ir del infinitivo y añadimos -ado, -ada/-ido, -ida, respectivamente.
 
-> ¡Cuidado!   
+> **¡Cuidado!**   
 > Tenemos formas irregulares:
 > - abrir: abierto
 > - cubrir: cubierto
