@@ -29,18 +29,18 @@ _En el Pacífico, los infantes de Marina de Estados Unidos todavía estaban **lu
 
 El gerundio en español **nunca** funciona como adjetivo, cláusulas subordinadas de relativo, o como sustantivos. Esto es diferente del inglés. Para estos casos, normalmente usamos el infinitivo.   
 
-_Working women_ -> Mujeres que trabajan (~~mujeres trabajandas~~)   
-_Listening to loud music damages your ears_ -> Escuchar música fuerte daña los oídos. (~~Escuchando música fuerte daña los oídos.~~)    
+_Working women_ -> Mujeres que trabajan (**NO** Mujeres trabajandas)   
+_Listening to loud music damages your ears_ -> Escuchar música fuerte daña los oídos. (**NO** Escuchando música fuerte daña los oídos.)    
 
 > ¡Cuidado!   
-> Tenemos formas irregulares:
-> Cambio e>i
-> decir – diciendo; pedir – pidiendo; repetir – repitiendo; sentir – sintiendo, servir – sirviendo, venir – viniendo, etc.
+> Tenemos formas irregulares:   
+> Cambio e>i    
+> decir – diciendo; pedir – pidiendo; repetir – repitiendo; sentir – sintiendo, servir – sirviendo, venir – viniendo, etc.   
+>  
+> Cambio o>u   
+> dormir – durmiendo; morir – muriendo; poder – pudiendo   
 >
-> Cambio o>u
-> dormir – durmiendo; morir – muriendo; poder – pudiendo
->
-> Los verbos ir, leer, proveer, creer y los verbos que acaban en –uir, así como caer, oír y sus compuestos tienen la consonante "y" en el gerundio: ir - yendo; leer – leyendo; proveer – proveyendo; creer – creyendo; construir – construyendo; caer – cayendo; oír – oyendo; traer – trayendo; etc.
+> Los verbos ir, leer, proveer, creer y los verbos que acaban en –uir, así como caer, oír y sus compuestos tienen la consonante "y" en el gerundio: ir - yendo; leer – leyendo; proveer – proveyendo; creer – creyendo; construir – construyendo; caer – cayendo; oír – oyendo; traer – trayendo; etc.   
 
 
 # El Participio
