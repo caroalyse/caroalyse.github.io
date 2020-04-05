@@ -33,8 +33,68 @@ _**Para cada oración decide la forma correcta del demostrativo.**_
 <br/>
 
 
-# Gerundio
+# Gerundio  
 
+_**Actividad B, p. 162-163**_   
+<details><summary markdown="span">Respuesta</summary>   
 
+- 1. promoviendo
+- 2. defendiendo
+- 3. garantizando
+- 4. fomentando
+- 5. recibiendo
+- 6. analizando
+- 7. investigando
+- 8. observando
+- 9. publicando
+- 10. realizando
+- 11. estimulando
+- 12. presentando
+</details>
+<br/>
 
-# Participio
+# Participio   
+
+_**Conjuga el participio para cada uno de estos verbos:**_    
+
+  **Hablar**
+  <details><summary markdown="span">Respuesta</summary>
+    hablado
+  </details>
+  <br/>
+
+  **Hacer**
+  <details><summary markdown="span">Respuesta</summary>
+    hecho
+  </details>
+  <br/>
+
+  **Escribir**
+  <details><summary markdown="span">Respuesta</summary>
+    escrito
+  </details>
+  <br/>
+
+  **Elegir**
+  <details><summary markdown="span">Respuesta</summary>
+    elegido
+  </details>
+  <br/>
+
+  **Determinar**
+  <details><summary markdown="span">Respuesta</summary>
+    determinado
+  </details>
+  <br/>
+
+  **Comer**
+  <details><summary markdown="span">Respuesta</summary>
+    comido
+  </details>
+  <br/>
+
+  **Romper**
+  <details><summary markdown="span">Respuesta</summary>
+    roto
+  </details>
+  <br/>
