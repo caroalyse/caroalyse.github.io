@@ -6,10 +6,6 @@ sidebar:
    nav: OnlineTeaching2020
 ---
 
-> **AHORA EN ZOOM!:**   
-> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
-
-
 > **ANUNCIOS:**  
 > A partir de hoy, vamos a usar un blog personal online para evaluar la participación. Para crear nuestro blog, vamos a seguir estas instrucciones:
 > 1. Abrimos este link: https://sdnotes.com/ (Esta web crea automáticamente un blog personal para cada uno, por lo que cada estudiante tendrá su propio código).
@@ -25,9 +21,9 @@ sidebar:
 > 2. Capítulo 6: Los Derechos Humanos
 > - Hacer “Después de leer” A & B (pp. 159-161)
 > - Repaso de los demostrativos, gerundios y participios: Escrituras 1A & B (pp. 143-144), 3B (p. 162) y B (p.167-168).
-> - Repaso imperfecto de subjuntivo. Ejercicios complementarios en la pagina de práctica.
+> - Repaso imperfecto de subjuntivo. Ejercicios complementarios en la página de práctica.
 
 > **Tarea:**
 > - Examen 2 antes del Sábado 4 de Abril a las 11:59 PM en Canvas.
 > - Escritura 3 para el Domingo 12 de Abril a las 11:59 PM en Canvas.
-> - Leer: La mujer que cayó del cielo Escenas I-XIII (p. 49) y hacer la guía de lectura para estas escenas 
+> - Leer: La mujer que cayó del cielo Escenas I-XIII (p. 49) y hacer la guía de lectura para estas escenas
