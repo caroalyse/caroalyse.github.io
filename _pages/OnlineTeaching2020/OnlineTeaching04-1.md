@@ -8,7 +8,7 @@ sidebar:
 
 > **ANUNCIOS:**  
 > El examen 2 está disponible para completarlo en Canvas.
-> Escritura 3 para el Domingo 5 de Abril a las 11:59 PM en Canvas.
+> Escritura 3 para el Domingo 12 de Abril a las 11:59 PM en Canvas.
 
 <figure style="width: 300px" class="align-right">
     <a href="https://sarroniz.github.io/S-280/images/meme8.jpg"><img src="https://sarroniz.github.io/S-280/images/meme8.jpg"></a>
