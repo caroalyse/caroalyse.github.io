@@ -10,15 +10,15 @@ sidebar:
 > Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
 
 > **ANUNCIOS:**  
-> Completa este cuestionario para conocer tu opinión sobre la clase: [https://iu.co1.qualtrics.com/jfe/form/SV_cMEA8Nijyds3Ddr](https://iu.co1.qualtrics.com/jfe/form/SV_cMEA8Nijyds3Ddr)      
-> Si no lo habéis hecho ya, no olvidéis crear el blog personal en sdnotes y mandarme el link por Qualtrics. Podéis enontrar la información en el [post del viernes](https://sarroniz.github.io/S-280/OnlineTeaching04-3/).    
-> Discusión Oral por Zoom para entregar el Domingo 12 de Abril a las 23:59. Tenéis la información en Canvas > Tareas.
+> - Completa este cuestionario para conocer tu opinión sobre la clase: [https://iu.co1.qualtrics.com/jfe/form/SV_cMEA8Nijyds3Ddr](https://iu.co1.qualtrics.com/jfe/form/SV_cMEA8Nijyds3Ddr)      
+> - Si no lo habéis hecho ya, no olvidéis crear el blog personal en sdnotes y mandarme el link por Qualtrics. Podéis enontrar la información en el [post del viernes](https://sarroniz.github.io/S-280/OnlineTeaching04-3/).    
+> - Discusión Oral por Zoom para entregar el Domingo 12 de Abril a las 23:59. Tenéis la información en Canvas > Tareas.
 
 > **PLAN PARA HOY:**
 > CAPÍTULO 6: LOS DERECHOS HUMANOS:
 	¿Cómo se definen y qué papel desempeña las Naciones Unidas? (p. 157)     
-	Si no lo hiciste el viernes:     
-  - Repaso de demostrativos, gerundios y participios (p. 143-44, 162, 167-68) & imperfecto 	de subjuntivo (p. 153)
+>	Si no lo hiciste el viernes:     
+>  - Repaso de demostrativos, gerundios y participios (p. 143-44, 162, 167-68) & imperfecto 	de subjuntivo (p. 153)
 
 
 > **Tarea:**
