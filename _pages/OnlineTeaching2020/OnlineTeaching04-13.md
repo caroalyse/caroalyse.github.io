@@ -22,6 +22,7 @@ sidebar:
 > https://www.jstor.org/stable/41636652?seq=1#metadata_info_tab_contents   
 
 > **Tarea:**
+> - Publicar en el blog personal de sdnotes un nuevo post. El tema de hoy: ¿Qué aspectos crees que pueden llevar a una persona a emigrar y dejar a las personas que quieren y todas sus pertenencias atrás? (~7 oraciones)
 > - Tarea para entregar 6 -> 15 de Abril, antes de la medianoche en Canvas   
 > - Tarea para entregar 7 -> 17 de Abril, antes de la medianoche en Canvas   
 > - Tarea para entregar 8 -> 19 de Abril, antes de la medianoche en Canvas
