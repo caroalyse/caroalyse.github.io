@@ -16,10 +16,10 @@ sidebar:
 > **PLAN PARA HOY:**  
 > - Vamos a seguir trabajando en "La mujer que cayó del cielo". Esta semana terminamos la lectura. Tenemos que entregar 3 tareas esta semana + Discusión por Zoom 2 para el domingo.   
 > - Aquí tenéis algunos artículos y vídeos relacionados con la lectura:     
-> https://clasico.difusionnorte.com/fallecio-rita-la-mujer-que-cayo-del-cielo/      
-> https://www.youtube.com/watch?v=TKjfTqk0hto    
-> https://www.youtube.com/watch?v=vj2lar4BhQI   
-> https://www.jstor.org/stable/41636652?seq=1#metadata_info_tab_contents   
+> [https://clasico.difusionnorte.com/fallecio-rita-la-mujer-que-cayo-del-cielo/](https://clasico.difusionnorte.com/fallecio-rita-la-mujer-que-cayo-del-cielo/ )      
+> [https://www.youtube.com/watch?v=TKjfTqk0hto](https://www.youtube.com/watch?v=TKjfTqk0hto)    
+> [https://www.youtube.com/watch?v=vj2lar4BhQI](https://www.youtube.com/watch?v=vj2lar4BhQI)   
+> [https://www.jstor.org/stable/41636652?seq=1#metadata_info_tab_contents](https://www.jstor.org/stable/41636652?seq=1#metadata_info_tab_contents)     
 
 > **Tarea:**
 > - Publicar en el blog personal de sdnotes un nuevo post. El tema de hoy: ¿Qué aspectos crees que pueden llevar a una persona a emigrar y dejar a las personas que quieren y todas sus pertenencias atrás? (~7 oraciones)
