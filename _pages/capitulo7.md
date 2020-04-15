@@ -8,6 +8,10 @@ sidebar:
 
 # _La Guerra y La Paz_
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme3.jpg"><img src="https://sarroniz.github.io/S-280/images/meme3.jpg"></a>
+</figure>
+
 ## El chiste:
 
 _- ¡Soldado Miralles!   
@@ -15,9 +19,7 @@ _- ¡Soldado Miralles!
 \- No lo vi ayer en la prueba de camuflaje.    
 \- ¡Gracias, mi capitán!_    
 
-<figure style="width: 300px" class="align-right">
-    <a href="https://sarroniz.github.io/S-280/images/meme3.jpg"><img src="https://sarroniz.github.io/S-280/images/meme3.jpg"></a>
-</figure>
+
 
 ## El trabalenguas:
 
