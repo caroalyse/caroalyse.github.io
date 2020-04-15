@@ -1,4 +1,4 @@
---
+---
 layout: archive
 title: "Práctica"
 permalink: /practica7.1/

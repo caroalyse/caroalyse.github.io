@@ -3,7 +3,7 @@ layout: archive
 title: "Capítulo 7"
 permalink: /7/
 sidebar:
-  nav: single
+  nav: capitulo7
 ---
 
 # _La Guerra y La Paz_

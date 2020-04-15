@@ -33,5 +33,5 @@ sidebar:
 </details>
 <br/>
 
-> **Tarea:**
+> **Tarea:**   
 > Trabajar en las tareas para esta semana. Puedes consultar las fechas de entrega en [Administrativo](https://sarroniz.github.io/S-280/Administrativo/)
