@@ -7,9 +7,6 @@ sidebar:
 ---
 
 # _La Guerra y La Paz_
-<!---
-%
-
 
 ## El chiste:
 
@@ -18,6 +15,9 @@ _- ¡Soldado Miralles!
 \- No lo vi ayer en la prueba de camuflaje.    
 \- ¡Gracias, mi capitán!_    
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme3.jpg"><img src="https://sarroniz.github.io/S-280/images/meme3.jpg"></a>
+</figure>
 
 ## El trabalenguas:
 
@@ -26,6 +26,9 @@ en tres tristes trastos sentados tras un trigal.
 Sentados tras un trigal, en tres tristes trastos   
 tragaban trigo tres tristes tigres._    
 
+<figure style="width: 300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme2.jpg"><img src="https://sarroniz.github.io/S-280/images/meme2.jpg"></a>
+</figure>
 
 ## El refrán:
 
@@ -35,5 +38,3 @@ _Sobre gustos, no hay nada escrito._
 ## La frase hecha (idiom):
 
 _Echar agua al mar. (To do something pointless / To put a drop in the bucket)_
-
--->

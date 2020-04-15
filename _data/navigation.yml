@@ -180,14 +180,14 @@ capitulo6:
 capitulo7:
   - title: "Gramática"
     children:
-      - title: ""
-        url:
-      - title: ""
-        url:
+      - title: "Tiempos Perfectos"
+        url: /gramatica-tiemposperfectos/
+      #- title: ""
+      #  url:
   - title: "Práctica"
-    url:
-  - title: "Lectura"
-    url:
+    url: /practica7.1/
+  #- title: "Lectura"
+  #  url:
 
 capitulo8:
   - title: "Gramática"
