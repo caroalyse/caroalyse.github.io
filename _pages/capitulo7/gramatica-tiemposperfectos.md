@@ -20,14 +20,14 @@ sidebar:
 
 Podemos encontrar tiempos perfectos en presente de indicativo o subjuntivo:   
 
-**INDICATIVO**   
+**PRESENTE PERFECTO DE INDICATIVO**   
 Conjugamos el verbo _haber_ en **presente de indicativo** y añadimos el participio del verbo principal:    
 - _Yo **he** jugado fútbol esta mañana._   
 - _Mi madre no **ha** comprado pan todavía._   
 - _Hasta ahora nosotros no **hemos** dicho que eso es verdad._   
 
 
-**SUBJUNTIVO**   
+**PRESENTE PERFECTO DE SUBJUNTIVO**   
 Conjugamos el verbo _haber_ en **presente de subjuntivo** y añadimos el participio del verbo principal:   
 - _No es cierto que yo **haya** jugado fútbol esta mañana._   
 - _Es posible que mi madre no **haya** comprado pan todavía._    
