@@ -185,7 +185,9 @@ capitulo7:
       #- title: ""
       #  url:
   - title: "Práctica"
-    url: /practica7.1/
+    children:
+      - title: "Tiempos Perfectos"
+        url: /practica7.1/
   #- title: "Lectura"
   #  url:
 
