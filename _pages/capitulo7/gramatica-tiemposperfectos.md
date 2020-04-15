@@ -12,7 +12,7 @@ sidebar:
 
 # Los tiempos perfectos
 
-- En general, los tiempos perfectos están formados por el verbo _haber_ conjugado + el **participio** (-ado/-ido -> hablado/comido).  
+- En general, los tiempos perfectos están formados por el verbo _**haber**_ conjugado + el **participio** (-ado/-ido -> hablado/comido).  
 - Usamos los tiempos perfectos para expresar acciones o estados que han concluido cerca del momento en el que hablamos.  
 
 
