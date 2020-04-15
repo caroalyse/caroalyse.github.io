@@ -12,11 +12,11 @@ sidebar:
 
 # Los tiempos perfectos
 
-En general, los tiempos perfectos están formados por el verbo "haber" conjugado + el participio (-ado/-ido -> hablado/comido).  
-Usamos los tiempos perfectos para expresar acciones o estados que han concluido cerca del momento en el que hablamos.  
+- En general, los tiempos perfectos están formados por el verbo _haber_ conjugado + el **participio** (-ado/-ido -> hablado/comido).  
+- Usamos los tiempos perfectos para expresar acciones o estados que han concluido cerca del momento en el que hablamos.  
 
 
-### Los tiempos perfectos en PRESENTE
+## Los tiempos perfectos en PRESENTE
 
 Podemos encontrar tiempos perfectos en presente de indicativo o subjuntivo:   
 
@@ -38,7 +38,7 @@ Conjugamos el verbo _haber_ en **presente de subjuntivo** y añadimos el partici
 > Hay algunos adverbios temporales que suelen aparecer con los tiempos perfectos en presente: **ya, aún, todavía, hasta ahora, últimamente, etc.**    
 
 
-### Los tiempos perfectos en PASADO: EL PLUSCUAMPERFECTO
+## Los tiempos perfectos en PASADO: EL PLUSCUAMPERFECTO
 
 Podemos encontrar tiempos perfectos en pasado de indicativo o subjuntivo. Estos tiempos se llaman PLUSCUAMPERFECTO.       
 
@@ -52,6 +52,6 @@ Conjugamos el verbo _haber_ en **imperfecto de subjuntivo** y añadimos el parti
 - _Era imposible que tú **hubieras bailado** mucho aquella noche cuando decidiste salir._     
 - _Ojalá que nosotros **hubiéramos estudiado** mucho cuando tomamos el examen._   
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
     <a href="https://sarroniz.github.io/S-280/images/tiemposperfectos.png"><img src="https://sarroniz.github.io/S-280/images/tiemposperfectos.png"></a>
 </figure>
