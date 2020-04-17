@@ -5,9 +5,6 @@ permalink: /OnlineTeaching04-15/
 sidebar:
    nav: OnlineTeaching2020
 ---
-> **AHORA EN ZOOM!:**     
-> Si necesitas ayuda, puedes contactar conmigo hoy de 2:30 a 4:30 PM (EST) en [https://iu.zoom.us/my/sarroniz](https://iu.zoom.us/my/sarroniz)
-
 
 > **ANUNCIOS:**    
 > Este viernes, 17 de Abril, a las 14:30 EST vamos a tener una reunión por Zoom todos los que queráis practicar y charlar con vuestros compañeros. Esta será una actividad OPCIONAL: aquellos estudiantes que quieran practicar durante un rato.  
