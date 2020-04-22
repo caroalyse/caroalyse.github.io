@@ -10,7 +10,7 @@ sidebar:
 > ø
 
 > **PLAN PARA HOY:**     
-> Ver “Nuestos desaparecidos”: (https://vimeo.com/140972462)[https://vimeo.com/140972462] (inglés); (https://vimeo.com/21408555)[https://vimeo.com/21408555] (español). 
+> Ver “Nuestos desaparecidos”: [https://vimeo.com/140972462](https://vimeo.com/140972462) (inglés); [https://vimeo.com/21408555](https://vimeo.com/21408555) (español). 
 
 ## _Nuestos desaparecidos:_  
 -  **Vocabulario útil:**    
