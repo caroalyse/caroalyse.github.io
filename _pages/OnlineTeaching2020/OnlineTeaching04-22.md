@@ -31,4 +31,4 @@ La sospecha ≠ La confianza
 > **Tarea:**      
 > Tarea para entregar 9: p. 150-151 “Después de ver A”, a responder a 6 preguntas; antes de la medianoche, 23 de Abril.  
 > Discusión Oral por Zoom 3 en Canvas antes de la medianoche, 26 de abril.  
-
+> Ensayo 4 para antes de la medianoche, 26 de Abril.     
