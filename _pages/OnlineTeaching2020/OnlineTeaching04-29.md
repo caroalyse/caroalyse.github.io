@@ -5,13 +5,11 @@ permalink: /OnlineTeaching04-29/
 sidebar:
    nav: OnlineTeaching2020
 ---
-<!---
 > **ANUNCIOS:**  
->
+> ø
 
-> **PLAN PARA HOY:**
->
+> **PLAN PARA HOY:**   
+> Trabajar en todas las tareas que quedan para el curso y estudiar para el Examen.   
 
-> **Tarea:**
->
--->
+> **Tarea:**   
+> Terminar las tareas y estudiar para el examen. 
