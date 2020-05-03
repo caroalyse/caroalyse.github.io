@@ -15,7 +15,7 @@ sidebar:
    - Tiempo **Futuro**:
       - _Iré al cine la semana que viene._
 
-- El tiempo **Futuro** puede expresar acciones que occurrirán en un futuro cercano o distante.
+- El tiempo **Futuro** puede expresar acciones que ocurrirán en un futuro cercano o distante.
 
 - En los verbos **_regulares_**, se forma añadiendo las siguientes terminaciones al **infinitivo**:
    - yo hablar-**é**
