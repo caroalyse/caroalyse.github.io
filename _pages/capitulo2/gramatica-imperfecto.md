@@ -32,5 +32,5 @@ Usaremos el imperfecto en los siguientes contextos:
 - Para decir la hora en el pasado.   
   _Eran las dos de la tarde._   
   
-- Para hablar de dos acciones que occurían simultáneamente en el pasado.   
+- Para hablar de dos acciones que ocurían simultáneamente en el pasado.   
   _Mientras yo leía en la sala, mis compañeros de casa preparaban la comida en la cocina._
