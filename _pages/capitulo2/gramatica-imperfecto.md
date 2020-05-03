@@ -18,7 +18,7 @@ El imperfecto es otra forma de expresar el pasado en español. Las formas de los
     bail-aban       beb-ían        sal-ían
     
 
-Usaremos el pretérito en los siguientes contextos: 
+Usaremos el imperfecto en los siguientes contextos: 
 
 - Para expresar acciones habituales o repetidas.  
   _Cada año, celebrábamos mi cumpleaños en Chuck E. Cheese._  
