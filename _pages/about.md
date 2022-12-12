@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HISP S-280"
+title: "Caroline Amodeo Williams"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -9,5 +9,5 @@ redirect_from:
 toc: true
 ---
 
-En esta web encontrarás el material usado en la clase **HISP S-280** por [Santiago Arróniz](https://sarroniz.github.io), A.I. del Departamento de Español y Portugués de Indiana University. Los capítulos, así como el material correspondiente a cada uno de ellos, están basados en el libro de texto _El cine documental: Spanish Language and Culture through Documentary Film_, escrito por Tammy Jandrey Hertel y Stasie Harrington (Ed. 2016). 
+My name is Caroline and I'm current a M.A. student in Hispanic Linguistics in the Department of Spanish and Portuguese at Indiana University. In this website, you'll find information on my current and past research, projects, and professional experience. Thank you for visiting! 
 
