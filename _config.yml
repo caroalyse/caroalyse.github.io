@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "HISP S-280"
 title_separator          : "-"
-#name                     : &name "Santiago Arróniz"
-#description              : &description "Ph.D. Student at Indiana University."
-#url                      : https://sarroniz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#name                     : &name "Caroline Amodeo Williams"
+#description              : &description "M.A. Student in Hispanic Linguistics at Indiana University."
+#url                      : https://caroalyse.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caroalyse.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Santiago Arróniz"
+  name             : "Caroline Amodeo Williams"
   avatar           : "Foto Santi 1 copia.jpeg"
   bio              : "Ph.D. Student at Indiana University."
   location         : "Bloomington, Indiana"
