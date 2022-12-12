@@ -18,6 +18,6 @@ Originally from Blacksburg, Virginia, I completed a B.A. in Spanish Literature a
 </figure>
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://caroalyse.github.io/files/Photo_bench.jpg"><img src="https://caroalyse.github.io/files/Photo_bench.jpg"></a>
+    <a href="files/Photo_bench.jpg"><img src="/files/Photo_bench.jpg"></a>
 </figure>
 
