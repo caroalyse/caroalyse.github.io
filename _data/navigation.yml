@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Online Teaching 2020"
+  - title: "About"
     url: /OnlineTeachingMain/
 
-  - title: "Capítulo 1"
+  - title: "CV"
     url: /1/
 
-  - title: "Capítulo 2"
+  - title: "Teaching"
     url: /2/
 
-  - title: "Capítulo 3"
+  - title: "Projects"
     url: /3/
 
-  - title: "Capítulo 4"
+  - title: "Publications"
     url: /4/
 
   - title: "Capítulo 5"
