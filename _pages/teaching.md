@@ -13,8 +13,8 @@ TEACHING EXPERIENCE
 **Associate Instructor of Spanish**–_Indiana University Department of Spanish & Portuguese, Bloomington, IN_
 Aug 2022 – Present 
 	Instruct Spanish courses to adult L2 Spanish learners. Plan and give grammar, vocabulary, and cultural lessons using the communicative approach, where class time focuses on opportunities for students to interact in the L2.  
-	**Teaching Assignments:**
-	* HISP-S 105: First Year Spanish (Fall 2022 – Spring 2022) 
+**Teaching Assignments:** 
+* HISP-S 105: First Year Spanish (Fall 2022 – Spring 2022) 
 
 **English Instructor**–_The Salvation Army Corps, Coatesville, PA _
 Oct 2019 – Feb 2020
