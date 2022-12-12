@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
+Download a copy of my [current Curriculum Vitae here].
+
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 **Indiana University, Bloomington, IN—August 2022 to present**
 M.A. Hispanic Linguistics
