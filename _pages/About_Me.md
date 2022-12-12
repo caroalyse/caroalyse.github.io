@@ -12,4 +12,3 @@ My name is Caroline and I'm current a M.A. student in Hispanic Linguistics in th
 
 Originally from Blacksburg, Virginia, I completed a B.A. in Spanish Literature and Language, a B.A. in Music Performance, and an Honors Baccalaureate in Language Sciences at Virginia Tech. In my free time, I enjoy long distance running, cooking, social dancing, traveling, and taking care of my many houseplants.
 
- <img src="/images/meme3.jpg">
