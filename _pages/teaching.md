@@ -4,10 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Coming soon...
-
-
-<!--{% include base_path %}
+{% include base_path %}
 
 Download a PDF of my current Teaching Philosophy Statement Here: [CAW-TeachingPhilosophyStatement-2022-12.pdf](https://github.com/caroalyse/caroalyse.github.io/files/10212632/CAW-TeachingPhilosophyStatement-2022-12.pdf)
 
@@ -43,7 +40,4 @@ Oct 2018 – February 2019
 2015 – 2017 
 	Gave private classes to beginner trumpet learners. Instruction included fundamentals of trumpet playing, focus on embouchure, articulations, and collaborative playing to master concepts. 
 
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}-->
+****
