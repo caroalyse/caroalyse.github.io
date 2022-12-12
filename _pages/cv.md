@@ -146,3 +146,35 @@ COMMUNITY LEADERSHIP & INVOLVEMENT
 * **Olé at VT:** Virginia Tech (2014-2017). Founding officer of Flamenco dance team. Coordinated rehearsals, learning choreography, and performances. 
 * **Trumpet Section Leader:** Virginia Tech (2016-2017). Guided group rehearsals for Jazz and Wind Ensemble to meet detailed objectives and improve team unity.
 * **School of Performing Arts Student Advisory Committee:** Virginia Tech (2014-2015). Collaborated on a select panel of students that dialogued future direction of School of Performing Arts during a mass restructuring of school’s programs. 
+
+PROFESSIONAL EXPERIENCE
+======
+**Administrative Assistant** – _Countdown, Brooklyn, NY – remote_
+Feb 2022 – present 
+Oversee company financial data through maintaining accurate accounts receivable and payable. Report on monthly operations. Manage human resource and compliance needs, including employee benefits and insurance.
+
+**Client Service Associate** – _Penn Rise Advisors, Parkesburg, PA_ 
+Feb 2021 – Apr 2022 
+Oversaw insurance administration for individual and business clients, including applications, enrollment changes, and other maintenance. Advocated on behalf of clients to insurance companies; investigate claims and processing issues. 
+
+**Donor Relations Coordinator** – _Canine Partners for Life, Cochranville, PA_ 
+Dec 2019 – Feb 2021 
+Used Excel, Word, and CRM database to record all donations, manage data, acknowledge donors, build lists, generate reports. Acted as donor liaison; protected confidential data. Served as database manager and mentor. 
+
+**Performance & Artist Supervisor** – _Longwood Gardens, Kennett Square, PA_ 
+Aug 2019 – June 2021
+Managed a team of attendants to ensure performance and event success. Assisted with guest needs and inquiries, including conflict resolution and emergency response. Worked as a point of contact for visiting artists. 
+
+**Performing Arts Administration Intern** – _Longwood Gardens, Kennett Square, PA_ 
+Aug 2017 – Sept 2018
+Acted as department contact by managing office email and phone. Tracked event sales/revenue; maintained website content; supported event logistics. Compiled 10 years of archives into a comprehensive Excel database. 
+
+**Honors College Admission Intern** – _Virginia Tech, Blacksburg, VA_
+Jan 2016 – May 2016
+Performed initial review and evaluation of hundreds of applications to the Honors College with a team of Honors students. Served on the interview panel to determine future scholarship recipients. 
+
+TECHNICAL COMPETENCIES
+======
+Praat acoustic analysis | Qualtrics survey design | CRM & Relational databases | Research methods | Proof-reading & editing | Data organization & visualization | Project supervision | Formatting | Microsoft Excel, Word, Outlook, PowerPoint, Publisher, Access
+
+****
