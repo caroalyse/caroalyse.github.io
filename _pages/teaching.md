@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Download a PDF of my current Teaching Philosophy Statement Here: [CAW-TeachingPhilosophyStatement-2022-12.pdf](https://github.com/caroalyse/caroalyse.github.io/files/10212632/CAW-TeachingPhilosophyStatement-2022-12.pdf)
+Download a PDF of my current Teaching Philosophy Statement here: [CAW-TeachingPhilosophyStatement-2022-12.pdf](https://github.com/caroalyse/caroalyse.github.io/files/10212632/CAW-TeachingPhilosophyStatement-2022-12.pdf)
 
 TEACHING EXPERIENCE
 ======
