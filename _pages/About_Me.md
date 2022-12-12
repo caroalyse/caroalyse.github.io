@@ -8,7 +8,7 @@ toc: true
 
 My name is Caroline and I'm current a M.A. student in Hispanic Linguistics in the [Department of Spanish and Portuguese at Indiana University](https://spanport.indiana.edu/graduate/hispanic-linguistics/index.html). My current research interests include second language acquisition, instructed second language acquisition, phonology, and phonetics. 
 
-<img src="{{ site.url }}/files/Photo_bench2.jpeg/" max-width="90%">
+{{ site.url }}/files/Photo_bench2.jpeg/" max-width="90%"
 
 Originally from Blacksburg, Virginia, I completed a B.A. in Spanish Literature and Language, a B.A. in Music Performance, and an Honors Baccalaureate in Language Sciences at Virginia Tech. In my free time, I enjoy long distance running, cooking, social dancing, traveling, and taking care of my many houseplants.
 
