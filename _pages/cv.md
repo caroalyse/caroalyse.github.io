@@ -15,77 +15,72 @@ Download a PDF of my current Curriculum Vitae here: [CAW_CV_2022_12_12.pdf](http
 EDUCATION
 ======
 **Indiana University, Bloomington, IN—August 2022 to present**
-	M.A. Hispanic Linguistics
+* M.A. Hispanic Linguistics
 
 **Virginia Polytechnic Institute and State University, Blacksburg, VA—May 2017**
-	B.A. Spanish, summa cum laude
-	B.A. Music, summa cum laude
-	Honors Baccalaureate Degree: Language Sciences
-	Minor: Language Sciences
+* B.A. Spanish, _summa cum laude_
+* B.A. Music, _summa cum laude_
+* Honors Baccalaureate Degree: Language Sciences
+* Minor: Language Sciences
 
 _Honors Thesis_: Individual developmental trajectories of gender marking in L2 Spanish
 
 **Graduate Coursework**
-FL 5114: _Applied Linguistics_ – Dr. Aarnes Gudmestad
-FL 5334: _Topics in Hispanic Culture, Literature, & Language_ – Dr. María del Carmen Caña Jiménez 
+* FL 5114: _Applied Linguistics_ – Dr. Aarnes Gudmestad
+* FL 5334: _Topics in Hispanic Culture, Literature, & Language_ – Dr. María del Carmen Caña Jiménez 
 
 RESEARCH
 ======
-**Linguistics Research Assistant to Dr. Aarnes Gudmestad**, _Virginia Tech, Blacksburg, VA (remote)_
+**Linguistics Research Assistant to Dr. Aarnes Gudmestad**, _Virginia Tech, Blacksburg, VA (remote)_.
 July 2017 – present
-	Code L1/L2 Spanish linguistic data (oral, narrative, written) to create a body of data for analysis. Coding includes gender marking, subject expression, and collocations. Follow and revise coding schemes.
+* Code L1/L2 Spanish linguistic data (oral, narrative, written) to create a body of data for analysis. Coding includes gender marking, subject expression, and collocations. Follow and revise coding schemes.
 
-**Undergraduate Linguistics Research and Thesis**, _Virginia Tech, Blacksburg, VA_
-“Individual Developmental Trajectories of Gender Marking in L2 Spanish”
-August 2016—May 2017
-	Second language acquisition research built on Gudmestad, Edmonds, and Williams (2016), which analyzed the L2 development of gender marking in Spanish in a study-abroad context over time. Added third data-collection point to expand longitudinal scope and examined targetlike rates of use of L2 Spanish gender marking through a variationist perspective.
+**Undergraduate Linguistics Research and Thesis**, _Virginia Tech, Blacksburg, VA_. 
+August 2016—May 2017. “Individual Developmental Trajectories of Gender Marking in L2 Spanish”
+* Second language acquisition research built on Gudmestad, Edmonds, and Williams (2016), which analyzed the L2 development of gender marking in Spanish in a study-abroad context over time. Added third data-collection point to expand longitudinal scope and examined targetlike rates of use of L2 Spanish gender marking through a variationist perspective.
  
-**Undergraduate Research Assistant to Dr. María del Carmen Caña Jiménez**, _Virginia Tech, Blacksburg, VA_
-“Music, Dance, and Language: Explore VT through Flamenco”
-May 2017—August 2017
-	Collaborated on interactive presentation and demonstration of flamenco history and dance; presented at summer program for prospective students through College of Liberal Arts Diversity grant. Presentation toured in Virginia as part of university initiative to increase student diversity enrollment. 
+**Undergraduate Research Assistant to Dr. María del Carmen Caña Jiménez**, _Virginia Tech, Blacksburg, VA_. 
+May 2017—August 2017 “Music, Dance, and Language: Explore VT through Flamenco”. 
+* Collaborated on interactive presentation and demonstration of flamenco history and dance; presented at summer program for prospective students through College of Liberal Arts Diversity grant. Presentation toured in Virginia as part of university initiative to increase student diversity enrollment. 
 	
 **Independent Undergraduate Research**, _Virginia Tech, Blacksburg, VA_
-“Exploring Flamenco Vocal Tradition through Trumpet Performance”
-2016 – 2017
-	Advised by Dr. Caña Jiménez and Dr. Jason Crafton, study on transferring sung Spanish in traditional flamenco music to trumpet performance and interpretation through music transcription. 
+2016 – 2017. “Exploring Flamenco Vocal Tradition through Trumpet Performance”. 
+* Advised by Dr. Caña Jiménez and Dr. Jason Crafton, study on transferring sung Spanish in traditional flamenco music to trumpet performance and interpretation through music transcription. 
  
-**Undergraduate Research Assistant to Dr. Jason Crafton**, _Virginia Tech, Blacksburg, VA_
-2016 – 2017 
-	Co-authored publication examining complications with trumpet embouchure (facial positioning) that prohibit long-term success, while providing pedagogical solutions to improve. 
+**Undergraduate Research Assistant to Dr. Jason Crafton**, _Virginia Tech, Blacksburg, VA_. 
+2016 – 2017. 
+* Co-authored publication examining complications with trumpet embouchure (facial positioning) that prohibit long-term success, while providing pedagogical solutions to improve. 
 
   
 TEACHING EXPERIENCE
 ======
-**Associate Instructor of Spanish**–_Indiana University Department of Spanish & Portuguese, Bloomington, IN_
-Aug 2022 – Present 
-	Instruct Spanish courses to adult L2 Spanish learners. Plan and give grammar, vocabulary, and cultural lessons using the communicative approach, where class time focuses on opportunities for students to interact in the L2.  
+**Associate Instructor of Spanish**–_Indiana University Department of Spanish & Portuguese, Bloomington, IN_. 
+Aug 2022 – Present. 
+* Instruct Spanish courses to adult L2 Spanish learners. Plan and give grammar, vocabulary, and cultural lessons using the communicative approach, where class time focuses on opportunities for students to interact in the L2.  
+
 	**Teaching Assignments:**
 	* HISP-S 105: First Year Spanish (Fall 2022 – Spring 2022) 
 
-**English Instructor**–_The Salvation Army Corps, Coatesville, PA _
-Oct 2019 – Feb 2020
-	Designed and taught L2 English classes to adult L1 Spanish speakers. Classes addressed common difficulties when learning English and vocabulary to help in professional settings. 
+**English Instructor**–_The Salvation Army Corps, Coatesville, PA_. 
+Oct 2019 – Feb 2020. 
+* Designed and taught L2 English classes to adult L1 Spanish speakers. Classes addressed common difficulties when learning English and vocabulary to help in professional settings. 
 	
-**Language and Cultural Ambassador**–_Junta de Andalucía, Málaga, Spain_ 
-Oct 2018 – June 2019
-	Collaborated with professors in five subjects: taught 200+ students as an instructional assistant at a bilingual school. 
+**Language and Cultural Ambassador**–_Junta de Andalucía, Málaga, Spain_. 
+Oct 2018 – June 2019. 
+* Collaborated with professors in five subjects: taught 200+ students as an instructional assistant at a bilingual school. 
 	
-**Private English Tutor**—_Málaga, Spain _
-Oct 2018 – June 2019
-	Gave individualized language instruction to L1 Spanish learners of all ages and proficiencies through conversation practice and interactive activities. 
+**Private English Tutor**—_Málaga, Spain_. 
+Oct 2018 – June 2019. 
+* Gave individualized language instruction to L1 Spanish learners of all ages and proficiencies through conversation practice and interactive activities. 
 
-**English Instructor**—_Campus III Idiomas, Alhaurín de la Torre, Spain_
-Oct 2018 – February 2019
-	Instructed three Cambridge English Exam preparatory courses at language academy (levels A1 through B2) to L1 Spanish speakers. Curriculum emphasized fundamentals of grammar and vocabulary for beginner through intermediate L2 English.   
+**English Instructor**—_Campus III Idiomas, Alhaurín de la Torre, Spain_. Oct 2018 – February 2019. 
+* Instructed three Cambridge English Exam preparatory courses at language academy (levels A1 through B2) to L1 Spanish speakers. Curriculum emphasized fundamentals of grammar and vocabulary for beginner through intermediate L2 English.   
 
-**Honors College Teaching Assistant**—_Virginia Tech, Blacksburg, VA_ 
-2015 – 2017
-	Created and taught three reading seminars for the Honors College. Facilitated discussion-based classes, planned enrichment activities, gave feedback on assignments. In tandem with course, participated in teaching practicum to workshop curriculum and pedagogical methods. 
+**Honors College Teaching Assistant**—_Virginia Tech, Blacksburg, VA_. 2015 – 2017. 
+* Created and taught three reading seminars for the Honors College. Facilitated discussion-based classes, planned enrichment activities, gave feedback on assignments. In tandem with course, participated in teaching practicum to workshop curriculum and pedagogical methods. 
 
-**Private Trumpet Instructor**—_Blacksburg, VA_
-2015 – 2017 
-	Gave private classes to beginner trumpet learners. Instruction included fundamentals of trumpet playing, focus on embouchure, articulations, and collaborative playing to master concepts. 
+**Private Trumpet Instructor**—_Blacksburg, VA_. 2015 – 2017. 
+* Gave private classes to beginner trumpet learners. Instruction included fundamentals of trumpet playing, focus on embouchure, articulations, and collaborative playing to master concepts. 
 
 PUBLICATIONS
 ======
@@ -102,13 +97,12 @@ PRESENTATIONS
 
 EVIDENCE OF TEACHING ENGAGEMENT
 ======
-**Spanish Language Teaching Methods**—_Department of Spanish & Portuguese, Indiana University_
-Fall 2022
-	Enrollment in HISP-S 517. Built foundational knowledge of teaching university-level second-language learners in a classroom setting. Course focused on task-based language learning and application of empirically supported research on instructed second language acquisition. Developed instructional materials and workshopped pedagogical techniques.
+**Spanish Language Teaching Methods**—_Department of Spanish & Portuguese, Indiana University_. Fall 2022. 
+* Enrollment in HISP-S 517. Built foundational knowledge of teaching university-level second-language learners in a classroom setting. Course focused on task-based language learning and application of empirically supported research on instructed second language acquisition. Developed instructional materials and workshopped pedagogical techniques.
 	
 **Williams Amodeo, Caroline (submitted).** ¿Dónde se compra la comida? Task-Based Language Learning Task Bank. https://tblt.indiana.edu/index.html. 
 
-**Workshop Attendance**—_How to Write a Teaching Statement (for grad students and postdocs)_
+**Workshop Attendance**—_How to Write a Teaching Statement (for grad students and postdocs)_. 
 Oct 2022
 
 LANGUAGE EXPERIENCE
@@ -149,8 +143,7 @@ COMMUNITY LEADERSHIP & INVOLVEMENT
 
 PROFESSIONAL EXPERIENCE
 ======
-**Administrative Assistant** – _Countdown, Brooklyn, NY – remote_
-Feb 2022 – present 
+**Administrative Assistant** – _Countdown, Brooklyn, NY – remote_. Feb 2022 – present. 
 Oversee company financial data through maintaining accurate accounts receivable and payable. Report on monthly operations. Manage human resource and compliance needs, including employee benefits and insurance.
 
 **Client Service Associate** – _Penn Rise Advisors, Parkesburg, PA_ 
