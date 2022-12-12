@@ -8,7 +8,6 @@ toc: true
 
 My name is Caroline and I'm current a M.A. student in Hispanic Linguistics in the [Department of Spanish and Portuguese at Indiana University](https://spanport.indiana.edu/graduate/hispanic-linguistics/index.html). My current research interests include second language acquisition, instructed second language acquisition, phonology, and phonetics. 
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 ![Alt text](https://github.com/caroalyse/caroalyse.github.io/blob/master/files/Photo_bench2.jpeg "a title")
 
 
