@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download a copy of my [current Curriculum Vitae here].
+Download a copy of my [current Curriculum Vitae here](https://github.com/caroalyse/caroalyse.github.io/blob/dev/files/CAW_CV_2022.12.12.pdf).
 
 {% include base_path %}
 
