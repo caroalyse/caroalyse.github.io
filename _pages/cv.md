@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF of my [current Curriculum Vitae here](https://github.com/caroalyse/caroalyse.github.io/blob/dev/files/CAW_CV_2022.12.12.pdf).
+Download a PDF of my [current Curriculum Vitae here](/caroalyse.github.io/blob/dev/files/CAW_CV_2022.12.12.pdf).
 
 EDUCATION
 ======
