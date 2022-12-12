@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HISP S-280"
+title                    : "Caroline Amodeo Williams"
 title_separator          : "-"
 #name                     : &name "Caroline Amodeo Williams"
 #description              : &description "M.A. Student in Hispanic Linguistics at Indiana University."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Caroline Amodeo Williams"
   avatar           : "Foto Santi 1 copia.jpeg"
-  bio              : "Ph.D. Student at Indiana University."
+  bio              : "M.A. Student in Hispanic Linguistics at Indiana University."
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   academia         : "https://indiana.academia.edu/SantiagoArróniz"
   facebook         :
   foursquare       :
-  github           : "sarroniz"
+  github           : "caroalyse"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "santiago-arroniz"
+  linkedin         : "carolineamodeo"
   orcid            : "https://orcid.org/0000-0003-2104-8217"
   pinterest        :
   soundcloud       :
