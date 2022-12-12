@@ -10,7 +10,6 @@ Download a PDF of my current Teaching Philosophy Statement Here: [CAW-TeachingPh
 
 TEACHING EXPERIENCE
 ======
----
 <p><strong>Associate Instructor of Spanish</strong>–<em>Indiana University Department of Spanish & Portuguese, Bloomington, IN</em><br>
 Aug 2022 – Present 
 
