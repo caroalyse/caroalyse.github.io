@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "HISP S-280"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: false
 redirect_from: 
   - /about/
@@ -9,5 +9,8 @@ redirect_from:
 toc: true
 ---
 
-En esta web encontrarás el material usado en la clase **HISP S-280** por [Santiago Arróniz](https://sarroniz.github.io), A.I. del Departamento de Español y Portugués de Indiana University. Los capítulos, así como el material correspondiente a cada uno de ellos, están basados en el libro de texto _El cine documental: Spanish Language and Culture through Documentary Film_, escrito por Tammy Jandrey Hertel y Stasie Harrington (Ed. 2016). 
+Welcome to my website! 
 
+<figure style="width=300px" class="align-right">
+    <a href="https://sarroniz.github.io/S-280/images/meme3.jpg"><img src="https://sarroniz.github.io/S-280/images/meme3.jpg"></a>
+</figure>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.A. in English Studies, Universidad de Sevilla, 2015
-* M.A. in Hispanic Linguistics, Indiana University, 2018
-* M.A. in Linguistics, Literature and Culture Studies, with special mention in English Linguistics, Universidad de Sevilla, 2019
-* Ph.D in Hispanic Linguistics, with a Minor in Computational Linguistics, Indiana University, 2024 (expected)
+Download a PDF of my [current Curriculum Vitae here](/files/CAW_CV_2022.12.12.pdf/).
 
-Work experience
+EDUCATION
+======
+**Indiana University, Bloomington, IN—August 2022 to present**
+M.A. Hispanic Linguistics
+
+**Virginia Polytechnic Institute and State University, Blacksburg, VA—May 2017**
+B.A. Spanish, summa cum laude
+B.A. Music, summa cum laude
+Honors Baccalaureate Degree: Language Sciences
+Minor: Language Sciences
+
+Honors Thesis: Individual developmental trajectories of gender marking in L2 Spanish
+	Graduate Coursework
+FL 5114: Applied Linguistics – Dr. Aarnes Gudmestad
+FL 5334: Topics in Hispanic Culture, Literature, & Language – Dr. María del Carmen Caña Jiménez 
+
+Work experience -- edit past this point
 ======
 * Fall 2016: Associate Instructor
   * Department of Spanish and Portuguese
