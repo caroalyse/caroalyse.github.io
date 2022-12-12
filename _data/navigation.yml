@@ -4,7 +4,7 @@ main:
     url: /OnlineTeachingMain/
 
   - title: "CV"
-    url: /1/
+    url: /cv/
 
   - title: "Teaching"
     url: /2/
