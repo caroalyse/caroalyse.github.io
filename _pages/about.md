@@ -16,4 +16,4 @@ Welcome to my website! Here will you find my latest CV, teaching experiences, pr
 
 [Research Gate](https://www.researchgate.net/profile/Caroline-Amodeo-Williams)
 
-[linkedIn](https://www.linkedin.com/in/carolineamodeo/)
+[LinkedIn](https://www.linkedin.com/in/carolineamodeo/)
