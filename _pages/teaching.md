@@ -37,3 +37,6 @@ Oct 2018 – June 2019.
 
 **Private Trumpet Instructor**—_Blacksburg, VA_. 2015 – 2017. 
 * Gave private classes to beginner trumpet learners. Instruction included fundamentals of trumpet playing, focus on embouchure, articulations, and collaborative playing to master concepts. 
+
+***
+
