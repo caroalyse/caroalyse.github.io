@@ -15,4 +15,5 @@ sidebar: ![headshot_small](https://user-images.githubusercontent.com/120326574/2
 Welcome to my website! Here will you find my latest CV, teaching experiences, projects, and publications. Thanks for visiting. 
 
 [Research Gate](https://www.researchgate.net/profile/Caroline-Amodeo-Williams)
+
 [linkedIn](https://www.linkedin.com/in/carolineamodeo/)
