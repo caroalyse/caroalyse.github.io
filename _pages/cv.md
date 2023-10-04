@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a PDF of my current Curriculum Vitae here: [CAW_CV_2022_12_12.pdf](https://github.com/caroalyse/caroalyse.github.io/files/10211277/CAW_CV_2022_12_12.pdf)
+Download a PDF of my current Curriculum Vitae here:[Caroline Amodeo - CV.pdf](https://github.com/caroalyse/caroalyse.github.io/files/12807010/Caroline.Amodeo.-.CV.pdf)
 
 
 EDUCATION
