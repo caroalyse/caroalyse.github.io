@@ -117,7 +117,7 @@ _Immersive Spanish Language Studies_
 	
 **French**: Advanced beginner
 
-LANGUAGE EXPERIENCE
+AWARDS & GRANTS
 ======
 * Department of Spanish & Portuguese Start Up Funds: $3,000 (2022-2023)
 * The Phi Beta Kappa Honors Society (May 2017)
