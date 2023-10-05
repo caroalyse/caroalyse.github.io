@@ -133,6 +133,7 @@ AWARDS & GRANTS
 
 COMMUNITY LEADERSHIP & INVOLVEMENT
 ======
+* **Department of Spanish & Portuguese Graduate Student Advisory Committee, Social Chair**: IN (May 2022-May 2023). Serve on the commitee that serves as the liaison between graduate students and faculty in the department, advocating on student body's behalf. Act as Social Chair, planning and coordinating events to foster community across students, faculty, and staff in department.
 * **Council Member of The Phi Beta Kappa Association of Delaware Valley**: PA (Oct 2021-Oct 2022). Served on the council that oversees activities of Association, including events, finances, membership, public relations, relations with national Society, and with college/university chapters in the region.
 * **Phi Beta Kappa Delaware Valley Young Professionals Advisory Committee**: PA (Oct 2020-Aug 2022). Served as a primary conversation facilitator and event leader for the chapter’s virtual and in-person events. 
 * **Staff Task Force & Focus Group**: Canine Partners for Life (Feb 2020-Feb 2021). Served on a committee dedicated to solving staff-suggested areas for improvement of the organization.
