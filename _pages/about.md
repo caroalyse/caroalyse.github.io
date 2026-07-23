@@ -6,7 +6,7 @@ subtitle: PhD Student in <a href='https://spanport.indiana.edu/about/graduate-st
 
 profile:
   align: right
-  image: caroline-amodeo-williams.jpg
+  image: CAW.jpg
   image_circular: false
 
 selected_papers: false # enable after adding publications
