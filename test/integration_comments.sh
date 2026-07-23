@@ -4,11 +4,41 @@ set -euo pipefail
 tmp_dir="$(mktemp -d)"
 tmp_override="${tmp_dir}/comments-test-override.yml"
 tmp_site="${tmp_dir}/site"
+created_fixtures=()
+created_posts_dir=false
 
 cleanup() {
+  for fixture in "${created_fixtures[@]}"; do
+    rm -f -- "${fixture}"
+  done
+  if [[ "${created_posts_dir}" == true ]]; then
+    rmdir "_posts" 2>/dev/null || true
+  fi
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+install_post_fixture() {
+  local source_path="$1"
+  local target_path="$2"
+
+  if [[ ! -f "${source_path}" ]]; then
+    echo "missing comments integration fixture: ${source_path}" >&2
+    exit 1
+  fi
+
+  if [[ ! -f "${target_path}" ]]; then
+    if [[ ! -d "_posts" ]]; then
+      created_posts_dir=true
+    fi
+    mkdir -p "$(dirname "${target_path}")"
+    cp "${source_path}" "${target_path}"
+    created_fixtures+=("${target_path}")
+  fi
+}
+
+install_post_fixture "_posts_demo/2022-12-10-giscus-comments.md" "_posts/2022-12-10-giscus-comments.md"
+install_post_fixture "_posts_demo/2015-10-20-disqus-comments.md" "_posts/2015-10-20-disqus-comments.md"
 
 cat >"${tmp_override}" <<'YAML'
 giscus:
