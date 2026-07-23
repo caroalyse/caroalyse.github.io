@@ -4,11 +4,34 @@ set -euo pipefail
 tmp_dir="$(mktemp -d)"
 tmp_override="${tmp_dir}/distill-override.yml"
 tmp_site="${tmp_dir}/site"
+distill_fixture="_posts/2018-12-22-distill.md"
+created_fixture=false
+created_posts_dir=false
 
 cleanup() {
+  if [[ "${created_fixture}" == true ]]; then
+    rm -f -- "${distill_fixture}"
+  fi
+  if [[ "${created_posts_dir}" == true ]]; then
+    rmdir "_posts" 2>/dev/null || true
+  fi
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+if [[ ! -f "${distill_fixture}" ]]; then
+  if [[ ! -f "_posts_demo/2018-12-22-distill.md" ]]; then
+    echo "missing distill integration fixture: _posts_demo/2018-12-22-distill.md" >&2
+    exit 1
+  fi
+
+  if [[ ! -d "_posts" ]]; then
+    created_posts_dir=true
+  fi
+  mkdir -p "_posts"
+  cp "_posts_demo/2018-12-22-distill.md" "${distill_fixture}"
+  created_fixture=true
+fi
 
 cat >"${tmp_override}" <<'YAML'
 giscus:
