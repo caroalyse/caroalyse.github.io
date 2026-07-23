@@ -6,7 +6,7 @@ subtitle: PhD Student in <a href='https://spanport.indiana.edu/about/graduate-st
 
 profile:
   align: right
-  image: CAW.jpg
+  image: CAW.JPG
   image_circular: false
 
 selected_papers: false # enable after adding publications
@@ -23,7 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-Welcome! I'm Caroline Amodeo Williams, a Ph.D. student in Hispanic Linguistics and Computational Linguistics at Indiana University Bloomington. My research focuses on lexical semantics, computational linguistics, and pragmatics. I'm particularly interested in computational models of meaning and how context and multilingual experience can shape lexical representation over time. 
+Welcome! I'm Caroline Amodeo Williams, a Ph.D. student in Hispanic Linguistics and Computational Linguistics at Indiana University Bloomington. My research focuses on lexical semantics, computational linguistics, and pragmatics. I'm particularly interested in computational models of meaning and how context and multilingual experience can shape lexical representation over time.
 
 My background in second language acquisition, variationist linguistics, and corpus methods informs this work by grounding computational questions in authentic language use and communicative settings. Alongside my research, I teach Spanish language courses using communicative and task-based (TBLT) approaches.
