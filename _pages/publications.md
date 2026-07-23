@@ -7,4 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-Publication information will be available here soon.
+<div class="publications">
+  {% bibliography %}
+</div>

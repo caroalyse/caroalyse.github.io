@@ -1,189 +1,394 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Caroline Amodeo Williams
+  label: Ph.D. Student in Hispanic and Computational Linguistics
+  email: caramode@iu.edu
+  location: Bloomington, IN
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Indiana University
+        location: Bloomington, IN
+        area: Hispanic Linguistics
+        studyType: Ph.D.
+        end_date: "Expected May 2029"
+
+      - institution: Indiana University
+        location: Bloomington, IN
+        area: Computational Linguistics
+        studyType: Ph.D.
+        end_date: "Expected May 2029"
+
+      - institution: Indiana University
+        location: Bloomington, IN
+        area: Hispanic Linguistics
+        studyType: M.A.
+        end_date: "May 2024"
+
+      - institution: Virginia Polytechnic Institute and State University
+        location: Blacksburg, VA
+        area: Spanish
+        studyType: B.A., summa cum laude
+        end_date: "May 2017"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Honors Baccalaureate Degree, Language Sciences
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - institution: Virginia Polytechnic Institute and State University
+        location: Blacksburg, VA
+        area: Music
+        studyType: B.A., summa cum laude
+        end_date: "May 2017"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "SchoolOpsAI®: Helping School Leaders Turn Data Into Action; Evidence from a year-long pilot"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Caroline Amodeo Williams
+        publisher: SchoolOpsAI®
+        releaseDate: 2026
+        url: https://www.schoolops.ai/blog/our-first-research-white-paper-is-here
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "What type is it? Exploring the polysemy of tipo with contextualized embeddings"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Caroline Amodeo Williams
+          - Patrícia Amaral
+        publisher: Proceedings of the Linguistic Society of America, 11(1), 6145
+        releaseDate: 2026
+        url: https://doi.org/10.3765/plsa.v11i1.6145
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "¿Qué empezamos con?: Attitudes, input, and acceptance of preposition stranding in U.S. Spanish"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Caroline Amodeo Williams
+          - Anthony Brandy
+        publisher: Isogloss. Open Journal of Romance Linguistics, 11(4), 1–36
+        releaseDate: 2025
+        url: https://doi.org/10.5565/rev/isogloss.506
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Selected Presentations & Workshops:
+      - title: "Mapping meaning: a semantic network of tipo in European Portuguese"
+        authors:
+          - Caroline Amodeo Williams
+        date: "May 16, 2026"
+        location: East Lansing, MI
+        summary: Conference presentation at the 56th Linguistics Symposium on Romance Languages (LSRL 56).
+
+      - title: "From Needs Analysis to Design: Task-Based Spanish for Business at the University Level"
+        authors:
+          - Caroline Amodeo Williams
+        date: "March 21, 2026"
+        location: Chicago, IL
+        summary: Conference presentation at the American Association for Applied Linguistics (AAAL).
+
+      - title: "What type is it? Exploring the polysemy of tipo with contextualized embeddings"
+        authors:
+          - Caroline Amodeo Williams
+          - Patrícia Amaral
+        date: "January 10, 2026"
+        location: New Orleans, LA
+        summary: Conference presentation at the Linguistic Society of America (LSA).
+
+      - title: "Get what I mean? No hace sentido: The roles of exposure, abstractness, and code-switching in the acceptability of agarrar and hacer as light verbs in U.S. Spanish"
+        authors:
+          - Caroline Amodeo Williams
+          - Anthony Brandy
+          - M. Gastelum
+        date: "November 14, 2025"
+        location: Tucson, AZ
+        summary: Conference presentation at the Hispanic Linguistics Symposium (HLS).
+
+      - title: "I don’t know quién más querría celebrar con: Input and attitudes in the acceptability of preposition stranding in U.S. Spanish"
+        authors:
+          - Anthony Brandy
+          - Caroline Amodeo Williams
+          - M. Gastelum
+        date: "September 12, 2025"
+        location: Santo Domingo, Dominican Republic
+        summary: Conference presentation at the 55th Linguistic Symposium on Romance Languages (LSRL).
+
+      - title: "Processing, Perception, and Pedagogy: Approaching Multilingualism from Different Angles"
+        authors:
+          - Caroline Amodeo Williams
+        date: "May 5, 2025"
+        location: Blacksburg, VA
+        summary: Invited speaker at the Virginia Tech Linguistics Symposium.
+
+      - title: "Back to the Individual: The Effect of Individual Differences on Gender and Mood Variation in L2 Spanish"
+        authors:
+          - Anthony Brandy
+          - I. Galarza Galarza
+          - Caroline Amodeo Williams
+        date: "November 8, 2024"
+        location: Miami, FL
+        summary: Conference presentation at New Ways of Analyzing Variation (NWAV).
+
+    Teaching Experience:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Associate Instructor of Spanish
+        location: Bloomington, IN
+        start_date: "August 2022"
+        end_date: Present
+        summary: >-
+          Instructor of record for undergraduate and graduate Spanish as a Second Language (L2) and Heritage
+          Language (HL) courses. Develop and deliver communicative and task-based instruction integrating grammar,
+          vocabulary, and cultural content through meaningful, real-world language use. Design exams, project-based
+          assessments, accessible course materials, and instructor resources. Teach in-person and synchronous online
+          courses using a flipped-classroom model and evidence-based L2 and HL pedagogy.
+        highlights:
+          - "HISP-S 105: Accelerated First Year Spanish (Fall 2022–Spring 2023)"
+          - "HISP-S 200: Intermediate Spanish, Level I (Fall 2023–Spring 2024)"
+          - "HISP-S 250: Intermediate Spanish, Level II (Fall 2024; Summer 2025 online)"
+          - "HISP-S 280: Spanish Grammar in Context (Spring 2025–Fall 2025)"
+          - "HISP-S 281: Advanced Spanish for Heritage Speakers (Spring 2026–Fall 2026)"
+          - "HISP-S 492: Readings in Spanish for Graduate Students (Summer 2026 online)"
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Tutor
+        location: Bloomington, IN
+        start_date: "August 2024"
+        end_date: "August 2025"
+        summary: >-
+          Provided individualized academic support to undergraduate students, including support for Spanish
+          language courses, project management, academic writing, and exam preparation.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Teaching Assistant
+        location: Bloomington, IN
+        start_date: "May 2023"
+        end_date: "August 2025"
+        summary: >-
+          Assisted Dr. Laura Gurzynski-Weiss with SPAN-T510, Second Language Acquisition for Spanish Teaching,
+          by reviewing student assignments and supporting online course administration and correspondence.
+        highlights:
+          - Appointments held May–August 2023 and May–August 2025.
+
+    Honors, Awards & Grants:
+      - title: College of Arts and Sciences Travel Award
+        date: "Fall 2025"
+        awarder: Indiana University
+        summary: "$750"
+
+      - title: Foreign Language and Area Studies Fellowship (FLAS)
+        date: "Summer 2024"
+        awarder: Indiana University
+        summary: "$9,000"
+
+      - title: Department of Spanish & Portuguese Start-Up Funds
+        date: 2022–2023
+        awarder: Indiana University
+        summary: "$3,000"
+
+      - title: The Phi Beta Kappa Honors Society
+        date: "May 2017"
+
+      - title: The Phi Kappa Phi Honors Society
+        date: "April 2015"
+
+      - title: Calhoun Liberal Arts Scholar
+        date: 2013–2017
+        awarder: Virginia Tech Honors College
+        summary: "$40,000 Honors College scholarship"
+
+      - title: Outstanding Major Award
+        date: 2017
+        awarder: Department of Modern and Classical Languages and Literatures
+
+      - title: Aspire! Award for Curiosity
+        date: "April 2015"
+        summary: Recognized a lifelong commitment to intellectual development.
+
+    Research Experience:
+      - company: SchoolOpsAI®
+        position: Director of User Success & Research
+        start_date: "August 2025"
+        end_date: Present
+        summary: >-
+          Conduct mixed-methods user research through surveys, interviews, and impact-data analysis to assess
+          engagement and outcomes with an AI-based data-analysis platform. Produce actionable insights and reports
+          for leadership, maintain relationships with pilot users, inform strategy and user experience, and synthesize
+          results for public-facing documentation.
+
+      - company: Virginia Tech
+        position: Linguistics Research Assistant to Dr. Aarnes Gudmestad
+        start_date: "July 2017"
+        end_date: "August 2025"
+        summary: >-
+          Coded L1 and L2 Spanish oral, narrative, and written data to create corpora for analysis. Coding included
+          gender marking, subjunctive and indicative interpretation, subject expression, and collocational data.
+          Followed and revised coding schemes.
+
+      - company: Indiana University
+        position: Linguistics Research Assistant to Dr. Leslie Del Carpio
+        start_date: "July 2024"
+        end_date: "July 2024"
+        summary: Transcribed interview data for linguistic analysis of Spanish as a Heritage Language.
+
+      - company: Virginia Tech
+        position: Undergraduate Linguistics Research and Thesis
+        start_date: "August 2016"
+        end_date: "May 2017"
+        summary: >-
+          “Individual Developmental Trajectories of Gender Marking in L2 Spanish.” Extended Gudmestad, Edmonds,
+          and Williams (2016) by adding a third data-collection point to increase the longitudinal scope of a
+          study-abroad corpus and examining learners’ gender marking from a variationist perspective.
+
+    Evidence of Teaching Engagement:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Seminar on Task-Based Language Teaching
+        start_date: "Spring 2025"
+        end_date: "Spring 2025"
+        summary: >-
+          Developed practical and theoretical expertise in task-based language teaching. Designed and evaluated
+          task-based materials and conducted an in-depth needs analysis for an upper-level undergraduate Spanish
+          course at Indiana University.
+
+      - company: Graduate Student Learning Community
+        position: Strengthening Teaching Methods and Pedagogies
+        start_date: "Spring 2024"
+        end_date: "Spring 2024"
+        summary: >-
+          Strengthened evidence-based, inclusive teaching methods in a semester-long learning community and earned
+          the Associate Certificate of Teaching through the Graduate Teaching Apprenticeship Program in CIRTL.
+        highlights:
+          - "Cultivating Inclusive Learning: Designing Syllabi for Student Success"
+          - Designing Engaging Lectures
+          - Strengthen Students’ Long-term Retention
+          - Get Students to Interact Remotely
+          - Developing your Teaching Philosophy Statement for a Faculty Job Search
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Heritage Language Pedagogy
+        start_date: "Spring 2023"
+        end_date: "Spring 2023"
+        summary: >-
+          Developed pedagogical skills focused on Spanish heritage learners, language maintenance, and multilingual
+          competence, with attention to the fundamental differences between heritage and L2 learning contexts.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Second Language Teaching Methods
+        start_date: "Fall 2022"
+        end_date: "Fall 2022"
+        summary: >-
+          Built foundational knowledge of task-based university-level second-language instruction and empirically
+          supported research on instructed second language acquisition. Developed instructional materials and
+          workshopped pedagogical techniques.
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: Native
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Spanish
+        summary: Near native
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Portuguese
+        summary: Advanced intermediate (B2)
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Italian
+        summary: Intermediate
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: French
+        summary: Reading proficiency
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Professional Service:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Co-Chair, Graduate Student Advisory Committee
+        start_date: "May 2025"
+        end_date: "May 2026"
+        summary: >-
+          Coordinated committee operations and communication between graduate students and departmental leadership;
+          organized meetings and agendas; represented student concerns at faculty meetings; oversaw the annual
+          graduate student conference, Diálogos XXII.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Social Chair, Graduate Student Advisory Committee
+        start_date: "May 2023"
+        end_date: "May 2024"
+        summary: >-
+          Planned monthly departmental social events, managed social media, helped organize fundraisers, and
+          supported the annual graduate student conference, Diálogos XXI.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Diálogos XX Conference Volunteer
+        start_date: "February 2023"
+        end_date: "February 2023"
+        summary: Assisted with conference-event setup.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Basic Language Program Pedagogical Materials Contributor
+        start_date: "Fall 2022"
+        end_date: Present
+        summary: Created tools that streamlined teaching administration and assessment of student work.
+
+      - company: The Phi Beta Kappa Association of Delaware Valley
+        position: Council Member
+        location: Pennsylvania
+        start_date: "October 2021"
+        end_date: "October 2022"
+        summary: >-
+          Helped oversee association events, finances, membership, public relations, relations with the national
+          society, and relationships with college and university chapters.
+
+      - company: The Phi Beta Kappa Association of Delaware Valley
+        position: Young Professionals Advisory Committee Member
+        location: Pennsylvania
+        start_date: "October 2020"
+        end_date: "August 2022"
+        summary: Served as a conversation facilitator and event leader for virtual and in-person chapter events.
+
+      - company: Canine Partners for Life
+        position: Staff Task Force & Focus Group Member
+        start_date: "February 2020"
+        end_date: "February 2021"
+        summary: Served on a committee addressing staff-suggested areas for organizational improvement.
+
+      - company: Canine Partners for Life
+        position: Employee Engagement Committee Member
+        start_date: "December 2019"
+        end_date: "February 2021"
+        summary: Organized virtual and in-person events that promoted connection across teams and management levels.
+
+    Professional Experience:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Graduate Assistant to the Director of Undergraduate Studies
+        location: Bloomington, IN
+        start_date: "August 2024"
+        end_date: "May 2026"
+        summary: >-
+          Supported outreach events for prospective undergraduate students; explained courses, extracurricular
+          opportunities, and study abroad; created promotional flyers, presentations, and brochures; and performed
+          basic data analysis for college reporting.
+
+      - company: Countdown
+        position: Administrative Assistant
+        location: Brooklyn, NY (remote)
+        start_date: "February 2022"
+        end_date: "May 2024"
+        summary: >-
+          Managed accounts receivable and payable, developed a tailored accounting system, reported on monthly
+          operations, and administered human-resources and compliance needs including benefits and insurance.
+
+      - company: Penn Rise Advisors
+        position: Client Service Associate
+        location: Parkesburg, PA
+        start_date: "February 2021"
+        end_date: "April 2022"
+        summary: >-
+          Administered insurance for individual and business clients, including applications, enrollment changes,
+          and account maintenance. Advocated for clients and investigated claims and processing issues.
+
+    Technical Competencies:
+      - name: Technical Skills
+        icon: fa-solid fa-code
+        keywords: "Python programming, Basic Corpus Query Language (CQL), R statistical software"
+
+      - name: Linguistic Analysis
+        icon: fa-solid fa-chart-column
+        keywords: >-
+          Qualtrics survey design and analysis, Descriptive statistics, Basic inferential statistics, Data
+          organization and visualization, Quantitative and qualitative data analysis, Research methods, Result
+          synthesis and reporting, Praat Acoustic Analysis, PsychoPy experimental software
+
+      - name: Clerical & Administration
+        icon: fa-solid fa-briefcase
+        keywords: >-
+          Project supervision, Document formatting and editing, Copywriting, Proofreading and editing, Microsoft
+          Office Suite, Google Suite, Customer Relationship Management (CRM), Canvas course administration,
+          Canva publishing and design
