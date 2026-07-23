@@ -16,7 +16,7 @@ Light verb constructions, or LVCs (e.g., dar un paseo, hacer una pregunta), are 
 - Structured data transformation
 - LLM-assisted semantic annotation
 
-The output is a structured dataset annotated with linguistic features such as predicate type, lexical aspect (Aktionsart), and animacy.
+The output is a structured dataset annotated with linguistic features such as predicate type, lexical aspect (*Aktionsart*), and animacy.
 
 ---
 
