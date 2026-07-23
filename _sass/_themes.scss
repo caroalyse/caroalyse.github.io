@@ -1,0 +1,231 @@
+/*******************************************************************************
+ * Caroline Amodeo Williams site palette and typography
+ ******************************************************************************/
+
+:root {
+  color-scheme: light;
+
+  --site-font-sans: "Atkinson Hyperlegible", "Segoe UI", sans-serif;
+  --site-font-serif: "Atkinson Hyperlegible", "Segoe UI", sans-serif;
+  --site-accent-color: #009e73;
+  --site-secondary-color: #e69f00;
+  --site-highlight-color: #56b4e9;
+
+  --global-bg-color: #fffdfc;
+  --global-code-bg-color: #f0f7f4;
+  --global-text-color: #28323c;
+  --global-text-color-light: #52606c;
+  /* #009e73 is retained above for non-text accents; #007a5e passes AA for links. */
+  --global-theme-color: #007a5e;
+  --global-hover-color: #006149;
+  --global-hover-text-color: #fffdfc;
+  --global-footer-bg-color: #28323c;
+  --global-footer-text-color: #f0f4f6;
+  --global-footer-link-color: #fffdfc;
+  --global-distill-app-color: #52606c;
+  --global-divider-color: rgb(40 50 60 / 16%);
+  --global-card-bg-color: #ffffff;
+  --global-highlight-color: #56b4e9;
+  --global-back-to-top-bg-color: rgb(40 50 60 / 72%);
+  --global-back-to-top-text-color: #fffdfc;
+  --global-newsletter-bg-color: #ffffff;
+  --global-newsletter-text-color: #28323c;
+
+  --global-tip-block: #009e73;
+  --global-tip-block-bg: #e2f5ee;
+  --global-tip-block-text: #235a49;
+  --global-tip-block-title: #007a5e;
+  --global-warning-block: #e69f00;
+  --global-warning-block-bg: #fff4d6;
+  --global-warning-block-text: #624400;
+  --global-warning-block-title: #805a00;
+  --global-danger-block: #b94444;
+  --global-danger-block-bg: #ffe8e8;
+  --global-danger-block-text: #6f2020;
+  --global-danger-block-title: #983535;
+
+  #light-toggle-system {
+    display: inline-block;
+  }
+
+  #light-toggle-dark,
+  #light-toggle-light {
+    display: none;
+  }
+
+  .only-light {
+    display: block;
+  }
+
+  .only-dark {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+    bottom: 30px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    z-index: 10;
+  }
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  --site-accent-color: #4fd1a5;
+  --site-secondary-color: #f2b84b;
+  --site-highlight-color: #7cc7f0;
+
+  --global-bg-color: #161d23;
+  --global-code-bg-color: #25343b;
+  --global-text-color: #f3f6f8;
+  --global-text-color-light: #bcc8d0;
+  --global-theme-color: #4fd1a5;
+  --global-hover-color: #75e4bc;
+  --global-hover-text-color: #161d23;
+  --global-footer-bg-color: #10161b;
+  --global-footer-text-color: #dce5e9;
+  --global-footer-link-color: #75e4bc;
+  --global-distill-app-color: #bcc8d0;
+  --global-divider-color: #46545e;
+  --global-card-bg-color: #202a32;
+  --global-highlight-color: #7cc7f0;
+  --global-back-to-top-bg-color: rgb(243 246 248 / 76%);
+  --global-back-to-top-text-color: #161d23;
+  --global-newsletter-bg-color: #202a32;
+  --global-newsletter-text-color: #f3f6f8;
+
+  --global-tip-block: #4fd1a5;
+  --global-tip-block-bg: #173e32;
+  --global-tip-block-text: #c8f6e5;
+  --global-tip-block-title: #75e4bc;
+  --global-warning-block: #f2b84b;
+  --global-warning-block-bg: #4a3510;
+  --global-warning-block-text: #ffe3a3;
+  --global-warning-block-title: #ffd27a;
+  --global-danger-block: #ff8a8a;
+  --global-danger-block-bg: #552626;
+  --global-danger-block-text: #ffd1d1;
+  --global-danger-block-title: #ffaaaa;
+
+  .only-light {
+    display: none;
+  }
+
+  .only-dark {
+    display: block;
+  }
+}
+
+html[data-theme-setting="dark"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    display: inline-block;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+  }
+}
+
+html[data-theme-setting="light"] {
+  #light-toggle-system,
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: inline-block;
+  }
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: var(--site-font-sans);
+}
+
+.card-text,
+table.table {
+  color: var(--global-text-color);
+}
+
+h1,
+h2,
+h3,
+.post-title,
+.navbar-brand {
+  font-family: var(--site-font-serif);
+  letter-spacing: -0.012em;
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+::selection {
+  color: #28323c;
+  background: #9ed8f5;
+}
+
+html[data-theme="dark"] ::selection {
+  color: #161d23;
+  background: #7cc7f0;
+}
+
+.fa-half-sun-moon {
+  position: relative;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  --fa-font: var(--fa-font-solid);
+  speak: none;
+  font: var(--fa-font);
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-half-sun-moon::before,
+.fa-half-sun-moon::after {
+  position: absolute;
+  inset: -0.5px 0;
+  color: var(--global-text-color);
+  text-align: center;
+  line-height: 1em;
+  font: var(--fa-font);
+}
+
+.fa-half-sun-moon::before {
+  content: "\f111";
+  clip-path: polygon(0 0, calc(50% - 0.5px) 0, calc(50% - 0.5px) 100%, 0 100%);
+}
+
+.fa-half-sun-moon::after {
+  content: "\f185";
+  clip-path: polygon(calc(50% + 0.5px) 0, 100% 0, 100% 100%, calc(50% + 0.5px) 100%);
+  right: -1.5px;
+  transform: translateX(-1px);
+}
+
+#light-toggle:hover .fa-half-sun-moon::before,
+#light-toggle:hover .fa-half-sun-moon::after {
+  color: var(--global-hover-color);
+}

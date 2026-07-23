@@ -1,0 +1,14 @@
+<ul class="cv-entry-list card-text font-weight-light">
+  {% for entry in entries %}
+    <li class="cv-entry-item">
+      <div class="cv-entry-grid">
+        <div class="cv-entry-meta">
+          <span class="cv-entry-label">{{ entry.name | default: entry.language }}</span>
+        </div>
+        <div class="cv-entry-content cv-entry-details">
+          {{ entry.summary | default: entry.fluency }}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

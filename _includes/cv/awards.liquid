@@ -1,0 +1,33 @@
+<ul class="cv-entry-list card-text font-weight-light">
+  {% for entry in entries %}
+    <li class="cv-entry-item">
+      <div class="cv-entry-grid">
+        <div class="cv-entry-meta">
+          {% if entry.date %}
+            <span class="cv-meta-badge">{{ entry.date }}</span>
+          {% endif %}
+        </div>
+
+        <div class="cv-entry-content">
+          {% if entry.title %}
+            <h6 class="cv-entry-title">
+              {% if entry.url %}
+                <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+              {% else %}
+                {{ entry.title }}
+              {% endif %}
+            </h6>
+          {% endif %}
+          {% if entry.awarder %}
+            <div class="cv-entry-subtitle">{{ entry.awarder }}</div>
+          {% endif %}
+          {% if entry.summary %}
+            <div class="cv-entry-secondary">
+              {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,57 @@
+<ul class="cv-entry-list card-text font-weight-light">
+  {% for entry in entries %}
+    <li class="cv-entry-item">
+      <div class="cv-entry-grid">
+        <div class="cv-entry-meta">
+          {% assign start_date = entry.start_date | default: entry.startDate %}
+          {% assign end_date = entry.end_date | default: entry.endDate %}
+          {% if start_date or end_date %}
+            <span class="cv-meta-badge">
+              {% if start_date and end_date %}
+                {{ start_date }}–{{ end_date }}
+              {% elsif end_date %}
+                {{ end_date }}
+              {% else %}
+                {{ start_date }}
+              {% endif %}
+            </span>
+          {% endif %}
+          {% if entry.location %}
+            <p class="cv-entry-location">
+              <i class="fa-solid fa-location-dot iconlocation"></i>
+              {{ entry.location }}
+            </p>
+          {% endif %}
+        </div>
+
+        <div class="cv-entry-content">
+          {% if entry.position %}
+            <h6 class="cv-entry-title">
+              {% if entry.url %}
+                <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.position }}</a>
+              {% else %}
+                {{ entry.position }}
+              {% endif %}
+            </h6>
+          {% endif %}
+          {% assign company = entry.company | default: entry.name | default: entry.organization %}
+          {% if company %}
+            <div class="cv-entry-subtitle">{{ company }}</div>
+          {% endif %}
+          {% if entry.summary %}
+            <div class="cv-entry-secondary">
+              {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+          {% endif %}
+          {% if entry.highlights %}
+            <div class="cv-entry-highlights">
+              {% for item in entry.highlights %}
+                <div>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

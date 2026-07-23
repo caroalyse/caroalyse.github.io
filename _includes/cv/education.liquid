@@ -1,0 +1,41 @@
+<ul class="cv-entry-list card-text font-weight-light">
+  {% for entry in entries %}
+    <li class="cv-entry-item">
+      <div class="cv-entry-grid">
+        <div class="cv-entry-meta">
+          {% assign end_year = entry.end_date | default: entry.endDate | default: entry.releaseDate %}
+          {% if end_year %}
+            {% assign end_year = end_year | split: '-' | first %}
+            <span class="cv-meta-badge">{{ end_year }}</span>
+          {% endif %}
+          {% if entry.location %}
+            <p class="cv-entry-location">
+              <i class="fa-solid fa-location-dot iconlocation"></i>
+              {{ entry.location }}
+            </p>
+          {% endif %}
+        </div>
+
+        <div class="cv-entry-content">
+          {% assign degree = entry.studyType | default: entry.degree %}
+          {% if degree %}
+            <h6 class="cv-entry-title">{{ degree }}</h6>
+          {% endif %}
+          {% if entry.institution %}
+            <div class="cv-entry-subtitle">{{ entry.institution }}</div>
+          {% endif %}
+          {% if entry.area %}
+            <div class="cv-entry-secondary">{{ entry.area }}</div>
+          {% endif %}
+          {% if entry.highlights %}
+            <div class="cv-entry-highlights">
+              {% for item in entry.highlights %}
+                <div>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

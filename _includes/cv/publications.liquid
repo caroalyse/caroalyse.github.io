@@ -1,0 +1,37 @@
+<ul class="cv-entry-list card-text font-weight-light">
+  {% for entry in entries %}
+    <li class="cv-entry-item">
+      <div class="cv-entry-grid">
+        <div class="cv-entry-meta">
+          {% assign publication_date = entry.releaseDate | default: entry.date %}
+          {% if publication_date %}
+            <span class="cv-meta-badge">{{ publication_date }}</span>
+          {% endif %}
+        </div>
+
+        <div class="cv-entry-content">
+          {% if entry.title %}
+            <h6 class="cv-entry-title">
+              {% if entry.url %}
+                <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+              {% else %}
+                {{ entry.title }}
+              {% endif %}
+            </h6>
+          {% endif %}
+          {% if entry.publisher %}
+            <div class="cv-entry-secondary">{{ entry.publisher }}</div>
+          {% endif %}
+          {% if entry.authors %}
+            <div class="cv-entry-subtitle">{{ entry.authors | join: ', ' }}</div>
+          {% endif %}
+          {% if entry.summary %}
+            <div class="cv-entry-details">
+              {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

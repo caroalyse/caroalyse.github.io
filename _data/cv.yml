@@ -1,6 +1,6 @@
 cv:
   name: Caroline Amodeo Williams
-  label: Ph.D. Student in Hispanic and Computational Linguistics
+  label: Ph.D. Student in Hispanic Linguistics and Computational Linguistics
   email: caramode@iu.edu
   location: Bloomington, IN
   image: ""
@@ -11,25 +11,25 @@ cv:
         location: Bloomington, IN
         area: Hispanic Linguistics
         studyType: Ph.D.
-        end_date: "Expected May 2029"
+        end_date: "2029 (expected)"
 
       - institution: Indiana University
         location: Bloomington, IN
         area: Computational Linguistics
         studyType: Ph.D.
-        end_date: "Expected May 2029"
+        end_date: "2029 (expected)"
 
       - institution: Indiana University
         location: Bloomington, IN
         area: Hispanic Linguistics
         studyType: M.A.
-        end_date: "May 2024"
+        end_date: 2024
 
       - institution: Virginia Polytechnic Institute and State University
         location: Blacksburg, VA
         area: Spanish
         studyType: B.A., summa cum laude
-        end_date: "May 2017"
+        end_date: 2017
         highlights:
           - Honors Baccalaureate Degree, Language Sciences
 
@@ -37,31 +37,7 @@ cv:
         location: Blacksburg, VA
         area: Music
         studyType: B.A., summa cum laude
-        end_date: "May 2017"
-
-    Publications:
-      - title: "SchoolOpsAI®: Helping School Leaders Turn Data Into Action; Evidence from a year-long pilot"
-        authors:
-          - Caroline Amodeo Williams
-        publisher: SchoolOpsAI®
-        releaseDate: 2026
-        url: https://www.schoolops.ai/blog/our-first-research-white-paper-is-here
-
-      - title: "What type is it? Exploring the polysemy of tipo with contextualized embeddings"
-        authors:
-          - Caroline Amodeo Williams
-          - Patrícia Amaral
-        publisher: Proceedings of the Linguistic Society of America, 11(1), 6145
-        releaseDate: 2026
-        url: https://doi.org/10.3765/plsa.v11i1.6145
-
-      - title: "¿Qué empezamos con?: Attitudes, input, and acceptance of preposition stranding in U.S. Spanish"
-        authors:
-          - Caroline Amodeo Williams
-          - Anthony Brandy
-        publisher: Isogloss. Open Journal of Romance Linguistics, 11(4), 1–36
-        releaseDate: 2025
-        url: https://doi.org/10.5565/rev/isogloss.506
+        end_date: 2017
 
     Selected Presentations & Workshops:
       - title: "Mapping meaning: a semantic network of tipo in European Portuguese"
@@ -120,80 +96,29 @@ cv:
         location: Miami, FL
         summary: Conference presentation at New Ways of Analyzing Variation (NWAV).
 
-    Teaching Experience:
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Associate Instructor of Spanish
-        location: Bloomington, IN
-        start_date: "August 2022"
-        end_date: Present
-        summary: >-
-          Instructor of record for undergraduate and graduate Spanish as a Second Language (L2) and Heritage
-          Language (HL) courses. Develop and deliver communicative and task-based instruction integrating grammar,
-          vocabulary, and cultural content through meaningful, real-world language use. Design exams, project-based
-          assessments, accessible course materials, and instructor resources. Teach in-person and synchronous online
-          courses using a flipped-classroom model and evidence-based L2 and HL pedagogy.
-        highlights:
-          - "HISP-S 105: Accelerated First Year Spanish (Fall 2022–Spring 2023)"
-          - "HISP-S 200: Intermediate Spanish, Level I (Fall 2023–Spring 2024)"
-          - "HISP-S 250: Intermediate Spanish, Level II (Fall 2024; Summer 2025 online)"
-          - "HISP-S 280: Spanish Grammar in Context (Spring 2025–Fall 2025)"
-          - "HISP-S 281: Advanced Spanish for Heritage Speakers (Spring 2026–Fall 2026)"
-          - "HISP-S 492: Readings in Spanish for Graduate Students (Summer 2026 online)"
+    Publications:
+      - title: "SchoolOpsAI®: Helping School Leaders Turn Data Into Action; Evidence from a year-long pilot"
+        authors:
+          - Caroline Amodeo Williams
+        publisher: SchoolOpsAI®
+        releaseDate: 2026
+        url: https://www.schoolops.ai/blog/our-first-research-white-paper-is-here
 
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Tutor
-        location: Bloomington, IN
-        start_date: "August 2024"
-        end_date: "August 2025"
-        summary: >-
-          Provided individualized academic support to undergraduate students, including support for Spanish
-          language courses, project management, academic writing, and exam preparation.
+      - title: "What type is it? Exploring the polysemy of tipo with contextualized embeddings"
+        authors:
+          - Caroline Amodeo Williams
+          - Patrícia Amaral
+        publisher: Proceedings of the Linguistic Society of America, 11(1), 6145
+        releaseDate: 2026
+        url: https://doi.org/10.3765/plsa.v11i1.6145
 
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Teaching Assistant
-        location: Bloomington, IN
-        start_date: "May 2023"
-        end_date: "August 2025"
-        summary: >-
-          Assisted Dr. Laura Gurzynski-Weiss with SPAN-T510, Second Language Acquisition for Spanish Teaching,
-          by reviewing student assignments and supporting online course administration and correspondence.
-        highlights:
-          - Appointments held May–August 2023 and May–August 2025.
-
-    Honors, Awards & Grants:
-      - title: College of Arts and Sciences Travel Award
-        date: "Fall 2025"
-        awarder: Indiana University
-        summary: "$750"
-
-      - title: Foreign Language and Area Studies Fellowship (FLAS)
-        date: "Summer 2024"
-        awarder: Indiana University
-        summary: "$9,000"
-
-      - title: Department of Spanish & Portuguese Start-Up Funds
-        date: 2022–2023
-        awarder: Indiana University
-        summary: "$3,000"
-
-      - title: The Phi Beta Kappa Honors Society
-        date: "May 2017"
-
-      - title: The Phi Kappa Phi Honors Society
-        date: "April 2015"
-
-      - title: Calhoun Liberal Arts Scholar
-        date: 2013–2017
-        awarder: Virginia Tech Honors College
-        summary: "$40,000 Honors College scholarship"
-
-      - title: Outstanding Major Award
-        date: 2017
-        awarder: Department of Modern and Classical Languages and Literatures
-
-      - title: Aspire! Award for Curiosity
-        date: "April 2015"
-        summary: Recognized a lifelong commitment to intellectual development.
+      - title: "¿Qué empezamos con?: Attitudes, input, and acceptance of preposition stranding in U.S. Spanish"
+        authors:
+          - Caroline Amodeo Williams
+          - Anthony Brandy
+        publisher: Isogloss. Open Journal of Romance Linguistics, 11(4), 1–36
+        releaseDate: 2025
+        url: https://doi.org/10.5565/rev/isogloss.506
 
     Research Experience:
       - company: SchoolOpsAI®
@@ -230,10 +155,48 @@ cv:
           and Williams (2016) by adding a third data-collection point to increase the longitudinal scope of a
           study-abroad corpus and examining learners’ gender marking from a variationist perspective.
 
+    Teaching Experience:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Associate Instructor of Spanish
+        location: Bloomington, IN
+        start_date: "August 2022"
+        end_date: Present
+        summary: >-
+          Instructor of undergraduate and graduate Spanish as a Second Language
+          and Heritage Language courses, using communicative and
+          task-based approaches informed by current research in language pedagogy.
+        highlights:
+          - "HISP-S 105: Accelerated First Year Spanish (FA22–SP23)"
+          - "HISP-S 200: Intermediate Spanish, Level I (FA23–SP24)"
+          - "HISP-S 250: Intermediate Spanish, Level II (FA24, SU25 online)"
+          - "HISP-S 280: Spanish Grammar in Context (SP5–FA25)"
+          - "HISP-S 281: Advanced Spanish for Heritage Speakers (SP26–FA26)"
+          - "HISP-S 492: Readings in Spanish for Graduate Students (SU26 online)"
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Teaching Assistant
+        location: Bloomington, IN
+        start_date: "May 2023"
+        end_date: "August 2025"
+        summary: >-
+          Graduate Teaching Assistant for Second Language Acquisition
+          for Spanish Teaching, supporting assignment evaluation and
+          online course administration.
+        highlights:
+          - Appointments held May–August 2023 and May–August 2025.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Tutor
+        location: Bloomington, IN
+        start_date: "August 2024"
+        end_date: "August 2025"
+        summary: >-
+          Provided individualized academic support to undergraduate students, including support for Spanish
+          language courses, project management, academic writing, and exam preparation.
+
     Evidence of Teaching Engagement:
       - company: Indiana University Department of Spanish & Portuguese
         position: Seminar on Task-Based Language Teaching
-        start_date: "Spring 2025"
         end_date: "Spring 2025"
         summary: >-
           Developed practical and theoretical expertise in task-based language teaching. Designed and evaluated
@@ -242,7 +205,7 @@ cv:
 
       - company: Graduate Student Learning Community
         position: Strengthening Teaching Methods and Pedagogies
-        start_date: "Spring 2024"
+        #start_date: "Spring 2024"
         end_date: "Spring 2024"
         summary: >-
           Strengthened evidence-based, inclusive teaching methods in a semester-long learning community and earned
@@ -252,11 +215,10 @@ cv:
           - Designing Engaging Lectures
           - Strengthen Students’ Long-term Retention
           - Get Students to Interact Remotely
-          - Developing your Teaching Philosophy Statement for a Faculty Job Search
 
       - company: Indiana University Department of Spanish & Portuguese
         position: Heritage Language Pedagogy
-        start_date: "Spring 2023"
+        #start_date: "Spring 2023"
         end_date: "Spring 2023"
         summary: >-
           Developed pedagogical skills focused on Spanish heritage learners, language maintenance, and multilingual
@@ -264,88 +226,14 @@ cv:
 
       - company: Indiana University Department of Spanish & Portuguese
         position: Second Language Teaching Methods
-        start_date: "Fall 2022"
+        #start_date: "Fall 2022"
         end_date: "Fall 2022"
         summary: >-
           Built foundational knowledge of task-based university-level second-language instruction and empirically
           supported research on instructed second language acquisition. Developed instructional materials and
           workshopped pedagogical techniques.
 
-    Languages:
-      - name: English
-        summary: Native
-
-      - name: Spanish
-        summary: Near native
-
-      - name: Portuguese
-        summary: Advanced intermediate (B2)
-
-      - name: Italian
-        summary: Intermediate
-
-      - name: French
-        summary: Reading proficiency
-
-    Professional Service:
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Co-Chair, Graduate Student Advisory Committee
-        start_date: "May 2025"
-        end_date: "May 2026"
-        summary: >-
-          Coordinated committee operations and communication between graduate students and departmental leadership;
-          organized meetings and agendas; represented student concerns at faculty meetings; oversaw the annual
-          graduate student conference, Diálogos XXII.
-
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Social Chair, Graduate Student Advisory Committee
-        start_date: "May 2023"
-        end_date: "May 2024"
-        summary: >-
-          Planned monthly departmental social events, managed social media, helped organize fundraisers, and
-          supported the annual graduate student conference, Diálogos XXI.
-
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Diálogos XX Conference Volunteer
-        start_date: "February 2023"
-        end_date: "February 2023"
-        summary: Assisted with conference-event setup.
-
-      - company: Indiana University Department of Spanish & Portuguese
-        position: Basic Language Program Pedagogical Materials Contributor
-        start_date: "Fall 2022"
-        end_date: Present
-        summary: Created tools that streamlined teaching administration and assessment of student work.
-
-      - company: The Phi Beta Kappa Association of Delaware Valley
-        position: Council Member
-        location: Pennsylvania
-        start_date: "October 2021"
-        end_date: "October 2022"
-        summary: >-
-          Helped oversee association events, finances, membership, public relations, relations with the national
-          society, and relationships with college and university chapters.
-
-      - company: The Phi Beta Kappa Association of Delaware Valley
-        position: Young Professionals Advisory Committee Member
-        location: Pennsylvania
-        start_date: "October 2020"
-        end_date: "August 2022"
-        summary: Served as a conversation facilitator and event leader for virtual and in-person chapter events.
-
-      - company: Canine Partners for Life
-        position: Staff Task Force & Focus Group Member
-        start_date: "February 2020"
-        end_date: "February 2021"
-        summary: Served on a committee addressing staff-suggested areas for organizational improvement.
-
-      - company: Canine Partners for Life
-        position: Employee Engagement Committee Member
-        start_date: "December 2019"
-        end_date: "February 2021"
-        summary: Organized virtual and in-person events that promoted connection across teams and management levels.
-
-    Professional Experience:
+    Administrtaive Experience:
       - company: Indiana University Department of Spanish & Portuguese
         position: Graduate Assistant to the Director of Undergraduate Studies
         location: Bloomington, IN
@@ -373,6 +261,93 @@ cv:
         summary: >-
           Administered insurance for individual and business clients, including applications, enrollment changes,
           and account maintenance. Advocated for clients and investigated claims and processing issues.
+
+    Service:
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Co-Chair, Graduate Student Advisory Committee
+        start_date: "May 2025"
+        end_date: "May 2026"
+        summary: >-
+          Coordinated committee operations and communication between graduate students and departmental leadership;
+          organized meetings and agendas; represented student concerns at faculty meetings; oversaw the annual
+          graduate student conference, Diálogos XXII.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Social Chair, Graduate Student Advisory Committee
+        start_date: "May 2023"
+        end_date: "May 2024"
+        summary: >-
+          Planned monthly departmental social events, managed social media, helped organize fundraisers, and
+          supported the annual graduate student conference, Diálogos XXI.
+
+      - company: Indiana University Department of Spanish & Portuguese
+        position: Basic Language Program Pedagogical Materials Contributor
+        start_date: "Fall 2022"
+        end_date: Present
+        summary: Created tools that streamlined teaching administration and assessment of student work.
+
+      - company: The Phi Beta Kappa Association of Delaware Valley
+        position: Council Member
+        location: Pennsylvania
+        start_date: "October 2021"
+        end_date: "October 2022"
+        summary: >-
+          Helped oversee association events, finances, membership, public relations, relations with the national
+          society, and relationships with college and university chapters.
+
+      - company: The Phi Beta Kappa Association of Delaware Valley
+        position: Young Professionals Advisory Committee Member
+        location: Pennsylvania
+        start_date: "October 2020"
+        end_date: "August 2022"
+        summary: Served as a conversation facilitator and event leader for virtual and in-person chapter events.
+
+    Honors, Awards & Grants:
+      - title: College of Arts and Sciences Travel Award
+        date: 2025
+        awarder: Indiana University
+        summary: "$750"
+
+      - title: Foreign Language and Area Studies Fellowship (FLAS)
+        date: 2024
+        awarder: Indiana University
+        summary: "$9,000"
+
+      - title: Department of Spanish & Portuguese Start-Up Funds
+        date: 2022
+        awarder: Indiana University
+        summary: "$3,000"
+
+      - title: The Phi Beta Kappa Honors Society
+        date: 2017
+
+      - title: The Phi Kappa Phi Honors Society
+        date: 2015
+
+      - title: Calhoun Liberal Arts Scholar
+        date: 2013–2017
+        awarder: Virginia Tech Honors College
+        summary: "$40,000 Honors College scholarship"
+
+      - title: Outstanding Major Award
+        date: 2017
+        awarder: Department of Modern and Classical Languages and Literatures
+
+    Languages:
+      - name: English
+        summary: Native
+
+      - name: Spanish
+        summary: Near native
+
+      - name: Portuguese
+        summary: Advanced intermediate (B2)
+
+      - name: Italian
+        summary: Intermediate
+
+      - name: French
+        summary: Reading proficiency
 
     Technical Competencies:
       - name: Technical Skills

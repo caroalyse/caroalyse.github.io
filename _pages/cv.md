@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
 description: Curriculum vitae for Caroline Amodeo Williams.
+cv_format: rendercv
+cv_pdf: /assets/pdf/caroline-amodeo-williams-cv.pdf
 ---
-
-[Download my CV (PDF)]({{ '/assets/pdf/caroline-amodeo-williams-cv.pdf' | relative_url }}){: .btn .btn-sm .btn-outline-primary }
