@@ -157,6 +157,16 @@ cv:
 
     Teaching Experience:
       - company: Indiana University Department of Spanish & Portuguese
+        position: Teaching Assistant for Computational Linguistics
+        location: Bloomington, IN
+        start_date: "August 2026"
+        end_date: Present
+        summary: >-
+          Provide instructional support for undergraduate and graduate coursework in computational linguistics and programming, including in-class instruction and office hours.
+        highlights:
+          - "LING-L235/555: Foundations of Computational Linguistics" 
+          
+      - company: Indiana University Department of Spanish & Portuguese
         position: Associate Instructor of Spanish
         location: Bloomington, IN
         start_date: "August 2022"
